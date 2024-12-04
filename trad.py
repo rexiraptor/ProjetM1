@@ -16,13 +16,9 @@ def translate_DAIC():
     data_path = os.path.join(os.path.dirname(__file__), "datasets/data/DAIC-WOZ")
     data_fr_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr/DAIC-WOZ_FR")
     files = os.listdir(data_path)
-    files_fr = os.listdir(data_fr_path)
+    # files_fr = os.listdir(data_fr_path)
     # DAIC-WOZ
     for file in files:
-        if "FR_" + file in files_fr:
-            continue
-        if len(files) % 10 == 0:
-            print(f"Traduction de {file} en cours... (DAIC-WOZ)")
         data = pd.read_csv(os.path.join(data_path, file), sep="\t")
         df_fr = pd.DataFrame(columns=["speaker", "original", "traduit"])
         for line in data.iterrows():
@@ -62,6 +58,33 @@ def translate_DAMT():
         df_fr.to_csv(os.path.join(data_fr_path, "FR_" + file.split(".")[0] + ".csv"), sep="\t", index=False)
     print("Le dossier DAMT traduit avec succès !")
 
-translate_DAIC()
-translate_DAMT()
+def translate_DAIC_2():
+    data_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr/DAIC-WOZ_FR")
+    files = os.listdir(data_path)
+    data_fr_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr/DAIC-WOZ_FR2")
+    for file in files: 
+        df_fr = pd.DataFrame(columns=["speaker", "original", "traduit"])
+        df = pd.read_csv(os.path.join(data_path, file), sep="\t")
+        df['group'] = (df['speaker'] != df['speaker'].shift()).cumsum()
+        # Regrouper par ces nouveaux groupes
+        grouped_df = df.groupby(['group', 'speaker']).agg({
+            "original": " ".join,
+            "traduit": " ".join
+        }).reset_index()
+        # Supprimer la colonne "group" si inutile
+        grouped_df = grouped_df.drop(columns=["group"])
+        # print(grouped_df.head())
+        for line in grouped_df.iterrows():
+            dialog = line[1]["original"]
+            speaker = line[1]["speaker"]
+            tokenized_text = tokenizer(dialog, return_tensors="pt", padding=True)
+            translated = model.generate(**tokenized_text)
+            tempo = pd.DataFrame(columns=["speaker", "original", "traduit"], data=[[speaker, dialog, tokenizer.decode(translated[0], skip_special_tokens=True)]])
+            df_fr = pd.concat([df_fr, tempo], ignore_index=True)
+        df_fr.to_csv(os.path.join(data_fr_path, file), sep="\t", index=False)
+        print("Fichier traduit")
+
+# translate_DAIC()
+# translate_DAMT()
+translate_DAIC_2()
 print("Traduction terminée !")
