@@ -26,7 +26,7 @@ def stats_morpho(texte):
             total_count += 1
             if token.pos_ in pos_counts:
                 pos_counts[token.pos_] += 1
-
+                
     # pos_rates = {pos: count / total_count for pos, count in pos_counts.items()}
     return pos_counts, total_count
     # print(f"Le nombre total de tokens: {total_count}")
@@ -66,3 +66,5 @@ def stats_morpho_all(file_path):
     print("POS Rates:")
     for pos, rate in pos_rates.items():
         print(f"{pos}: {rate:.3f}")
+
+stats_morpho_all(os.path.join(dataset_path, "DAMT_FR/FR_D0420-S1-T01.csv"))
