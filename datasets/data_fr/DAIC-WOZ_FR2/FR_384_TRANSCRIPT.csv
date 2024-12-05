@@ -1,0 +1,144 @@
+speaker	original	traduit
+2	<sync>	<sync>
+1	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)	IntroV4Confirmation ( salut je suis ellie merci d'être venu aujourd'hui j'ai été créé pour parler aux gens dans un environnement sûr et sécurisé je ne suis pas un thérapeute mais je suis ici pour apprendre sur les gens et j'aimerais apprendre sur vous je vais poser quelques questions pour nous faire commencer et s'il vous plaît n'hésitez pas à me dire tout ce que vos réponses sont totalement confidentielles êtes-vous d'accord avec cela)
+2	yes	oui
+1	okay_confirm (okay) how_doingV (so how are you doing today)	OK_confirmer (OKY) comment_faireV (ainsi comment allez-vous aujourd'hui)
+2	i'm doing fine	Je vais bien.
+1	thats_good (that's good) where_originally (where are you from originally)	thats_good (c'est bien) où_originalement (d'où êtes-vous à l'origine)
+2	indiana	indiana
+1	really (really)	Vraiment (vraiment)
+2	yes	oui
+1	when_LA (when did you move to l_a)	quand _LA (quand avez-vous déménagé à l_a)
+2	uh i don't know maybe ten years ago	Je ne sais pas, il y a peut-être dix ans.
+1	often_backB (how often do you go back to your hometown)	souvent_backB (combien de fois retournez-vous dans votre ville natale)
+2	never	jamais
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	uh just don't like the cold weather	uh juste n'aime pas le temps froid
+1	see_mean (i see what you mean) compares_LA (how does it compare to l_a)	voir_moyen (je vois ce que vous voulez dire) compare_LA (comment se compare-t-il à l_a)
+2	l_a has beautiful weather and activities all the time	l_a a de beaux temps et des activités tout le temps
+1	why_LA (why did you move to l_a)	Pourquoi ?LA (pourquoi avez-vous déménagé à l_a)
+2	new life	une nouvelle vie
+1	adapted_LA (how easy was it for you to get used to living in l_a)	Adapté_LA (comment était-il facile pour vous de vous habituer à l_a)
+2	uh reasonably easy	uh assez facile
+1	like_about_LA (what are some things you really like about l_a)	genre_about_LA (quelles sont certaines choses que vous aimez vraiment à propos de l_a)
+2	the good weather the ocean and there's always something to do	le beau temps de l'océan et il y a toujours quelque chose à faire
+1	mhm (mhm) dont_like_LA (what are some things you don't really like about l_a)	mhm (mhm) dont_like_LA (quelles sont certaines choses que vous n'aimez pas vraiment à propos de l_a)
+2	hm uh the traffic	hm uh le trafic
+1	travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)	Travel_shoes (je suis sûr que vous pouvez dire par mes chaussures que je ne suis pas beaucoup un explorateur du monde que vous voyagez beaucoup)
+2	sometimes	parfois
+1	travel_changed (what do you enjoy about traveling)	voyage_changement (qu'est-ce qui vous plaît à voyager)
+2	seeing new places uh and visiting new people	voir de nouveaux endroits et visiter de nouvelles personnes
+1	travel_trips (i'd love to hear about one of your trips)	Voyage _voyages (j'adorerais entendre parler d'un de vos voyages)
+2	well a couple years ago i went to the catalina islands for my birthday	Il y a quelques années, je suis allé aux îles Catalina pour mon anniversaire.
+1	nice (nice) tell_about_that (can you tell me about that)	Bien (bien) dites-moi ça (vous pouvez m'en parler)
+2	i was i spent the whole day uh on the catalina islands i took a boat there	J'ai passé toute la journée sur les îles Catalina. J'y ai pris un bateau.
+1	memorableB (what's one of your most memorable experiences)	mémorableB (ce qui est l'une de vos expériences les plus mémorables)
+2	uh hopping on the airplane and leaving indiana for good	uh sauter dans l'avion et quitter Indiana pour de bon
+1	describe_felt (how did you feel in that moment)	décrivez_felt (comment avez-vous ressenti à ce moment-là)
+2	okay	Très bien.
+1	okay_confirm (okay) study (what did you study at school)	OK_confirmer (OK) étudier (qu'avez-vous étudié à l'école)
+2	sleeping	dormir
+1	job_virtually (i love my job you could almost say it's virtually made for me what's your dream job)	job_virtually (j'aime mon travail vous pourriez presque dire que c'est pratiquement fait pour moi quel est votre travail de rêve)
+2	uh being a filmmaker	uh être un cinéaste
+1	sounds_interesting (that sounds interesting) hard_decision (how did you decide to do that)	sons_intéressants (qui sonne intéressant) hard_decision (comment avez-vous décidé de faire cela)
+2	because it's one job i haven't had yet	parce que c'est un travail que je n'ai pas encore eu
+1	difficult (how hard is that)	difficile (comment difficile est-ce)
+2	not too hard	pas trop dur
+1	shyoutgoing (do you consider yourself more shy or outgoing)	timingoutway (vous considérez-vous plus timide ou sortant)
+2	shy	timide
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	hm because of my past	Hm à cause de mon passé
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	um i just have trouble making new friends and just let <l> trusting people	J'ai juste du mal à me faire de nouveaux amis et juste laisser <l> faire confiance aux gens
+1	been_hard (that sounds really hard)	a été _dur (ça sonne vraiment dur)
+2	okay	Très bien.
+1	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)	relax_fishtank (parfois quand je me sens tendu, j'allume l'écran d'écran du réservoir de poisson hey je sais que ce n'est pas hawaii mais c'est le meilleur que j'ai ce que vous faites pour vous détendre)
+2	uh watch t_v or go to the movies	uh regarder t_v ou aller au cinéma
+1	cool3 (cool) control_temper (how are you at controlling your temper)	cool3 (cool) control_temper (comment contrôlez-vous votre tempérament)
+2	i really don't have a temper	Je n'ai vraiment pas de caractère.
+1	thats_good (that's good) last_argument (when was the last time you argued with someone and what was it about)	thats_good (c'est bien) last_argument (quand a été la dernière fois que vous avez discuté avec quelqu'un et de quoi il s'agissait)
+2	when i was sixteen my stepfather uh because of uh nightmares i was having	Quand j'avais seize ans, mon beau-père, à cause des cauchemars que j'avais.
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	i was just having nightmares about my childhood about my involving my biological father	Je faisais juste des cauchemars sur mon enfance à propos de ma participation à mon père biologique
+1	trigger (are they triggered by something)	déclencheur (sont-ils déclenchés par quelque chose)
+2	so far i have no idea if they are or not	jusqu'à présent, je n'ai aucune idée s'ils le sont ou non
+1	symptoms_cope (how do you cope with them)	symptômes_copie (comment faites-vous face à eux)
+2	uh go for a walk or drive	uh allez faire un tour ou conduire
+1	bouts_symptoms (when was the last time that happened)	bouts_symptômes (quand était la dernière fois qui s'est produite)
+2	uh maybe a few days ago	Il y a peut-être quelques jours.
+1	describe_felt (how did you feel in that moment)	décrivez_felt (comment avez-vous ressenti à ce moment-là)
+2	uh just walked around the block a few times	J'ai juste marché quelques fois dans le quartier.
+1	okay_confirm (okay) feelguilty (what's something you feel guilty about)	OK_confirmer (OKY) se sentir coupable (de quoi vous vous sentez coupable)
+2	pushing people away	Pousser les gens loin
+1	avoid (could you have done anything to avoid it)	éviter (vous auriez pu faire n'importe quoi pour l'éviter)
+2	uh i guess try to trust them a little bit more let them in my life little bit more	Euh, j'imagine essayer de leur faire confiance un peu plus de les laisser dans ma vie un peu plus
+1	memory_erase (tell me about an event or something that you wish you could erase from your memory)	memory_erase (dis-moi un événement ou quelque chose que tu souhaites pouvoir effacer de ta mémoire)
+2	well that'd be easy that'd be the first half of my life	Ce serait facile, ce serait la première moitié de ma vie.
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	it'd be easier to start a new life if i can't remember my old one <laughter>	ce serait plus facile de commencer une nouvelle vie si je ne me souviens pas de mon ancien <rire>
+1	see_mean (i see what you mean) hard_decisionB (tell me about the hardest decision you've ever had to make)	voir_moyen (je vois ce que vous voulez dire) hard_decisionB (dis-moi la décision la plus difficile que tu aies jamais eue à prendre)
+2	uh really i mm all my decisions is not that hard i just try to avoid stress and everything so i don't really have hard decisions	Toutes mes décisions ne sont pas si difficiles que ça que j'essaie d'éviter le stress et tout, donc je n'ai pas vraiment de décisions difficiles.
+1	uh_huh (uh huh) situation_handled (tell me about a situation that you wish you had handled differently)	uh_huh (uh huh) situation_handled (renseignez-moi sur une situation que vous souhaitez avoir traitée différemment)
+2	uh well every time i push someone away i wish i handled all those situations differently	Eh bien, à chaque fois que je repousse quelqu'un, j'aimerais gérer toutes ces situations différemment.
+1	give_example (can you give me an example of that)	give_exemple (pourriez-vous me donner un exemple de cela)
+2	uh well uh whenever someone gets too involved <volve> involved in my life i always say or do something to make them want to stay away from me	uh bien uh quand quelqu'un est trop impliqué <volve> impliqué dans ma vie je dis toujours ou fais quelque chose pour qu'ils veuillent rester loin de moi
+1	like_what (like what)	comme_quoi (comme quoi)
+2	um this depending on the type of person they are	um ceci en fonction du type de personne qu'ils sont
+1	okay_confirm (okay) family_relationship (tell me about your relationship with your family)	OK_confirmer (OKY) famille_relationship (parlez-moi de votre relation avec votre famille)
+2	uh i really don't have a relationship with any of my family i know i have a sister someplace in vegas a half of a brother in indiana uh my stepfather's in arizona other than that i have no relationship with any of them	Je n'ai vraiment pas de relation avec ma famille, je sais que j'ai une sœur quelque part dans vegas la moitié d'un frère en indiana, mon beau-père est en arizona, sinon que je n'ai aucune relation avec eux.
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	um we really don't talk so it's kind of hard to talk about them <laughter>	On ne parle vraiment pas alors c'est un peu dur de parler d'eux <rires>
+1	influence_positive (who's someone that's been a positive influence in your life)	influence_positive (qui est quelqu'un qui a été une influence positive dans votre vie)
+2	edgar cayce	Cayce d'œdgar
+1	love_hear (i'd love to hear all about it)	love_hear (j'aimerais tout entendre)
+2	well he died way before i was born and i only know him from like books and documentaries	Il est mort bien avant ma naissance et je ne le connais que de livres et de documentaires.
+1	okay_confirm (okay) easy_sleep (how easy is it for you to get a good night's sleep)	okay_confirmer (OKY) easy_sleep (comment est-il facile pour vous d'avoir une bonne nuit de sommeil)
+2	uh really not that easy um i usually <use> usually take me like a few hours to get to finally get to sleep once i lay down in my bed	uh vraiment pas si facile um j'habituellement <use> habituellement prendre quelques heures pour arriver enfin à dormir une fois que j'ai couché dans mon lit
+1	tell_me_about (tell me about that)	me parler de ça (renseignez-moi à ce sujet)
+2	uh well basically i try to lay down i have stressful <s> racing or stressful thoughts a few times i might even try to listen to music for one hour just to see if it calms me down	Eh bien, en gros j'essaie de m'allonger j'ai des pensées stressantes de course ou stressantes quelques fois je pourrais même essayer d'écouter de la musique pendant une heure juste pour voir si ça me calme
+1	sleep_affects (what are you like when you don't sleep well)	dorm_affectes (quelle est votre situation quand vous ne dormez pas bien)
+2	stressed out and just yeah just basically a little stressed out	stressé et juste ouais juste en gros un peu stressé
+1	feel_lately (how have you been feeling lately)	(comment vous sentez-vous récemment)
+2	well i've been feeling a little bit lately <leet> a little bit upset and just wish my life was different	Eh bien, je me suis senti un peu un peu un peu en colère ces derniers temps et j'aurais aimé que ma vie soit différente.
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	uh well i wish i had friends and loved ones and all of that and i wish i had an actual relationship and everything but i don't	Eh bien, j'aimerais avoir des amis et des êtres chers et tout ça et j'aimerais avoir une vraie relation et tout, mais je ne le fais pas.
+1	yeah_downer (yeah) behavior_changes (have you noticed any changes in your behavior or thoughts lately)	eye_downer (yeah) comportement_changements (avez-vous remarqué tout changement dans votre comportement ou vos pensées dernièrement)
+2	well lately i live <li> i move we moved a bunch of stuff <st> things out my stress <st> life stressful things like bills and what not and just  try to keep uh to make sure there's the least amount of stress in my life by just removing just different things out my life and trying to incorporate new things	Eh bien ces derniers temps, je vis <li> je bouge nous avons déplacé un tas de choses <st> choses hors de mon stress <st> choses stressantes de la vie comme les factures et quoi pas et juste essayer de garder uh pour s'assurer qu'il ya la moindre quantité de stress dans ma vie en éliminant juste des choses différentes de ma vie et en essayant d'incorporer de nouvelles choses
+1	Ellie17Dec2012_03 (that's good) ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)	Ellie17Dec2012_03 (c'est bien) ptsd_diagnostic (avez-vous déjà été diagnostiqué avec p_t_s_d)
+2	yes	oui
+1	when_diagnosed (how long ago were you diagnosed)	quand_diagnostic (il y a combien de temps avez-vous été diagnostiqué)
+2	i i guess we're number sixteen	Je suppose qu'on est le numéro seize.
+1	why_seek_help (what got you to seek help)	why_seek_help (qu'est-ce qui vous a amené à chercher de l'aide)
+2	nightmares	cauchemars
+1	therapy_going (do you still go to therapy now)	thérapie_en cours (Allez-vous toujours à la thérapie maintenant)
+2	uh stopped a while back because it was getting too stressful	Il s'est arrêté il y a un moment parce que ça devenait trop stressant
+1	therapist_affect (how has seeing a therapist affected you)	thérapeute_affect (comment a-t-il vu un thérapeute vous a affecté)
+2	well basically i just i just pushed like i got rid of them out my life because i didn't feel like they was really listening to me or anything and uh yeah so i just didn't feel too much beneficial help from them  so i've been looking for alternative means	En gros, j'ai juste poussé comme si j'avais été débarrassé d'eux de ma vie parce que je n'avais pas l'impression qu'ils m'écoutaient vraiment ou quoi que ce soit et euh oui donc je n'ai pas eu trop d'aide bénéfique d'eux donc j'ai été à la recherche de moyens alternatifs
+1	like_what (like what)	comme_quoi (comme quoi)
+2	uh well just basically like music and going forcing myself to go to like different social related events	Eh bien, tout simplement comme la musique et aller me forcer à aller à des événements sociaux différents
+1	mhm (mhm) depression_diagnosed (have you been diagnosed with depression)	mhm (mhm) dépression_diagnostic (avez-vous reçu un diagnostic de dépression)
+2	yes	oui
+1	symptoms_what (what were your symptoms)	symptômes_quels (quels étaient vos symptômes)
+2	depressed mm just but basically just depressed uh keeping myself locked in not talking to anyone	dépressif mm juste mais en gros juste dépressif euh me tenir enfermé dans ne pas parler à quelqu'un
+1	happy_lasttime (tell me about the last time you felt really happy)	happy_lasttime (dis-moi la dernière fois que tu t'es sentie vraiment heureuse)
+2	uh uh i guess a few days ago	Je crois qu'il y a quelques jours.
+1	Ellie17Dec2012_02 (uh huh) tell_about_that (can you tell me about that)	Ellie17Dec2012_02 (uh huh) raconte_à propos_que (peux-tu m'en parler)
+2	okay well basically i feel that the best way to keep people in my life is having fake people in my life by playing online multiplayer games with avatars and user names and everything and i just have some uh fun going into virtual worlds with these avatars and talking to people that way so they don't know who i really am they don't even know my real name	Ok bien fondamentalement je pense que la meilleure façon de garder les gens dans ma vie est d'avoir de faux gens dans ma vie en jouant à des jeux multijoueurs en ligne avec des avatars et des noms d'utilisateurs et tout et j'ai juste un certain uh amusant aller dans les mondes virtuels avec ces avatars et parler aux gens de cette façon afin qu'ils ne savent pas qui je suis vraiment ils ne connaissent même pas mon vrai nom
+1	awesome (awesome) ideal_weekendC (tell me how you spend your ideal weekend)	génial (impressionnant) idéal_weekendC (dis-moi comment tu passes ton week-end idéal)
+2	okay well my ideal weekend uh let me see is uh if i'm not working that weekend i will get up maybe go to like starbucks or a mcdonalds get online while eating or drinking something maybe play a online multiplayer game for a little while and then later on in the day maybe go to a movie uh whatever's playing then uh go someplace else relax watch some t_v um and maybe put on a d_v_d movie and um or i might spend the day i the whole day driving to someplace i  haven't been before or it's been a long time since i've been just try to spend the day in that area and just yeah so that's the weekend	Ok bien mon week-end idéal uh laissez-moi voir est uh si je ne travaille pas ce week-end je vais peut-être aller à comme starbucks ou un mcdonalds se mettre en ligne tout en mangeant ou en buvant quelque chose peut-être jouer un jeu multijoueur en ligne pendant un peu de temps et puis plus tard dans la journée peut-être aller à un film uh quoi que ce soit qui joue alors uh aller ailleurs relax regarder un t_v um et peut-être mettre sur un film d_v_d et um ou je pourrais passer la journée j'ai toute la journée en voiture à un endroit que je n'ai pas été avant ou ça fait longtemps depuis que j'ai juste essayé de passer la journée dans cette région et juste oui c'est le week-end
+1	uh_huh (uh huh) regret (is there anything you regret)	uh_huh (heu) regret (y a-t-il quelque chose que vous regrettez)
+2	my life	ma vie
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	i just regret how my life turned out i wish i wish i had a more normal stable life	Je regrette juste comment ma vie s'est passée je souhaite que j'aie une vie stable plus normale
+1	advice_back (what advice would you give to yourself ten or twenty years ago)	conseil_back (quel conseil donneriez-vous il y a dix ou vingt ans)
+2	uh let me see ten twenty years ago i was especially uh i would just tell myself to keep a journal or something <s> uh or  to basically tell myself how my life will turn out now so that way hopefully the other me will make different choices	uh laissez-moi voir il y a dix vingt ans j'étais particulièrement uh je me disais juste de garder un journal ou quelque chose de <s> uh ou de me dire en gros comment ma vie va se passer maintenant afin que de cette façon, j'espère que l'autre moi fera des choix différents
+1	Ellie17Dec2012_08 (what are you most proud of in your life)	Ellie17Dec2012_08 (de quoi êtes-vous le plus fier dans votre vie)
+2	uh my mind	uh mon esprit
+1	self_change (what are some things you wish you could change about yourself)	auto_changement (quelles sont certaines choses que vous souhaitez changer à propos de vous-même)
+2	well i wish i wish i was a bit healthier i wish i looked a little bit better i wish my eyesight was a lot better and i wish i had a bunch of people in my life that i could call friends	Eh bien, j'aimerais être un peu plus sain, j'aimerais avoir l'air un peu mieux, j'aimerais que ma vue soit beaucoup meilleure et j'aimerais avoir un tas de gens dans ma vie que je pourrais appeler amis
+1	Ellie17Dec2012_07 (what would you say are some of your best qualities)	Ellie17Dec2012_07 (que diriez-vous de certaines de vos meilleures qualités)
+2	um i'm a freaking genius i could uh everything that i'm good at i learned self taught so basically i can't get a career in that type of stuff unless i go to school for it but it's hard to it's basically easier if i teach myself than like take some type of a class to do it and everything 'cause yeah basically <bay> yeah just basically the fact i'm a freaking genius okay	um je suis un génie monstre je pourrais uh tout ce que je suis bon à j'ai appris moi-même enseigné donc fondamentalement je ne peux pas obtenir une carrière dans ce type de choses à moins que je vais à l'école pour elle mais c'est difficile à c'est fondamentalement plus facile si je m'enseigne que comme prendre un type de classe pour le faire et tout parce que oui fondamentalement <bay> ouais simplement le fait que je suis un génie monstre ok
+1	asked_everything (okay i think i have asked everything i need to) appreciate_open (thanks for sharing your thoughts with me)	demandé_tout ( ok, je pense que j'ai demandé tout ce que j'ai besoin de) apprécier_ouvrir (merci d'avoir partagé vos pensées avec moi)
+2	thank you	Je vous remercie.
+1	bye (goodbye)	Au revoir.
+2	have a good day	Bonne journée.

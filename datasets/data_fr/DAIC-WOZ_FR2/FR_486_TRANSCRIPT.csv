@@ -1,0 +1,112 @@
+speaker	original	traduit
+2	<synch>	<synch>
+1	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)	IntroV4Confirmation ( salut je suis ellie merci d'être venu aujourd'hui j'ai été créé pour parler aux gens dans un environnement sûr et sécurisé je ne suis pas un thérapeute mais je suis ici pour apprendre sur les gens et j'aimerais apprendre sur vous je vais poser quelques questions pour nous faire commencer et s'il vous plaît n'hésitez pas à me dire tout ce que vos réponses sont totalement confidentielles êtes-vous d'accord avec cela)
+2	yes	oui
+1	okay_confirm (okay) how_doingV (so how are you doing today)	OK_confirmer (OKY) comment_faireV (ainsi comment allez-vous aujourd'hui)
+2	i'm feel great	Je me sens bien.
+1	thats_good (that's good) where_originally (where are you from originally)	thats_good (c'est bien) où_originalement (d'où êtes-vous à l'origine)
+2	i am from saint louis missouri born and raised	Je suis de saint Louis Missouri né et élevé
+1	really (really)	Vraiment (vraiment)
+2	yes	oui
+1	when_LA (when did you move to l_a)	quand _LA (quand avez-vous déménagé à l_a)
+2	i've been here a couple times i just recently moved back two months ago	Je viens de rentrer il y a deux mois.
+1	compares_LA (how does it compare to l_a)	compare_LA (comment se compare-t-il à l_a)
+2	saint louis is quite slower	saint louis est assez lent
+1	why_LA (why did you move to l_a)	Pourquoi ?LA (pourquoi avez-vous déménagé à l_a)
+2	uh to take care of a good friend that who who's ill	uh prendre soin d'un bon ami qui est malade
+1	im_sorry (i'm sorry)	(Je suis désolé)
+2	thank you	Je vous remercie.
+1	adapted_LA (how easy was it for you to get used to living in l_a)	Adapté_LA (comment était-il facile pour vous de vous habituer à l_a)
+2	i jumped right back on the bandwagon	J'ai sauté sur le bandwagon.
+1	like_about_LA (what are some things you really like about l_a)	genre_about_LA (quelles sont certaines choses que vous aimez vraiment à propos de l_a)
+2	the climate	le climat
+1	mhm (mhm)	Mhm (mhm)
+2	and the restaurants	et les restaurants
+1	dont_like_LA (what are some things you don't really like about l_a)	dont_like_LA (quelles sont certaines choses que vous n'aimez pas vraiment à propos de l_a)
+2	the dirt and the traffic	la saleté et le trafic
+1	see_mean (i see what you mean) travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)	voir_moyen (je vois ce que vous voulez dire) Travel_shoes (je suis sûr que vous pouvez dire par mes chaussures que je ne suis pas beaucoup un explorateur du monde que vous voyagez beaucoup)
+2	yes i do	Oui.
+1	travel_changed (what do you enjoy about traveling)	voyage_changement (qu'est-ce qui vous plaît à voyager)
+2	uh the road maps following a road map maybe driving myself	uh les feuilles de route suivant une feuille de route peut-être me conduire moi-même
+1	travel_trips (i'd love to hear about one of your trips)	Voyage _voyages (j'adorerais entendre parler d'un de vos voyages)
+2	well we just recently got back from uh colorado went up into the mountains saw the the snow and	Eh bien, nous venons de revenir de uh colorado est monté dans les montagnes a vu la neige et
+1	nice (nice)	Sympa.
+2	enjoyed a little fine dining	j'ai apprécié un petit dîner fin
+1	memorableB (what's one of your most memorable experiences)	mémorableB (ce qui est l'une de vos expériences les plus mémorables)
+2	in colorado	dans colorado
+1	mhm (mhm)	Mhm (mhm)
+2	uh actually going um horseback riding through the royal gorge	uh en fait aller à cheval à travers la gorge royale
+1	awesome (awesome)	Impressionnant (impressionnant)
+2	yes it was	Oui, c'était
+1	shyoutgoing (do you consider yourself more shy or outgoing)	timingoutway (vous considérez-vous plus timide ou sortant)
+2	i would be more outgoing	Je serais plus sortant
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	i'm a people person	Je suis quelqu'un de bien.
+1	understand (i understand) relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)	comprendre (je comprends) relax_fishtank (parfois quand je me sens tendu je allume le réservoir de poisson screensaver hey je sais que ce n'est pas hawaii mais c'est le meilleur que j'ai ce que vous faites pour vous détendre)
+2	<laughter> i listen to jazz music and i also draw	<rire> j'écoute de la musique jazz et je dessine aussi
+1	thats_great (that's great) control_temper (how are you at controlling your temper)	thats_great (c'est super) control_temper (comment contrôlez-vous votre tempérament)
+2	i've probably mastered controlling my temper through age	J'ai probablement maîtrisé mon tempérament jusqu'à l'âge.
+1	last_argument (when was the last time you argued with someone and what was it about)	last_argument (quand a été la dernière fois que vous avez discuté avec quelqu'un et de quoi était-il question)
+2	mm it would've been my husband and it was about financial issues	C'était mon mari et c'était sur des questions financières.
+1	describe_felt (how did you feel in that moment)	décrivez_felt (comment avez-vous ressenti à ce moment-là)
+2	unsure <un> unsure unstable i don't like loud talking or mm loud emotion i like to sit and methodically and logically talk about things not raise my voice	unsûr <un> unsûr instable je n'aime pas parler fort ou mm d'émotion forte j'aime m'asseoir et parler méthodiquement et logiquement des choses ne pas élever ma voix
+1	yeah_downer (yeah) situation_handled (tell me about a situation that you wish you had handled differently)	yeah_downer (yeah) situation_handled (dis-moi une situation que tu souhaites avoir traitée différemment)
+2	hmm most recently with the illness of my friend i wish i would've handled his sister a little differently as far as things that she's wanted me to do that i really needed to tell her otherwise the way they really needed to be done i took her advice where i shouldn't of	La dernière fois avec la maladie de mon ami, j'aurais aimé gérer sa sœur un peu différemment pour ce qu'elle voulait que je fasse que j'avais vraiment besoin de lui dire autrement la façon dont ils avaient vraiment besoin d'être fait, j'ai suivi son conseil où je ne devrais pas de
+1	isee_downer (i see) how_know (how do you know them)	isee_downer (je vois) comment savoir (comment les connaissez-vous)
+2	um we he i was engaged to him fifteen years ago and he recently called me i guess about five years ago and told me he was diagnosed with cancer we've always maintained our friendship and i asked my husband if i could go help him in his time of need and i'm here	Il y a quinze ans, il m'a appelé il y a cinq ans et m'a dit qu'on lui avait diagnostiqué un cancer. On a toujours maintenu notre amitié et j'ai demandé à mon mari si je pouvais l'aider dans son besoin et je suis là.
+1	Ellie17Dec2012_06 (wow) been_hard (that sounds really hard)	Ellie17Dec2012_06 (wow) a été_dur (qui sonne vraiment dur)
+2	it has been	C'est ce qui s'est passé.
+1	change_directions (what made you decide to do that)	changement_directions (ce qui vous a fait décider de faire cela)
+2	um a lot of things one he's a good friend of mine and his sister moved out here as well two my son wanted to start his career out here three i love the weather and that's all i can think of at the moment <laughter>	Il y a beaucoup de choses qu'il est un bon ami à moi et sa sœur a emménagé ici ainsi que deux mon fils a voulu commencer sa carrière ici trois j'aime le temps et c'est tout ce que je peux penser en ce moment <rire>
+1	see_mean (i see what you mean)	voir_moyen (je vois ce que vous voulez dire)
+2	mhm	- Oui, c'est vrai.
+1	hard_decisionB (tell me about the hardest decision you've ever had to make)	hard_decisionB (dis-moi la décision la plus difficile que tu aies jamais eue à prendre)
+2	uh it would be the the death of my youngest son	Ce serait la mort de mon plus jeune fils.
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	i don't know where to start as far as he was born premature and since he was born so early i had him in five months versus nine the we we made the decision to take him off life support 'cause he wasn't getting any better so that would've been the the hardest decision i made with my husband	Je ne sais pas par où commencer jusqu'à ce qu'il soit né prématuré et comme il est né si tôt je l'ai eu dans cinq mois contre neuf nous avons pris la décision de l'enlever du soutien de vie parce qu'il n'allait pas mieux ainsi aurait été la décision la plus dure que j'ai prise avec mon mari
+1	yeah_downer (yeah)	Oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui
+2	mhm	- Oui, c'est vrai.
+1	memory_erase (tell me about an event or something that you wish you could erase from your memory)	memory_erase (dis-moi un événement ou quelque chose que tu souhaites pouvoir effacer de ta mémoire)
+2	um i really don't wanna erase anything from my memory i've actually um learn and experience and gain knowledge from from things that happen so i'm not <ss> i'm not one to put things erase things out of my mind i categorize them and place them in memories	Je ne veux vraiment pas effacer quoi que ce soit de ma mémoire, j'ai vraiment appris et expérimenté et acquis des connaissances de choses qui se passent alors je ne suis pas un pour mettre les choses effacer des choses hors de mon esprit je les classe et les placer dans des souvenirs
+1	okay_confirm (okay) family_relationship (tell me about your relationship with your family)	OK_confirmer (OKY) famille_relationship (parlez-moi de votre relation avec votre famille)
+2	uh it's very close lost my mother at a young age and uh all of us siblings and my father still remain very close	C'est très proche de ma mère à un jeune âge et nous tous frères et sœurs et mon père reste très proche
+1	thats_good (that's good) influence_positive (who's someone that's been a positive influence in your life)	thats_good (c'est bien) influence_positive (qui est quelqu'un qui a été une influence positive dans votre vie)
+2	mm my father	mm mon père
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	oh he's very health conscious very energetic and exercises <e> uh exercises and has a spirituality about him that uh i want to have as well it's a contentment that he that he portrays that i that i would like to have as well	oh il est très conscient de la santé très énergique et exercices <e> exercices et a une spiritualité à son sujet que je veux avoir aussi bien que c'est un contentement qu'il dépeint que j'aimerais avoir aussi bien
+1	mhm (mhm) easy_sleep (how easy is it for you to get a good night's sleep)	mhm (mhm) easy_sleep (comment est-il facile pour vous d'avoir une bonne nuit de sommeil)
+2	no problem	Pas de problème.
+1	sleep_affects (what are you like when you don't sleep well)	dorm_affectes (quelle est votre situation quand vous ne dormez pas bien)
+2	very confused or um skittish i guess would be the word	très confus ou um skittish je suppose que ce serait le mot
+1	feel_lately (how have you been feeling lately)	(comment vous sentez-vous récemment)
+2	lately fine <f> fine except for the fact that my um good friend who i'm helping take care of we just got out of the hospital so it's been a little hectic the last two days	Ces derniers temps, très bien, sauf le fait que mon bon ami qui j'aide à prendre soin de nous vient de sortir de l'hôpital, donc ça a été un peu agité ces deux derniers jours.
+1	yeah_downer (yeah) behavior_changes (have you noticed any changes in your behavior or thoughts lately)	eye_downer (yeah) comportement_changements (avez-vous remarqué tout changement dans votre comportement ou vos pensées dernièrement)
+2	um no not lately	Pas dernièrement.
+1	okay_confirm (okay) ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)	OK_confirmer (OKY) ptsd_diagnostic (avez-vous déjà été diagnostiqué avec p_t_s_d)
+2	no i have not	Non, je n'ai pas
+1	depression_diagnosed (have you been diagnosed with depression)	dépression_diagnostic (vous avez reçu un diagnostic de dépression)
+2	no i have not	Non, je n'ai pas
+1	happy_lasttime (tell me about the last time you felt really happy)	happy_lasttime (dis-moi la dernière fois que tu t'es sentie vraiment heureuse)
+2	um i was excited um with good friends in good company i should say and um i had just got back from a concert so it was outside it was enjoyable music i was with good friends we ate well and enjoyed the moment	um j'étais excité um avec de bons amis en bonne compagnie je devrais dire et um je venais de revenir d'un concert donc c'était dehors c'était de la musique agréable j'étais avec de bons amis nous avons bien mangé et apprécié le moment
+1	great_situation (that sounds like a great situation) BF_describe (how would your best friend describe you)	big_situation (qui sonne comme une grande situation) BF_descript (comment votre meilleur ami vous décrirait-il)
+2	uh as a giving spiritual normal person i don't know <laughter>	uh comme une personne spirituelle normale, je ne connais pas <rire>
+1	self_change (what are some things you wish you could change about yourself)	auto_changement (quelles sont certaines choses que vous souhaitez changer à propos de vous-même)
+2	um i can't think of anything that i'd wanna change except for maybe exercise a little more	Je ne peux pas penser à quelque chose que je voudrais changer, sauf peut-être faire de l'exercice un peu plus.
+1	hmm_downer (hmm) feelbadly (tell me about a time when someone made you feel really badly about yourself)	Hmm_downer (hmm) se sent mal (parle-moi d'un moment où quelqu'un t'a fait te sentir vraiment mal à propos de toi)
+2	i i can't recall one off hand	Je ne me souviens pas d'un coup de main.
+1	okay_confirm (okay) regret (is there anything you regret)	OK_confirmer (OK) le regret (y a-t-il quelque chose que vous regrettez)
+2	no	Non, je ne suis pas d'accord.
+1	advice_back (what advice would you give to yourself ten or twenty years ago)	conseil_back (quel conseil donneriez-vous il y a dix ou vingt ans)
+2	to have save more money and to not try and accomplish everything at once	d'avoir économisé plus d'argent et de ne pas essayer de tout accomplir à la fois
+1	uh_huh (uh huh) study (what did you study at school)	uh_huh (heu) étudier (qu'avez-vous étudié à l'école)
+2	i started out in cosmetology then i went into um college have some college in mathematics and finance	J'ai commencé en cosmétologie puis je suis allé à l'université um avoir un collège en mathématiques et finance
+1	dream_job (what's your dream job)	Rêve_job (quel est votre travail de rêve)
+2	traveling	voyage
+1	okay_confirm (okay) Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)	okay_confirm (OKY) Ellie17Dec2012_10 (dis-moi quelque chose que tu as fait récemment et que tu as vraiment apprécié)
+2	mm i had a lot <lo> i like to i enjoy um good food nice wine and company i just went last night to a very nice italian restaurant and was in the company of good friends and family and we dined and talked and that was fun	mm j'ai eu beaucoup de <lo> j'aime profiter de la bonne nourriture bon vin et compagnie je viens d'aller hier soir à un très bon restaurant italien et était en compagnie de bons amis et de la famille et nous avons dîné et parlé et c'était amusant
+1	nice (nice) Ellie17Dec2012_08 (what are you most proud of in your life)	(Bon) Ellie17Dec2012_08 (de quoi êtes-vous le plus fier dans votre vie)
+2	most proud of i guess it would be my children	le plus fier de moi, ce serait mes enfants.
+1	asked_everything (okay i think i have asked everything i need to) appreciate_open (thanks for sharing your thoughts with me)	demandé_tout ( ok, je pense que j'ai demandé tout ce que j'ai besoin de) apprécier_ouvrir (merci d'avoir partagé vos pensées avec moi)
+2	you're welcome	De rien.
+1	bye (goodbye)	Au revoir.
+2	bye bye	Au revoir.

@@ -1,0 +1,137 @@
+speaker	original	traduit
+2	<sync>	<sync>
+1	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)	IntroV4Confirmation ( salut je suis ellie merci d'être venu aujourd'hui j'ai été créé pour parler aux gens dans un environnement sûr et sécurisé je ne suis pas un thérapeute mais je suis ici pour apprendre sur les gens et j'aimerais apprendre sur vous je vais poser quelques questions pour nous faire commencer et s'il vous plaît n'hésitez pas à me dire tout ce que vos réponses sont totalement confidentielles êtes-vous d'accord avec cela)
+2	sure	Bien sûr.
+1	okay_confirm (okay) how_doingV (so how are you doing today)	OK_confirmer (OKY) comment_faireV (ainsi comment allez-vous aujourd'hui)
+2	i'm doing good how are you	Je me débrouille bien.
+1	great_thanks (i'm great thanks) where_originally (where are you from originally)	great_merci (je suis très reconnaissant) d'où vous venez (d'où venez-vous à l'origine)
+2	chicago	chicago
+1	really (really)	Vraiment (vraiment)
+2	yeah	Oui.
+1	when_LA (when did you move to l_a)	quand _LA (quand avez-vous déménagé à l_a)
+2	about twenty five years ago	il y a environ vingt-cinq ans
+1	long_time (that's a long time)	long_temps (c'est un long laps de temps)
+2	yeah it's been a while	Oui, ça fait un moment.
+1	often_backB (how often do you go back to your hometown)	souvent_backB (combien de fois retournez-vous dans votre ville natale)
+2	actually i haven't been back <laughter> i like l_a	En fait je n'ai pas été de retour <rires> j'aime l_a
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	i like l_a	J'aime I_a
+1	compares_LA (how does it compare to l_a)	compare_LA (comment se compare-t-il à l_a)
+2	mm it's a big city so it's kinda similar but the weather is not the same so gotta love l_a for the weather	mm c'est une grande ville donc c'est un peu similaire mais le temps n'est pas le même alors doit aimer l_a pour le temps
+1	see_mean (i see what you mean) why_LA (why did you move to l_a)	voir_moyen (je vois ce que vous voulez dire) pourquoi_LA (pourquoi avez-vous déménagé à l_a)
+2	<tisk> family i was a child	<tisk> famille j'étais un enfant
+1	adapted_LA (how easy was it for you to get used to living in l_a)	Adapté_LA (comment était-il facile pour vous de vous habituer à l_a)
+2	it took a little adjustment but not hard	il a fallu un peu d'ajustement mais pas difficile
+1	thats_good (that's good) like_about_LA (what are some things you really like about l_a)	thats_good (c'est bien) comme_about_LA (quelles sont certaines choses que vous aimez vraiment à propos de l_a)
+2	um the weather um i can't think of anything right off the bat but i sure wouldn't wanna leave so my family is here so that's another reason why i wouldn't wanna leave	Le temps m'empêche de penser à quoi que ce soit, mais je ne voudrais pas partir, alors ma famille est là. C'est une autre raison pour laquelle je ne veux pas partir.
+1	mhm (mhm) dont_like_LA (what are some things you don't really like about l_a)	mhm (mhm) dont_like_LA (quelles sont certaines choses que vous n'aimez pas vraiment à propos de l_a)
+2	traffic <laughter>	Trafic <abattage>
+1	travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)	Travel_shoes (je suis sûr que vous pouvez dire par mes chaussures que je ne suis pas beaucoup un explorateur du monde que vous voyagez beaucoup)
+2	not really but i've traveled <tra> traveled a little bit yeah	"Pas vraiment, mais j'ai voyagé ""tra"" a voyagé un peu ouais"
+1	travel_changed (what do you enjoy about traveling)	voyage_changement (qu'est-ce qui vous plaît à voyager)
+2	seeing new places different people the way they live their lives	voir de nouveaux endroits différentes personnes la façon dont ils vivent leur vie
+1	cool3 (cool) travel_trips (i'd love to hear about one of your trips)	cool3 (cool) voyages _voyages (j'aimerais entendre parler d'un de vos voyages)
+2	<tisk> um i went to monterey california earlier last <la> or the middle of last year that was very nice	Je suis allé à Monterey California plus tôt la dernière fois ou le milieu de l'année dernière c'était très gentil
+1	memorableB (what's one of your most memorable experiences)	mémorableB (ce qui est l'une de vos expériences les plus mémorables)
+2	um it's a good question i'm not really sure uh there's probably	C'est une bonne question, je ne suis pas sûr qu'il y ait probablement
+1	okay_confirm (okay)	OK_confirmer (OK)
+2	i can't think of anything right off the bat which makes me think uh it's kinda weird but <laughter>	Je n'arrive pas à penser à quoi que ce soit de la batte qui me fait penser que c'est un peu bizarre mais <rires>
+1	study (what did you study at school)	étudier (qu'avez-vous étudié à l'école)
+2	astronomy	astronomie
+1	sounds_interesting (that sounds interesting)	sons_intéressants (qui semble intéressant)
+2	yeah it was	Oui.
+1	hard_decision (how did you decide to do that)	hard_decision (comment avez-vous décidé de faire cela)
+2	<tisk> i don't know just kinda fell into it took a course liked it and then took some more and kinda just went down that path	<tisk> Je ne sais pas juste un peu est tombé dedans il a pris un cours aimé et puis a pris un peu plus et en quelque sorte est juste allé sur ce chemin
+1	still_working_on_X (are you still working in that)	still_working_on_X (vous travaillez toujours dans ce domaine)
+2	no	Non, je ne suis pas d'accord.
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	there's not much job opportunities so it's kinda limited	il n'y a pas beaucoup d'opportunités d'emploi donc c'est un peu limité
+1	that_sucks (that sucks)	ça suce (ça craint)
+2	yeah it does <laughter>	Oui, ça fait <rires>
+1	dream_job (what's your dream job)	Rêve_job (quel est votre travail de rêve)
+2	um my dream job i would like to own a restaurant a nice a bar restaurant	um mon travail de rêve j'aimerais posséder un restaurant un bon bar restaurant
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	well i'd like to have something a little more upscale than most places you go to or at least in the area that i live in most places don't seem very kind of just seem like a dive bar just kind of worn out run down so something nice something different something creative something vibrant something for you know attracts a crowd	Eh bien, j'aimerais avoir quelque chose d'un peu plus haut de gamme que la plupart des endroits où vous allez ou du moins dans la région où je vis dans la plupart des endroits ne semblent pas vraiment comme un bar de plongée juste un peu usés, donc quelque chose de bien différent quelque chose de créatif quelque chose de vibrant quelque chose pour vous savez attire une foule
+1	uh_huh (uh huh)	C'est quoi, ça ?
+2	but it's probably costly so i don't know if it's really plausible <laughter>	mais c'est probablement coûteux alors je ne sais pas si c'est vraiment plausible <rire>
+1	yeah_downer (yeah) shyoutgoing (do you consider yourself more shy or outgoing)	yeah_downer (yeah) timingoutway (vous considérez-vous plus timide ou sortant)
+2	i'm definitely more shy but i can be outgoing when i'm comfortable with people but initially i'm pretty shy	Je suis certainement plus timide mais je peux être sortant quand je suis à l'aise avec les gens, mais au début je suis plutôt timide
+1	okay_confirm (okay)	OK_confirmer (OK)
+2	<laughter>	<rire>
+1	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)	relax_fishtank (parfois quand je me sens tendu, j'allume l'écran d'écran du réservoir de poisson hey je sais que ce n'est pas hawaii mais c'est le meilleur que j'ai ce que vous faites pour vous détendre)
+2	good idea um a lot of times i try to just lay back and you know do some deep breathing just kind of clear your mind or maybe just watch a movie listening to music is good reading a book kinda just takes your mind away	bonne idée um beaucoup de fois j'essaie juste de s'allonger et vous savez faire un peu de respiration profonde juste un peu clair votre esprit ou peut-être juste regarder un film écouter de la musique est bonne lecture d'un livre genre juste enlever votre esprit
+1	mhm (mhm)	Mhm (mhm)
+2	relax	Détendez-vous.
+1	control_temper (how are you at controlling your temper)	control_temper (comment contrôlez-vous votre tempérament)
+2	i've gotten much better at it <laughter> i used to have problems with that when i was younger but i'm i'm good i'm good with that now learned that you shouldn't react immediately to situations you should you know think before you speak that type of thing	J'ai été beaucoup mieux avec ça <rires> j'avais des problèmes avec ça quand j'étais plus jeune mais je suis bon je suis bon avec ça maintenant appris que vous ne devriez pas réagir immédiatement à des situations que vous devriez savoir penser avant de parler ce type de choses
+1	last_argument (when was the last time you argued with someone and what was it about)	last_argument (quand a été la dernière fois que vous avez discuté avec quelqu'un et de quoi était-il question)
+2	um my ex girlfriend when we broke up about three months ago <laughter>	um mon ex petite amie quand nous avons rompu il y a environ trois mois <rire>
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	um we're relationship just wasn't doing very well so it just kind of was going down a predictable path and we just were arguing over the same old stuff and wasn't really it wasn't a memorable argument but it was it was an argument so that's all i can think of and i haven't really seen her since so i don't know that's what it is nothing special just a typical argument between two people who had grown separate	um nous sommes la relation n'allait pas très bien donc c'était juste une sorte de chemin prévisible et nous nous disputions juste sur le même vieux truc et n'était pas vraiment un argument mémorable mais c'était un argument donc c'est tout ce que je peux penser et je ne l'ai pas vraiment vu depuis donc je ne sais pas ce est ce que c'est rien de spécial juste un argument typique entre deux personnes qui avaient grandi séparément
+1	describe_felt (how did you feel in that moment)	décrivez_felt (comment avez-vous ressenti à ce moment-là)
+2	frustrated	frustré
+1	yeah_downer (yeah)	Oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui, oui
+2	like yeah i guess everybody kinda sees things in their own way and you know my way and my perspective is right and i'm sure her way was right too so trying to convince somebody that you know of your ideas or what you're thinking is more difficult than it is because everybody's kinda looking out for themselves	Comme si tout le monde voyait les choses à sa façon et tu sais que ma façon et ma perspective est juste et je suis sûr que sa façon était juste aussi afin d'essayer de convaincre quelqu'un que tu connais tes idées ou ce que tu penses est plus difficile que ce que c'est parce que tout le monde s'occupe d'eux-mêmes
+1	uh_huh (uh huh)	C'est quoi, ça ?
+2	<tisk> but yeah	<tisk> mais oui
+1	situation_handled (tell me about a situation that you wish you had handled differently)	situation_maintenue (dis-moi une situation que tu souhaites avoir traitée différemment)
+2	mm that's a good example right there with the my girlfriend i didn't have to i could've reacted a little differently and not shown so much emotion um there's been times in my life where i've gotten into arguments with friends or something like that where you know or previous relationships where i probably shouldn't have reacted the way i did you know not that i did anything bad but just more of uh you know be more mature about it and not you know reveal your emotions so much or that type of thing	C'est un bon exemple avec ma copine que je n'ai pas eu à réagir un peu différemment et que je n'ai pas montré tant d'émotions qu'il y a eu des moments dans ma vie où j'ai eu des disputes avec des amis ou quelque chose comme ça où tu sais ou des relations antérieures où je n'aurais probablement pas dû réagir comme je ne savais pas que j'ai fait quelque chose de mauvais mais juste plus que tu sais être plus mature à ce sujet et que tu ne sais pas révéler tes émotions tant ou ce genre de choses
+1	mhm (mhm) hard_decisionB (tell me about the hardest decision you've ever had to make)	mhm (mhm) hard_decisionB (parlez-moi de la décision la plus difficile que vous n'ayez jamais eu à prendre)
+2	<tisk> um <sigh> leaving my first girlfriend to go to school when i was eighteen this was a long time ago i went to school in san diego and i immediately wanted to come back so i kind of ruined our relationship and we're still friends and i wish i didn't do that	J'ai quitté ma première copine pour aller à l'école quand j'avais dix-huit ans. C'était il y a longtemps que je suis allé à l'école à San Diego et j'ai immédiatement voulu revenir. J'ai donc en quelque sorte ruiné notre relation et nous sommes toujours amis et j'aimerais ne pas faire ça.
+1	feelguilty (what's something you feel guilty about)	se sentir coupable (de quoi vous vous sentez coupable)
+2	mm i feel like i can contribute more to my family and my friends i i think i could do better i i think i sell myself short so employment opportunities are hard to come by but if i could find a good job i'd be a lot more happy because i could provide for myself and others so not be so much of a burden to people around me	J'ai l'impression de pouvoir contribuer davantage à ma famille et à mes amis Je pense que je pourrais faire mieux Je pense que je me vends court donc les possibilités d'emploi sont difficiles à trouver mais si je pouvais trouver un bon travail Je serais beaucoup plus heureux parce que je pourrais subvenir à moi-même et à d'autres si je ne suis pas tellement un fardeau pour les gens autour de moi
+1	yeah_downer (yeah) good_job (it can be tough to find a good job these days)	yeah_downer (yeah) good_job (il peut être difficile de trouver un bon travail de nos jours)
+2	<tisk> yeah real difficult <laughter>	<tisk> ouais vraiment difficile <rire>
+1	family_relationship (tell me about your relationship with your family)	family_relationship (parlez-moi de votre relation avec votre famille)
+2	it's good it's very good we're pretty open with each other and i see my mom and dad and my sister quite often so it's a good relationship i mean we we get along well could be i mean it's not it's not perfect but it's good	C'est bien, c'est très bien qu'on soit assez ouverts l'un à l'autre et je vois ma mère, mon père et ma sœur assez souvent, donc c'est une bonne relation, je veux dire qu'on s'entend bien, je veux dire que ce n'est pas parfait, mais c'est bon.
+1	thats_good (that's good) yeah_downer (yeah) easy_sleep (how easy is it for you to get a good night's sleep)	thats_good (c'est bien) yeah_downer (yeah) easy_sleep (comment est-il facile pour vous d'avoir une bonne nuit de sommeil)
+2	<tisk> pretty easy i'm a good sleeper	C'est assez facile, je dors bien.
+1	sleep_affects (what are you like when you don't sleep well)	dorm_affectes (quelle est votre situation quand vous ne dormez pas bien)
+2	um probably irritable there's it's harder to do tasks it's kind of like you feel like you're being strange or something because you don't have as much energy and	um probablement irritable il y a c'est plus difficile de faire des tâches c'est un peu comme si vous vous sentiez comme si vous étiez étrange ou quelque chose parce que vous n'avez pas autant d'énergie et
+1	mhm (mhm) feel_lately (how have you been feeling lately)	mhm (mhm) se sent_dernièrement (comment vous sentez-vous récemment)
+2	good relatively well spring time always makes everybody feel well	bon relativement bien temps de printemps fait toujours tout le monde se sent bien
+1	makes_sense (that makes sense) ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)	makes_sens (qui a du sens) ptsd_diagnosticed (avez-vous déjà été diagnostiqué avec p_t_s_d)
+2	no not at all	Pas du tout.
+1	depression_diagnosed (have you been diagnosed with depression)	dépression_diagnostic (vous avez reçu un diagnostic de dépression)
+2	never	jamais
+1	happy_lasttime (tell me about the last time you felt really happy)	happy_lasttime (dis-moi la dernière fois que tu t'es sentie vraiment heureuse)
+2	<tisk> um really really i mean we all feel happy every day at some point but really happy <sigh> it's probably been a while um probably like superbowl sunday i was with all my friends we were having a good time so it's been probably like a month and a half or something when i was really really happy	<tisk> um vraiment je veux dire que nous nous sentons tous heureux tous les jours à un moment donné mais vraiment heureux <sigh> ça a probablement été un moment um probablement comme superbe dimanche j'étais avec tous mes amis nous avons passé un bon moment alors ça a probablement été comme un mois et demi ou quelque chose quand j'étais vraiment vraiment heureux
+1	mhm (mhm) self_change (what are some things you wish you could change about yourself)	mhm (mhm) auto_changement (quelles sont certaines choses que vous souhaitez changer à propos de vous-même)
+2	i wish i was more i guess stuck to my goals and i wish i had better drive to succeed i don't know i usually settle for less so	J'aimerais être plus j'imagine collé à mes objectifs et j'aimerais avoir mieux conduire pour réussir je ne sais pas je me contenterais généralement de moins donc
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	i don't know i i guess that's the calm demeanor part of me that's good and bad <laughter>	Je ne sais pas, je suppose que c'est la partie calme de moi qui est bonne et mauvaise <rire>
+1	mm (mm)	mm (mm)
+2	don't really matter i kinda live in the moment and then you kinda realize that five ten years have gone by and you should've done something	peu importe que je vive dans le moment et que tu réalises que cinq dix ans se soient écoulés et que tu aurais dû faire quelque chose.
+1	yeah_downer (yeah) feelbadly (tell me about a time when someone made you feel really badly about yourself)	yeah_downer (yeah) se sent mal (dis-moi un moment où quelqu'un t'a fait te sentir vraiment mal à propos de toi)
+2	um i'm just gonna stick to that argument with my girlfriend <laughter> three months ago she made me feel pretty bad <laughter>	Je vais juste m'en tenir à cette dispute avec ma copine <rire> il y a trois mois, elle m'a fait me sentir plutôt mal <rire>
+1	downer (okay) memory_erase (tell me about an event or something that you wish you could erase from your memory)	downer (okay) memory_erase (dis-moi un événement ou quelque chose que tu souhaites pouvoir effacer de ta mémoire)
+2	um i i don't know uh when i was when i was in high school i got into an argument with a friend and i drove my car too fast and it was an area that i didn't know and i hit a turn that i didn't know was coming and i crashed my car so i wish i didn't do that but that's a long time ago so it's not a big deal now <laughter>	Je ne sais pas quand j'étais au lycée, j'ai eu une dispute avec un ami et j'ai conduit ma voiture trop vite et c'était une zone que je ne savais pas et j'ai fait un virage que je ne savais pas et j'ai écrasé ma voiture alors j'aimerais ne pas faire ça mais c'est il y a longtemps donc ce n'est pas grand chose maintenant <rire>
+1	describe_felt (how did you feel in that moment)	décrivez_felt (comment avez-vous ressenti à ce moment-là)
+2	stupid <laughter> immature <laughter>	stupide <rire> immature <rire>
+1	influence_positive (who's someone that's been a positive influence in your life)	influence_positive (qui est quelqu'un qui a été une influence positive dans votre vie)
+2	<tisk> um my parents some of my close friends i have i have a good group of three or four friends that've been positive influences	<tisk> um mes parents certains de mes amis proches j'ai un bon groupe de trois ou quatre amis qui ont été des influences positives
+1	thats_great (that's great)	thats_gros (c'est génial)
+2	yeah	Oui.
+1	BF_describe (how would your best friend describe you)	BF_describe (comment votre meilleur ami vous décrirait-il)
+2	mm a caring guy nice person good heart a little a little unmotivated needs to improve on certain aspects of his life to make himself better and uh passionate i guess passionate in a good and bad way <laughter> <laughter>	mm un gars attentionné bonne personne bon cœur un peu un peu non motivé a besoin d'améliorer sur certains aspects de sa vie pour se rendre meilleur et euh passionné je suppose passionné d'une bonne et mauvaise manière <rire> <rire>
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	well i care a lot and at the same time sometimes it gets the best of me	Eh bien, je m'en soucie beaucoup et en même temps parfois ça me fait du bien
+1	give_example (can you give me an example of that)	give_exemple (pourriez-vous me donner un exemple de cela)
+2	mm <tisk> sometimes you feel like you know you're doing more for your friends or somebody like that you're doing more than they deserve and you're not it's not being reciprocated so that's an example	mm <tisk> Parfois, vous avez l'impression de savoir que vous faites plus pour vos amis ou quelqu'un comme ça que vous faites plus qu'ils ne méritent et vous n'êtes pas ce n'est pas être réciproque donc c'est un exemple
+1	see_mean (i see what you mean) regret (is there anything you regret)	voir_moyen (je vois ce que vous voulez dire) regret (y a-t-il quelque chose que vous regrettez)
+2	yeah probably but i can't think of anything off the top of my head	Oui, mais je n'arrive pas à penser à quoi que ce soit en haut de ma tête.
+1	advice_back (what advice would you give to yourself ten or twenty years ago)	conseil_back (quel conseil donneriez-vous il y a dix ou vingt ans)
+2	<tisk> um focus more on school because while you're young you have the ability to multitask and scrubbed_entry	<tisk> um se concentrer davantage sur l'école parce que pendant que vous êtes jeune, vous avez la capacité de multitâcher et de frotter_entry
+1	Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)	Ellie17Dec2012_10 (dis-moi quelque chose que tu as fait récemment et que tu as vraiment apprécié)
+2	mm <tisk> i don't know really enjoyed i mean i do things everyday that i enjoy but really enjoyed i don't i don't know um i i i cleaned up a bunch of stuff from my room so it was nice to shed some old garbage so that that was alright but i don't know if i really enjoyed that but i felt content after it	mm <tisk> Je ne sais pas vraiment apprécié je veux dire que je fais des choses tous les jours que j'aime mais vraiment apprécié je ne sais pas um j'ai nettoyé un tas de choses de ma chambre donc c'était agréable de jeter quelques vieux déchets pour que ce soit bien mais je ne sais pas si j'ai vraiment aimé ça mais je me suis senti content après ça
+1	wild_laughter5 ((laughter)) Ellie17Dec2012_08 (what are you most proud of in your life)	wild_river5 ((rire)) Ellie17Dec2012_08 (de quoi êtes-vous le plus fier dans votre vie)
+2	mm <tisk> not much it's i mean it's kinda sad i don't know uh <laughter> i think i could do better i feel like i'm an underachiever so not much i don't know	Je pense que je pourrais faire mieux que je me sente comme si je n'avais pas réussi tant que je ne sais pas.
+1	Ellie17Dec2012_07 (what would you say are some of your best qualities)	Ellie17Dec2012_07 (que diriez-vous de certaines de vos meilleures qualités)
+2	i'm very detail oriented organized i like to finish tasks um i care a lot you know i'm very caring um i have good intentions in mind i don't like to wrong people i don't like to lie because once you lie one lie leads to another so i don't like that	Je suis très de détail organisé j'aime finir les tâches um je me soucie beaucoup vous savez je suis très attentionné um j'ai de bonnes intentions à l'esprit je n'aime pas mal les gens je n'aime pas mentir parce qu'une fois que vous mentez un mensonge conduit à un autre donc je n'aime pas cela
+1	yeah2 (yeah)	Oui2 (oui)
+2	but yeah that's that's about it	Mais oui, c'est à propos de ça.
+1	asked_everything (okay i think i have asked everything i need to)	demande_tout ( ok, je pense que j'ai demandé tout ce que j'ai besoin de)
+2	<laughter> cool	<rire> frais
+1	appreciate_open (thanks for sharing your thoughts with me)	apply_open (merci d'avoir partagé vos pensées avec moi)
+2	right on have a good day	Bonne journée.
+1	bye (goodbye)	Au revoir.

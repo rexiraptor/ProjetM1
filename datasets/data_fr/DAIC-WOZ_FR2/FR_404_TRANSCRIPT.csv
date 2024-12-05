@@ -1,0 +1,96 @@
+speaker	original	traduit
+2	<sync>	<sync>
+1	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)	IntroV4Confirmation ( salut je suis ellie merci d'être venu aujourd'hui j'ai été créé pour parler aux gens dans un environnement sûr et sécurisé je ne suis pas un thérapeute mais je suis ici pour apprendre sur les gens et j'aimerais apprendre sur vous je vais poser quelques questions pour nous faire commencer et s'il vous plaît n'hésitez pas à me dire tout ce que vos réponses sont totalement confidentielles êtes-vous d'accord avec cela)
+2	yes	oui
+1	okay_confirm (okay) how_doingV (so how are you doing today)	OK_confirmer (OKY) comment_faireV (ainsi comment allez-vous aujourd'hui)
+2	doing good	faire le bien
+1	thats_good (that's good) where_originally (where are you from originally)	thats_good (c'est bien) où_originalement (d'où êtes-vous à l'origine)
+2	new york city	New York ville
+1	really (really) when_LA (when did you move to l_a)	vraiment (vraiment) quand_LA (quand avez-vous déménagé à l_a)
+2	well uh originally i was born here but uh spent some time back east and um moved back here and um basically sort of raised here so been here a while and i'm enjoying it	Eh bien, à l'origine, je suis né ici, mais j'ai passé un peu de temps à retourner à l'est et je suis revenu ici, et j'ai grandi ici et j'apprécie ça.
+1	cool3 (cool) like_about_LA (what are some things you really like about l_a)	cool3 (cool) like_about_LA (quelles sont certaines choses que vous aimez vraiment à propos de l_a)
+2	there's great weather and um uh amusement parks a lot of scenery a lot of people uh a lot of energy and excitement there's so many things to really like about l_a	Il y a du beau temps et des parcs d'attractions beaucoup de paysages beaucoup de gens uh beaucoup d'énergie et d'excitation il y a tellement de choses à aimer vraiment à propos de l_a
+1	yeah3 (yeah) dont_like_LA (what are some things you don't really like about l_a)	ouais3 (ouais) dont_like_LA (quelles sont certaines choses que vous n'aimez pas vraiment à propos de l_a)
+2	see uh a lot of congestion and pollution	voir uh beaucoup de congestion et de pollution
+1	mm (mm) see_mean (i see what you mean) travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)	mm (mm) see_medium (je vois ce que vous voulez dire) travel_shoes (je suis sûr que vous pouvez dire par mes chaussures que je ne suis pas beaucoup un explorateur du monde que vous voyagez beaucoup)
+2	i i try to but no i don't	J'essaie, mais pas moi.
+1	travel_changed (what do you enjoy about traveling)	voyage_changement (qu'est-ce qui vous plaît à voyager)
+2	uh it's nice to be on the open road with uh mm potentially <potelingly>  time to think about my own life	uh c'est agréable d'être sur la route ouverte avec uh mm potentiellement <potelingly> le temps de penser à ma propre vie
+1	uh_huh (uh huh) shyoutgoing (do you consider yourself more shy or outgoing)	uh_huh (heu) timingoutway (vous considérez-vous plus timide ou sortant)
+2	shy	timide
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	sometimes i find it hard to express my own thoughts	Parfois, j'ai du mal à exprimer mes propres pensées.
+1	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)	relax_fishtank (parfois quand je me sens tendu, j'allume l'écran d'écran du réservoir de poisson hey je sais que ce n'est pas hawaii mais c'est le meilleur que j'ai ce que vous faites pour vous détendre)
+2	well you mentioned a fish tank and uh i view spent some time in a many waiting rooms where there's been fishtanks and uh uh so staring at fishtanks could be one of them uh but i also enjoy walking or uh lifting weights reading going to movies just to say a few things	Eh bien, vous avez parlé d'un réservoir de poisson et j'ai vu passer un certain temps dans de nombreuses salles d'attente où il y a eu des réservoirs de poisson et euh euh euh tellement regarder les réservoirs de poisson pourrait être l'un d'eux, mais j'aime aussi marcher ou euh soulever des poids lire aller au cinéma juste pour dire quelques choses
+1	thats_good (that's good) control_temper (how are you at controlling your temper)	thats_good (c'est bien) control_temper (comment contrôlez-vous votre tempérament)
+2	uh good moderate uh good um in control	uh bon modéré uh bon um en contrôle
+1	last_argument (when was the last time you argued with someone and what was it about)	last_argument (quand a été la dernière fois que vous avez discuté avec quelqu'un et de quoi était-il question)
+2	argued about today okay last argument was today just before i got here and it was about um having about how do i say this about taking them to a bus stop about uh how uh making an arrangement	J'ai discuté d'aujourd'hui ok le dernier argument était aujourd'hui juste avant mon arrivée ici et c'était à propos d'avoir à propos de comment je dis ça à propos de les emmener à un arrêt de bus à propos de uh comment uh faire un arrangement
+1	okay_confirm (okay) feelguilty (what's something you feel guilty about)	OK_confirmer (OKY) se sentir coupable (de quoi vous vous sentez coupable)
+2	feel guilty about not taking better care of my pet	se sentir coupable de ne pas prendre mieux soin de mon animal de compagnie
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	sure i i like birds so one of my pets was a bird uh as of recently and i let my bird out into the wild and sort of wish i had planned for better um future for the for the bird uh only because now i sort of wish the bird was uh closer to me	Je suis sûr que j'aime les oiseaux alors un de mes animaux de compagnie était un oiseau euh à partir de récemment et j'ai laissé mon oiseau sortir dans la nature et un genre de souhait que j'avais prévu pour un meilleur avenir pour l'oiseau euh seulement parce que maintenant j'ai un genre de souhait que l'oiseau était euh plus proche de moi
+1	isee_downer (i see) situation_handled (tell me about a situation that you wish you had handled differently)	isee_downer (i see) situation_handled (dis-moi une situation que tu souhaites avoir traitée différemment)
+2	hm i would say i get into arguments with people close to me friends and sometimes i i don't handle them well i am more reactive so i wish uh i'd like to see myself improve on that	Je dirais que j'entre dans les disputes avec des gens proches de mes amis et parfois je ne les gère pas bien je suis plus réactif donc j'aimerais me voir améliorer
+1	landed_trouble (has that gotten you in trouble)	atterrir_trouble (a-t-il eu des ennuis)
+2	uh no um at least not you know in any sort of legal trouble but uh i think it's you know it's kind of not the way that i would like to have handled it	Au moins, tu ne sais pas dans quel genre de problèmes juridiques, mais je pense que c'est toi qui sais que ce n'est pas comme ça que j'aimerais m'en occuper.
+1	okay_confirm (okay) hard_decisionB (tell me about the hardest decision you've ever had to make)	OK_confirmer (OKY) hard_decisionB (Donnez-moi la décision la plus difficile que vous ayez jamais eu à prendre)
+2	guess the hardest decision was about to of how to proceed with moving forward eh on a job opportunity	Devinez que la décision la plus difficile était sur le point d'aller de l'avant sur une opportunité d'emploi
+1	Ellie17Dec2012_02 (uh huh) tell_me_about (tell me about that)	Ellie17Dec2012_02 (uh huh) raconte_me_about (m'en parle)
+2	i had to decide whether if i would suffer more emotional pain by leaving my family and whether the financial gain and uh knowledge of that experience would over outweigh the benefit	Je devais décider si je souffrirais plus de douleur émotionnelle en quittant ma famille et si le gain financier et la connaissance de cette expérience l'emporteraient sur l'avantage
+1	been_hard (that sounds really hard) happy_didthat (are you happy you did that)	was_hard (ça sonne vraiment dur) happy_did that (êtes-vous heureux que vous avez fait cela)
+2	uh yes yes i am	Euh oui oui je suis
+1	thats_good (that's good) family_relationship (tell me about your relationship with your family)	thats_good (c'est bien) famille_relationship (parlez-moi de votre relation avec votre famille)
+2	well i it's a small family but um have a mother and a uh sister and a brother and uh two younger nieces older they're they're grown adults uh it's a it's a good relationship and uh things could be better um sometimes it's sort of difficult pain staking uh relationship at times	J'ai une petite famille, mais j'ai une mère, une sœur et un frère, et deux jeunes nièces plus âgées, c'est des adultes, c'est une bonne relation, et les choses pourraient être meilleures, parfois c'est un peu difficile à faire.
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	there's uh some days i'm i need time for myself and i would rather give the time to other people rather than to take time for myself which has been my experience uh and so that has caused me a lot me a lot of emotional pain uh a little bit of spiritual uh anxiety about my future if i continue to do that sort of thing	Il y a des jours où j'ai besoin de temps pour moi-même et je préfère donner le temps aux autres plutôt que de prendre du temps pour moi-même, ce qui a été mon expérience, et donc ça m'a causé beaucoup de douleur émotionnelle, euh un peu d'anxiété spirituelle, euh sur mon avenir si je continue à faire ce genre de choses
+1	yeah_downer (yeah) memory_erase (tell me about an event or something that you wish you could erase from your memory)	eye_downer (yeah) memory_erase (dis-moi un événement ou quelque chose que tu souhaites pouvoir effacer de ta mémoire)
+2	wow there's so many things <laughter> what about you i don't know anything about you i would say uh well there's there's a few um but of recent i um well things are going pretty good i'm can't really say there's anything as of yet that i would really want to change or or have anything to regret on that i can remember	Wow il y a tellement de choses que je ne sais rien de toi que je dirais euh bien il y a quelques um mais de récentes um bien les choses vont assez bien je ne peux pas vraiment dire qu'il y a quelque chose à partir de là que je voudrais vraiment changer ou ou avoir quoi que ce soit à regretter sur ce que je peux me rappeler
+1	okay_confirm (okay) easy_sleep (how easy is it for you to get a good night's sleep)	okay_confirmer (OKY) easy_sleep (comment est-il facile pour vous d'avoir une bonne nuit de sommeil)
+2	it's been pretty good and uh it's uh i'd say it's okay uh i'm handling my sleep pretty well	Ça a été assez bien et je dirais que ça va, je m'occupe assez bien de mon sommeil.
+1	sleep_affects (what are you like when you don't sleep well)	dorm_affectes (quelle est votre situation quand vous ne dormez pas bien)
+2	when i don't sleep well sometimes i can be irritable um sometimes it's okay uh and uh would say if there's also times where i'm unhappy so i try to get as much sleep as i need	quand je ne dors pas bien, parfois je peux être irritable, parfois c'est ok et euh je dirais s'il y a aussi des moments où je suis malheureux alors j'essaie de dormir autant que j'ai besoin
+1	okay_confirm (okay) military (have you ever served in the military)	OK_confirmer (OK) militaire (avez-vous déjà servi dans l'armée)
+2	yes	oui
+1	old (how old were you when you joined the military)	vieux (à quel âge étiez-vous quand vous avez rejoint l'armée)
+2	i believe i was uh nineteen and uh i'm glad i did it	Je crois que j'avais dix-neuf ans et je suis content de l'avoir fait.
+1	very_young (you were very young weren't you)	try_young (vous étiez très jeune n'était pas vous)
+2	yes uh sort of but uh yes	Oui, en quelque sorte, mais oui.
+1	combat (did you ever see combat)	combat (avez-vous jamais vu le combat)
+2	no	Non, je ne suis pas d'accord.
+1	effectB (how did serving in the military change you)	effetB (comment avez-vous servi dans le changement militaire)
+2	um well uh i guess i suppose it made me a more confident person and more um in tune with uh uh the country that i'm living in and people uh to be more noticeable more watchful of where i live	Eh bien, je suppose que ça m'a fait une personne plus confiante et plus en accord avec le pays dans lequel je vis et les gens uh pour être plus observables de l'endroit où je vis
+1	mhm (mhm) memorableB (what's one of your most memorable experiences)	mhm (mhm) mémorableB (quelle est l'une de vos expériences les plus mémorables)
+2	um hanging out with some friends uh on a really nice weekend and uh on a boat uh or on a skiff a really small boat and um trying to fish in	um trainer avec des amis uh sur un week-end vraiment sympa et uh sur un bateau uh ou sur un skiff un très petit bateau et um essayer de pêcher dans
+1	nice (nice) describe_felt (how did you feel in that moment)	gentil (bien) décrire_felt (comment avez-vous ressenti dans ce moment)
+2	i felt uh free or alive um happy um uninhibited uh strong confident uh mature	Je me suis sentie libre ou vivante um heureuse um inhibée uh forte confiance uh mature
+1	mhm (mhm) after (what did you do after the military)	mhm (mhm) après (qu'avez-vous fait après l'armée)
+2	after the military uh after military took some time to evaluate my my thoughts and uh my future and um just sort of took uh the necessary steps uh to move ahead	Après l'armée, l'armée a pris du temps pour évaluer mes pensées et mon avenir, et j'ai fait les pas nécessaires pour avancer.
+1	difficult (how hard is that)	difficile (comment difficile est-ce)
+2	uh it's sort of hard it is um	C'est dur, c'est dur.
+1	civilian_life (how easy was it for you to go back to civilian life)	Civil_life (comment c'était facile pour vous de retourner à la vie civile)
+2	uh it wasn't easy uh a lot of family uh help and um and community and uh so it took some adjusting but it wasn't easy	uh ce n'était pas facile uh beaucoup de famille uh aide et um et communauté et uh donc il a fallu quelques ajustements mais ce n'était pas facile
+1	understand (i understand) ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)	comprendre (je comprends) ptsd_diagnostic (avez-vous déjà été diagnostiqué avec p_t_s_d)
+2	uh no	Non, c'est pas vrai.
+1	depression_diagnosed (have you been diagnosed with depression)	dépression_diagnostic (vous avez reçu un diagnostic de dépression)
+2	no	Non, je ne suis pas d'accord.
+1	happy_lasttime (tell me about the last time you felt really happy)	happy_lasttime (dis-moi la dernière fois que tu t'es sentie vraiment heureuse)
+2	uh you know this week um partially today happy's uh happy sort of often not too happy but content happy	uh vous savez cette semaine um partiellement aujourd'hui heureux uh heureux sorte de souvent pas trop heureux mais le contenu heureux
+1	uh_huh (uh huh)	C'est quoi, ça ?
+2	happy i don't know uh not usually too happy try to stay on the center line	heureux je ne sais pas uh généralement pas trop heureux essayer de rester sur la ligne de centre
+1	okay_confirm (okay) ideal_weekendC (tell me how you spend your ideal weekend)	OK_confirmer (OKY) idéal_weekendC (dis-moi comment tu passes ton week-end idéal)
+2	do a weekend um up early um get out enjoy the day um hook up with some friends and uh doing a little bit of socializing and uh maybe get some form of uh view some form of artistic expression	faire un week-end um up tôt um sortir profiter de la journée um sortir avec des amis et uh faire un peu de socialisation et uh peut-être obtenir une forme de uh voir une forme d'expression artistique
+1	mhm (mhm) like_what (like what)	mhm (mhm) comme quoi (comme quoi)
+2	there's a maybe a like a museum or uh stare at some art or uh maybe something in the local community maybe street art and uh or perhaps something with music or uh something something of that nature	Il y a peut-être un musée ou quelque chose dans la communauté locale, peut-être de l'art de la rue ou quelque chose avec de la musique ou quelque chose de cette nature.
+1	okay_confirm (okay) self_change (what are some things you wish you could change about yourself)	OK_confirmer (OKY) auto_changer (quelles sont certaines choses que vous souhaitez changer à propos de vous-même)
+2	i wish perhaps uh some things that i could change about myself um make more decisive about decisions and uh something else um that i had the same ability for a knack for uh for meeting more people i suppose	Je souhaite peut-être que certaines choses que je pourrais changer à propos de moi-même um prendre plus de décision et uh quelque chose d'autre um que j'avais la même capacité pour un knack pour uh pour rencontrer plus de gens je suppose
+1	mhm (mhm) BF_describe (how would your best friend describe you)	mhm (mhm) BF_description (comment votre meilleur ami vous décrirait-il)
+2	as best friends describe me i don't know um nice friendly uh trustworthy sociable	comme les meilleurs amis me décrivent je ne sais pas um gentil amical uh digne de confiance sociable
+1	advice_back (what advice would you give to yourself ten or twenty years ago)	conseil_back (quel conseil donneriez-vous il y a dix ou vingt ans)
+2	uh the same advice i'd give myself <laughter> today	uh le même conseil que je me donnerais <rires> aujourd'hui
+1	okay_confirm (okay) Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)	okay_confirm (OKY) Ellie17Dec2012_10 (dis-moi quelque chose que tu as fait récemment et que tu as vraiment apprécié)
+2	something wow uh i really enjoy spending time with my girlfriend and her two children and that was yesterday and i'm glad i did that it was a good time for everybody	Quelque chose que j'aime vraiment passer du temps avec ma petite amie et ses deux enfants et c'était hier et je suis content d'avoir fait que c'était un bon moment pour tout le monde
+1	thats_great (that's great) Ellie17Dec2012_08 (what are you most proud of in your life)	thats_gros (c'est génial) Ellie17Dec2012_08 (de quoi êtes-vous le plus fier dans votre vie)
+2	uh i'm proud i went into the military and um i'm glad i did that it was a good experience	Je suis fier d'être allé dans l'armée et je suis content d'avoir fait une bonne expérience.
+1	asked_everything (okay i think i have asked everything i need to) appreciate_open (thanks for sharing your thoughts with me) bye (goodbye)	demandé_tout ( ok, je pense que j'ai demandé tout ce que j'ai besoin de) apprécier_ouvrir (merci d'avoir partagé vos pensées avec moi) au revoir
+2	bye thank you	Au revoir, merci.

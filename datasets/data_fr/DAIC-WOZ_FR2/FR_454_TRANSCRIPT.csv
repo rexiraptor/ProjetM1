@@ -1,0 +1,150 @@
+speaker	original	traduit
+2	<synch>	<synch>
+1	IntroV4Confirmation (hi i'm ellie thanks for coming in today i was created to talk to people in a safe and secure environment i'm not a therapist but i'm here to learn about people and would love to learn about you i'll ask a few questions to get us started and please feel free to tell me anything your answers are totally confidential are you ok with this)	IntroV4Confirmation ( salut je suis ellie merci d'être venu aujourd'hui j'ai été créé pour parler aux gens dans un environnement sûr et sécurisé je ne suis pas un thérapeute mais je suis ici pour apprendre sur les gens et j'aimerais apprendre sur vous je vais poser quelques questions pour nous faire commencer et s'il vous plaît n'hésitez pas à me dire tout ce que vos réponses sont totalement confidentielles êtes-vous d'accord avec cela)
+2	yes	oui
+1	okay_confirm (okay) how_doingV (so how are you doing today)	OK_confirmer (OKY) comment_faireV (ainsi comment allez-vous aujourd'hui)
+2	great and yourself	grand et toi-même
+1	great_thanks (i'm great thanks) where_originally (where are you from originally)	great_merci (je suis très reconnaissant) d'où vous venez (d'où venez-vous à l'origine)
+2	houston texas	texas houston
+1	really (really) when_LA (when did you move to l_a)	vraiment (vraiment) quand_LA (quand avez-vous déménagé à l_a)
+2	when i was very young	quand j'étais très jeune
+1	often_backB (how often do you go back to your hometown)	souvent_backB (combien de fois retournez-vous dans votre ville natale)
+2	every few years	tous les quelques ans
+1	thats_good (that's good) compares_LA (how does it compare to l_a)	thats_good (c'est bien) compare_LA (comment se compare-t-il à l_a)
+2	it's a little bit slower	C'est un peu plus lent.
+1	why_LA (why did you move to l_a)	Pourquoi ?LA (pourquoi avez-vous déménagé à l_a)
+2	my parents brought me as a child	mes parents m'ont amené comme un enfant
+1	like_about_LA (what are some things you really like about l_a)	genre_about_LA (quelles sont certaines choses que vous aimez vraiment à propos de l_a)
+2	the weather	la météo
+1	see_mean (i see what you mean) dont_like_LA (what are some things you don't really like about l_a)	voir_moyen (je vois ce que vous voulez dire) dont_like_LA (quelles sont certaines choses que vous n'aimez pas vraiment à propos de l_a)
+2	um there's disconnect at times	Il y a parfois déconnecté.
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	um people are just kind of you know some people are warm and friendly and other people aren't it's kind of interesting	Les gens sont juste genre de vous savez que certaines personnes sont chaudes et amicales et d'autres ne sont pas un peu intéressant
+1	yeah3 (yeah) travel_shoes (i'm sure you can tell by my shoes i'm not much of a world explorer do you travel a lot)	Oui3 (ouais) Travel_shoes (je suis sûr que vous pouvez dire par mes chaussures que je ne suis pas beaucoup un explorateur du monde que vous voyagez beaucoup)
+2	yes	oui
+1	travel_changed (what do you enjoy about traveling)	voyage_changement (qu'est-ce qui vous plaît à voyager)
+2	mm different people cultures experiences	mm différentes cultures de personnes expériences
+1	travel_trips (i'd love to hear about one of your trips)	Voyage _voyages (j'adorerais entendre parler d'un de vos voyages)
+2	um pick a place	um choisir un endroit
+1	mind (whatever comes to your mind)	mental (ce qui vous vient à l'esprit)
+2	um greece the west indies	um grece les Indes de l'Ouest
+1	nice (nice) tell_about_that (can you tell me about that)	Bien (bien) dites-moi ça (vous pouvez m'en parler)
+2	uh west indies very laid back very relaxed um kind of easy flowing great weather great water	uh les Indes occidentales très détendue um genre de facile écoulement grand temps grande eau
+1	mhm (mhm)	Mhm (mhm)
+2	very nice greece um lots of culture lots of um the past very interesting	très belle grece um beaucoup de culture beaucoup de um le passé très intéressant
+1	cool3 (cool) memorableB (what's one of your most memorable experiences)	cool3 (cool) mémorableB (ce qui est l'une de vos expériences les plus mémorables)
+2	um birth of children	um naissance d'enfants
+1	aw (aw) kids_elaborate (tell me about your kids)	aw (aw) kids_elaborate (parlez-moi de vos enfants)
+2	um i have a six-year-old and we have a set of twins boys all boys	J'ai un enfant de six ans et on a un ensemble de jumeaux garçons tous les garçons
+1	wow (wow) easy_parent (do you find it easy to be a parent)	wow (wow) easy_parent (vous trouvez qu'il est facile d'être un parent)
+2	mm not always challenging sometimes	mm pas toujours défier parfois
+1	parent_hardest (what's the hardest thing about being a parent)	parent_hardest (quelle est la chose la plus difficile d'être un parent)
+2	um i think you know the kids are different they have different needs	Je pense que vous savez que les enfants sont différents ils ont des besoins différents
+1	parent_best (what's the best thing about being a parent)	parent_meilleur (quelle est la meilleure chose à faire d'être un parent)
+2	you know mm loving lots of unconditional love	vous savez mm aimant beaucoup d'amour inconditionnel
+1	parent_differences (what are some ways that you're different as a parent than your parents)	différences entre les parents (quels sont certains moyens d'être différent d'un parent à l'autre)
+2	um i think i travel along the same lines um i give my children lots of choices and i have lots let them have input on what happens	um je pense que je voyage dans les mêmes lignes um je donne à mes enfants beaucoup de choix et j'ai beaucoup les laisser avoir des commentaires sur ce qui se passe
+1	mhm (mhm) study (what did you study at school)	mhm (mhm) étude (qu'avez-vous étudié à l'école)
+2	psychology	psychologie
+1	hard_decision (how did you decide to do that)	hard_decision (comment avez-vous décidé de faire cela)
+2	um was gonna go down another path i was gonna work with the youth in the system um for children	um allait suivre un autre chemin, j'allais travailler avec les jeunes dans le système um pour les enfants
+1	sounds_interesting (that sounds interesting) still_working_on_X (are you still working in that)	sons_intéressants (qui sonne intéressant) still_working_on_X (vous travaillez toujours dans cela)
+2	no	Non, je ne suis pas d'accord.
+1	dream_job (what's your dream job)	Rêve_job (quel est votre travail de rêve)
+2	<laughter> um dream job i don't know if my dream job is an actual job there are lots of um there's xxx lots of things that i'd like to do um	Je ne sais pas si mon travail de rêve est un vrai travail, il y a beaucoup de choses que j'aimerais faire.
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	uh from a philanthropist point of view i'd like to do that would be my dream job	D'un point de vue philanthropique, j'aimerais faire ça, ce serait mon travail de rêve.
+1	like_what (like what)	comme_quoi (comme quoi)
+2	um mostly serving children that are undeserved <un> undeserved <unde> in undeserved areas um giving um giving some outlets and different things that can improve their life	um servant principalement des enfants qui sont immunisés <un> immunisés <unde> dans des zones immunisées um donnant um donnant quelques points de vente et différentes choses qui peuvent améliorer leur vie
+1	difficult (how hard is that)	difficile (comment difficile est-ce)
+2	difficult difficult monies are aren't always there uh it's not always easy to go in underserved areas um with new ideas it's difficult and i don't have the flexibility just to spend all my time doing that so	difficile les fonds difficiles ne sont pas toujours là uh ce n'est pas toujours facile d'aller dans les zones mal desservies um avec de nouvelles idées c'est difficile et je n'ai pas la flexibilité juste de passer tout mon temps à le faire ainsi
+1	yeah_downer (yeah) understand (i understand) shyoutgoing (do you consider yourself more shy or outgoing)	yeah_downer (yeah) comprend (i comprends) tikitioutway (vous considérez-vous plus timide ou sortant)
+2	outgoing	sortant
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	just not shy just have one of those kinda personalities very outspoken	juste pas timide juste avoir une de ces personnalités très franches
+1	relax_fishtank (sometimes when i'm feeling tense i turn on the fish tank screensaver hey i know it's not hawaii but it's the best i've got what do you do to relax)	relax_fishtank (parfois quand je me sens tendu, j'allume l'écran d'écran du réservoir de poisson hey je sais que ce n'est pas hawaii mais c'est le meilleur que j'ai ce que vous faites pour vous détendre)
+2	um hang out in the backyard lie on the hammock read	um traîner dans le jardin couché sur l'hamac lire
+1	nice (nice) control_temper (how are you at controlling your temper)	gentil (bien) control_temper (comment êtes-vous à contrôler votre tempérament)
+2	pretty good	assez bon
+1	thats_good (that's good) last_argument (when was the last time you argued with someone and what was it about)	thats_good (c'est bien) last_argument (quand a été la dernière fois que vous avez discuté avec quelqu'un et de quoi il s'agissait)
+2	um my sister on saturday	um ma soeur le samedi
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	oh what was it about um about i don't know silly about parking cars in a certain a place	Oh, qu'est-ce qu'il y avait à propos de um à propos de je ne sais pas stupide sur les voitures de stationnement dans un certain endroit
+1	describe_felt (how did you feel in that moment)	décrivez_felt (comment avez-vous ressenti à ce moment-là)
+2	frustrated	frustré
+1	isee_downer (i see) situation_handled (tell me about a situation that you wish you had handled differently)	isee_downer (i see) situation_handled (dis-moi une situation que tu souhaites avoir traitée différemment)
+2	hmm um i probably could've handled that situation a little bit differently	J'aurais probablement pu gérer cette situation un peu différemment.
+1	elaborate (could you say a little more about that)	(pourriez-vous dire un peu plus à ce sujet)
+2	could've been a little bit more giving <givi> could've been a little bit more giving i guess not so stubborn	aurait pu être un peu plus donnant <givi> aurait pu être un peu plus donnant je devine pas si têtu
+1	okay_confirm (okay) hard_decisionB (tell me about the hardest decision you've ever had to make)	OK_confirmer (OKY) hard_decisionB (Donnez-moi la décision la plus difficile que vous ayez jamais eu à prendre)
+2	um hardest decision hmm hardest decision i think the hardest decision i've had to make of recent would um be turning off life support system to an uncle	um décision la plus difficile um décision la plus difficile je pense que la décision la plus difficile que j'ai eu à faire de récent serait um um couper le système de survie à un oncle
+1	sorry_hear (i'm sorry to hear that)	Désolé d'entendre ça.
+2	mm thank you <y>	mm merci <y>
+1	change_directions (what made you decide to do that)	changement_directions (ce qui vous a fait décider de faire cela)
+2	mm there was nothing else that could be done for him	Il n'y avait rien d'autre à faire pour lui.
+1	yeah_downer (yeah) memory_erase (tell me about an event or something that you wish you could erase from your memory)	eye_downer (yeah) memory_erase (dis-moi un événement ou quelque chose que tu souhaites pouvoir effacer de ta mémoire)
+2	uh an accident that i had a car accident i have very little memory of it but it's still a car accident	uh un accident que j'ai eu un accident de voiture j'ai très peu de mémoire de lui mais c'est toujours un accident de voiture
+1	elaborate (could you say a little more about that)	(pourriez-vous dire un peu plus à ce sujet)
+2	um i was hit broadside by another vehicle going about forty miles per hour flipped over my truck had to be cut out with the jaws of life it was xxx very difficult time	um j'ai été touché à la large par un autre véhicule faisant environ 40 miles à l'heure retourné sur mon camion a dû être coupé avec les mâchoires de la vie c'était xxx temps très difficile
+1	Ellie17Dec2012_06 (wow) family_relationship (tell me about your relationship with your family)	Ellie17Dec2012_06 (wow) family_relationship (parlez-moi de votre relation avec votre famille)
+2	it's good we're happy	C'est bien qu'on soit heureux.
+1	family_roleB (how close are you to your family)	family_roleB (comment êtes-vous proche de votre famille)
+2	very close	très proche
+1	good_hear (that's so good to hear)	Bien entendu (c'est si bon à entendre)
+2	yeah	Oui.
+1	influence_positive (who's someone that's been a positive influence in your life)	influence_positive (qui est quelqu'un qui a été une influence positive dans votre vie)
+2	my mother my parents older sibling	ma mère mes parents plus âgés frères et sœurs
+1	tell_about_that (can you tell me about that)	d'en parler (vous pouvez m'en parler)
+2	my parents older sibling just always there standing in the gap available for conversation we'll talk things through	mes parents frères et sœurs plus âgés sont toujours là dans l'écart disponible pour la conversation nous parlerons des choses à travers
+1	mhm (mhm) easy_sleep (how easy is it for you to get a good night's sleep)	mhm (mhm) easy_sleep (comment est-il facile pour vous d'avoir une bonne nuit de sommeil)
+2	pretty easy	assez facile
+1	thats_good (that's good) sleep_affects (what are you like when you don't sleep well)	thats_good (c'est bien) dort_affects (qu'est-ce que vous êtes quand vous ne dormez pas bien)
+2	irritable <laughter>	irritable < rire >
+1	feel_lately (how have you been feeling lately)	(comment vous sentez-vous récemment)
+2	pretty good pretty great	assez bon assez bon
+1	behavior_changes (have you noticed any changes in your behavior or thoughts lately)	comportement_changements (avez-vous remarqué tout changement dans votre comportement ou vos pensées dernièrement)
+2	um not really i think i'm getting up there in age so you know with a woman and perimenopausal stuff that's part of the sleep deprivation thing i think	um pas vraiment je pense que je monte là-haut à l'âge pour que tu saches avec une femme et des trucs périménopausiques qui font partie de la privation de sommeil je pense
+1	okay_confirm (okay) ptsd_diagnosed (have you ever been diagnosed with p_t_s_d)	OK_confirmer (OKY) ptsd_diagnostic (avez-vous déjà été diagnostiqué avec p_t_s_d)
+2	no	Non, je ne suis pas d'accord.
+1	depression_diagnosed (have you been diagnosed with depression)	dépression_diagnostic (vous avez reçu un diagnostic de dépression)
+2	no	Non, je ne suis pas d'accord.
+1	happy_lasttime (tell me about the last time you felt really happy)	happy_lasttime (dis-moi la dernière fois que tu t'es sentie vraiment heureuse)
+2	this morning	Ce matin
+1	Ellie17Dec2012_02 (uh huh)	Ellie17Dec2012_02 (uh huh)
+2	i feel happy now	Je me sens heureux maintenant.
+1	thats_great (that's great) BF_describe (how would your best friend describe you)	thats_great (c'est génial) BF_description (comment votre meilleur ami vous décrirait-il)
+2	loving compassionate um strong-willed determined	amour compatissant um forte volonté déterminée
+1	self_change (what are some things you wish you could change about yourself)	auto_changement (quelles sont certaines choses que vous souhaitez changer à propos de vous-même)
+2	um little bit more patience sometimes	um un peu plus de patience parfois
+1	landed_trouble (has that gotten you in trouble)	atterrir_trouble (a-t-il eu des ennuis)
+2	i wouldn't say trouble no	Je ne dirais pas d'ennuis non
+1	okay_confirm (okay) feelbadly (tell me about a time when someone made you feel really badly about yourself)	OK_confirmer (OKY) se sent mal (renseignez-moi à propos d'un moment où quelqu'un vous a fait vous sentir vraiment mal à propos de vous-même)
+2	um really badly about myself um a fight with my best friend	um vraiment mal à propos de moi um une dispute avec mon meilleur ami
+1	bouts_symptoms (when was the last time that happened)	bouts_symptômes (quand était la dernière fois qui s'est produite)
+2	about eight months ago	il y a environ huit mois
+1	describe_felt (how did you feel in that moment)	décrivez_felt (comment avez-vous ressenti à ce moment-là)
+2	saddened	attristés
+1	why2 (why)	Pourquoi2 (pourquoi)
+2	because i love her and i don't like to fight with her	Parce que je l'aime et je n'aime pas me battre avec elle
+1	understand (i understand) avoid (could you have done anything to avoid it)	comprendre (je comprends) éviter (pourvu que vous ayez fait quoi que ce soit pour l'éviter)
+2	probably so	probablement.
+1	like_what (like what)	comme_quoi (comme quoi)
+2	could've been a little more understanding could not have spoken my mind	J'aurais pu être un peu plus compréhensif.
+1	okay_confirm (okay) regret (is there anything you regret)	OK_confirmer (OK) le regret (y a-t-il quelque chose que vous regrettez)
+2	about that situation	à propos de cette situation
+1	mind (whatever comes to your mind)	mental (ce qui vous vient à l'esprit)
+2	um yeah i have regret	Oui, j'ai des regrets.
+1	advice_back (what advice would you give to yourself ten or twenty years ago)	conseil_back (quel conseil donneriez-vous il y a dix ou vingt ans)
+2	um about that situation or just in general	um à propos de cette situation ou juste en général
+1	mind (whatever comes to your mind)	mental (ce qui vous vient à l'esprit)
+2	um to be always open very open-minded	um être toujours ouvert très ouvert d'esprit
+1	mhm (mhm) Ellie17Dec2012_10 (tell me about something you did recently that you really enjoyed)	mhm (mhm) Ellie17Dec2012_10 (dis-moi quelque chose que tu as fait récemment que tu as vraiment apprécié)
+2	um went to disneyland with the children for the weekend	um est allé au disneyland avec les enfants pour le week-end
+1	awesome (awesome)	Impressionnant (impressionnant)
+2	good thing	C'est une bonne chose.
+1	Ellie17Dec2012_09 (what are some things that usually put you in a good mood)	Ellie17Dec2012_09 (quelles sont certaines choses qui vous mettent habituellement de bonne humeur)
+2	um music kids family friends	um musique enfants amis de la famille
+1	okay_confirm (okay) Ellie17Dec2012_08 (what are you most proud of in your life)	OK_confirmer (OKY) Ellie17Dec2012_08 (de quoi êtes-vous le plus fier dans votre vie)
+2	um kids	um les enfants
+1	asked_everything (okay i think i have asked everything i need to) appreciate_open (thanks for sharing your thoughts with me) bye (goodbye)	demandé_tout ( ok, je pense que j'ai demandé tout ce que j'ai besoin de) apprécier_ouvrir (merci d'avoir partagé vos pensées avec moi) au revoir
+2	you're welcome buh bye	Tu es le bienvenu au revoir.
