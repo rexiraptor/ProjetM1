@@ -12,11 +12,20 @@ def stats_words(texte):
     mean = np.mean(list(freq_list.values()))
     range = max(freq_list.values()) - min(freq_list.values())
     std = np.std(list(freq_list.values()))
-    
     print("Moyenne :", mean)
     print("Range :", range)
     print("Ecart-type :", std)
 
+def lexical_diversity(texte, a):
+    doc = nlp(texte)
+    freq_list = Counter(token.text for token in doc if not token.is_punct and not token.is_stop and not "\n" in token.text)
+    N = len(doc)
+    V = len(freq_list)
+    v1 = len([word for word in freq_list if freq_list[word] == 1])
+    brunet_index = N ** (V ** -a)
+    honore_stats = 100 * np.log(N) / (1 - v1 / N)
+    ratio_unique = v1 / N
+    return brunet_index, honore_stats, ratio_unique
 def stats_morpho(texte):
     doc = nlp(texte)
 
@@ -46,12 +55,17 @@ def stats_morpho(texte):
                 else:
                     conjug_count += 1
     nb_ver = pos_counts["VERB"]
-    print(f"taux de verbes conjugues: {conjug_count/nb_ver}")
-    print(f"taux de verbes a l'infinitife: {inf_count/nb_ver}")
+    rate_conjug = conjug_count/nb_ver
+    rate_inf = inf_count/nb_ver
     pos_rates = {pos: count / total_count for pos, count in pos_counts.items()}
-    return pos_rates, total_count, nb_ver
+    return pos_rates, total_count, rate_conjug, rate_inf
 
 def export_patient_dialogue(file_path):
+    try :
+        df = pd.read_csv(file_path, sep="\t")
+    except :
+        print("File not found")
+        return None
     df = pd.read_csv(file_path, sep="\t")
     patient_df = df[df["speaker"] == 2].reset_index()
     patient_df = patient_df.drop(columns=["index", "original", "speaker"])
@@ -61,13 +75,26 @@ def export_patient_dialogue(file_path):
 
 def stats_morpho_all(file_path):
     patient_dialogue = export_patient_dialogue(file_path)
-    pos_rates, total_word = stats_morpho(patient_dialogue)
-    print("--- Statistiques General ---")
+    pos_rates, total_word, rate_conj, rate_inf = stats_morpho(patient_dialogue)
+    print("--------------------------")
+    print("Statistiques General")
+    print("--------------------------")
     print("Nbre total de mot :", total_word)
     stats_words(patient_dialogue)
-    print("--- Morphology Statistiques ---")
+    print("--------------------------")
+    print("Morphology Statistiques")
+    print("--------------------------")
     print("POS Rates :")
     for pos, rate in pos_rates.items():
         print(f"{pos}: {rate:.3f}")
+    print("Rate of conjugated verbs :", rate_conj)
+    print("Rate of infinitive verbs :", rate_inf)
+    brunet_index, honore_stats, ratio_unique = lexical_diversity(patient_dialogue, 0.165)
+    print("--------------------------")
+    print("Lexical Diversity")
+    print("--------------------------")
+    print("Brunet Index :", brunet_index)
+    print("Honore Statistic :", honore_stats)
+    print("Ratio Unique :", ratio_unique)
 
-stats_morpho_all(os.path.join(dataset_path, "DAMT_FR/FR_D0420-S1-T04.csv"))
+stats_morpho_all(os.path.join(dataset_path, "DAMT_FR/FR_D0420-S1-T05.csv"))
