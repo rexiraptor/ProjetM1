@@ -3,8 +3,11 @@ import os
 import pandas as pd
 from collections import Counter
 import numpy as np
+import json
+
 nlp = spacy.load('fr_core_news_lg')
 dataset_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr")
+result_path = os.path.join(os.path.dirname(__file__), "resultat")
 
 def stats_words(texte):
     doc = nlp(texte)
@@ -12,9 +15,7 @@ def stats_words(texte):
     mean = np.mean(list(freq_list.values()))
     range = max(freq_list.values()) - min(freq_list.values())
     std = np.std(list(freq_list.values()))
-    print("Moyenne :", mean)
-    print("Range :", range)
-    print("Ecart-type :", std)
+    return mean, range, std
 
 def lexical_diversity(texte, a):
     doc = nlp(texte)
@@ -74,27 +75,35 @@ def export_patient_dialogue(file_path):
     return str_dialogue
 
 def stats_morpho_all(file_path):
+    nom_fichier = file_path.split("/")[-1]
     patient_dialogue = export_patient_dialogue(file_path)
     pos_rates, total_word, rate_conj, rate_inf = stats_morpho(patient_dialogue)
-    print("--------------------------")
-    print("Statistiques General")
-    print("--------------------------")
-    print("Nbre total de mot :", total_word)
-    stats_words(patient_dialogue)
-    print("--------------------------")
-    print("Morphology Statistiques")
-    print("--------------------------")
-    print("POS Rates :")
-    for pos, rate in pos_rates.items():
-        print(f"{pos}: {rate:.3f}")
-    print("Rate of conjugated verbs :", rate_conj)
-    print("Rate of infinitive verbs :", rate_inf)
+    mean, range, std = stats_words(patient_dialogue)
     brunet_index, honore_stats, ratio_unique = lexical_diversity(patient_dialogue, 0.165)
-    print("--------------------------")
-    print("Lexical Diversity")
-    print("--------------------------")
-    print("Brunet Index :", brunet_index)
-    print("Honore Statistic :", honore_stats)
-    print("Ratio Unique :", ratio_unique)
+    json_file = {
+        "adj_rate" : pos_rates["ADJ"],
+        "adp_rate" : pos_rates["ADP"],
+        "adv_rates": pos_rates["ADV"],  
+        "conj_rate": pos_rates["CONJ"],  
+        "det_rate": pos_rates["DET"],  
+        "noun_rate": pos_rates["NOUN"],
+        "pron_rate": pos_rates["PRON"],
+        "verb_rate": pos_rates["VERB"],
+        "propn_rate": pos_rates["PROPN"],
+        "verb_conj_rate" : rate_conj,
+        "verb_inf_rate" : rate_inf,
+        "total_words" : total_word,
+        "mean_freq_words" : float(mean),
+        "range_freq_words" : range,
+        "std_freq_words" : float(std),
+        "Brunet_index" : brunet_index,
+        "Honore_statistic" : float(honore_stats),
+        "ratio_unique" : ratio_unique
+    }
+    with open(os.path.join(result_path, "result_" + nom_fichier + ".json"), "w") as f:
+        json.dump(json_file, f, indent=4)
+    print("Fichier json généré")
+    return 0
 
-stats_morpho_all(os.path.join(dataset_path, "DAMT_FR/FR_D0420-S1-T05.csv"))
+file = stats_morpho_all(os.path.join(dataset_path, "DAMT_FR/FR_D0420-S1-T05.csv"))
+
