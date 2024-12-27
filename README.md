@@ -21,6 +21,10 @@ Si vous avez ajouté d'autre librairies il faut faire cette commande pour ajoute
 ```{powershell}
 pip freeze > requirements.txt
 ```
+Si problème lors de l'installation des librairies a cause de variance dans les versions (numpy) a la place de la ligne 3
+```
+pip install --use-deprecated=legacy-resolver -r requirements.txt
+```
 
 ## Lien utiles : 
 
