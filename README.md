@@ -21,3 +21,7 @@ Si vous avez ajouté d'autre librairies il faut faire cette commande pour ajoute
 ```{powershell}
 pip freeze > requirements.txt
 ```
+
+## Lien utiles : 
+
+Trello : https://trello.com/b/0uE73zkB/analyse-de-texte
