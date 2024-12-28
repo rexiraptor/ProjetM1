@@ -1,0 +1,20 @@
+{
+    "adj_rate": 0.0,
+    "adp_rate": 0.14285714285714285,
+    "adv_rates": 0.2857142857142857,
+    "conj_rate": 0.0,
+    "det_rate": 0.0,
+    "noun_rate": 0.14285714285714285,
+    "pron_rate": 0.2857142857142857,
+    "verb_rate": 0.14285714285714285,
+    "propn_rate": 0.0,
+    "verb_conj_rate": 1.0,
+    "verb_inf_rate": 0.0,
+    "total_words": 7,
+    "mean_freq_words": 1.0,
+    "range_freq_words": 0,
+    "std_freq_words": 0.0,
+    "Brunet_index": 4.70225658368924,
+    "Honore_statistic": 454.0457014462397,
+    "ratio_unique": 0.5714285714285714
+}

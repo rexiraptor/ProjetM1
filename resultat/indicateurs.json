@@ -1,0 +1,47 @@
+{
+    "texte_complet": {
+        "texte": " ceci est une phrase. Aujourd'hui il y'as beaucoup de nuages",
+        "indicateurs": [
+            "adj_rate",
+            "adp_rate",
+            "adv_rates",
+            "conj_rate",
+            "det_rate",
+            "noun_rate",
+            "pron_rate",
+            "verb_rate",
+            "propn_rate",
+            "verb_conj_rate",
+            "verb_inf_rate",
+            "total_words",
+            "mean_freq_words",
+            "range_freq_words",
+            "std_freq_words",
+            "Brunet_index",
+            "Honore_statistic",
+            "ratio_unique",
+            "adj_rate",
+            "adp_rate",
+            "adv_rates",
+            "conj_rate",
+            "det_rate",
+            "noun_rate",
+            "pron_rate",
+            "verb_rate",
+            "propn_rate",
+            "verb_conj_rate",
+            "verb_inf_rate",
+            "total_words",
+            "mean_freq_words",
+            "range_freq_words",
+            "std_freq_words",
+            "Brunet_index",
+            "Honore_statistic",
+            "ratio_unique"
+        ],
+        "phrases": [
+            "ceci est une phrase.",
+            "Aujourd'hui il y'as beaucoup de nuages"
+        ]
+    }
+}
