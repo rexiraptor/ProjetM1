@@ -1,47 +1,33 @@
 {
     "texte_complet": {
-        "texte": " ceci est une phrase. Aujourd'hui il y'as beaucoup de nuages",
+        "texte": " il ne fait pas beau dehors les nuages sont de sotrie youpi tralalere ont peu mettre autant de phrases qu'on veut les chaussettes de l'archiduchesse sont elles seche archi seche ?",
         "indicateurs": [
-            "adj_rate",
-            "adp_rate",
-            "adv_rates",
-            "conj_rate",
-            "det_rate",
-            "noun_rate",
-            "pron_rate",
-            "verb_rate",
-            "propn_rate",
-            "verb_conj_rate",
-            "verb_inf_rate",
-            "total_words",
-            "mean_freq_words",
-            "range_freq_words",
-            "std_freq_words",
-            "Brunet_index",
-            "Honore_statistic",
-            "ratio_unique",
-            "adj_rate",
-            "adp_rate",
-            "adv_rates",
-            "conj_rate",
-            "det_rate",
-            "noun_rate",
-            "pron_rate",
-            "verb_rate",
-            "propn_rate",
-            "verb_conj_rate",
-            "verb_inf_rate",
-            "total_words",
-            "mean_freq_words",
-            "range_freq_words",
-            "std_freq_words",
-            "Brunet_index",
-            "Honore_statistic",
-            "ratio_unique"
+            {
+                "adj_rate": 0.1,
+                "adp_rate": 0.1,
+                "adv_rates": 0.0,
+                "conj_rate": 0.0,
+                "det_rate": 0.2,
+                "noun_rate": 0.4,
+                "pron_rate": 0.1,
+                "verb_rate": 0.0,
+                "propn_rate": 0.0,
+                "verb_conj_rate": 0,
+                "verb_inf_rate": 0,
+                "total_words": 10,
+                "mean_freq_words": 1.25,
+                "range_freq_words": 1,
+                "std_freq_words": 0.4330127018922193,
+                "Brunet_index": 6.736989569488479,
+                "Honore_statistic": 329.710600009776,
+                "ratio_unique": 0.2727272727272727
+            }
         ],
         "phrases": [
-            "ceci est une phrase.",
-            "Aujourd'hui il y'as beaucoup de nuages"
+            "il ne fait pas beau dehors",
+            "les nuages sont de sotrie",
+            "youpi tralalere ont peu mettre autant de phrases qu'on veut",
+            "les chaussettes de l'archiduchesse sont elles seche archi seche ?"
         ]
     }
 }
