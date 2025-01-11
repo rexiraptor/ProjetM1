@@ -30,7 +30,6 @@ total_count = 0
 verb_obj = 0
 verb_suj = 0
 verb_aux = 0
-total_verbs = 0
 
 prop_sub = 0
 total_sentences = len(list(doc.sents))
@@ -41,7 +40,6 @@ for token in doc:
         if token.pos_ in pos_counts:
             pos_counts[token.pos_] += 1
         if token.pos_ == "VERB":
-            total_verbs += 1
             
             if token.morph.get("VerbForm")[0] == "Inf":
                 inf_count += 1
@@ -66,9 +64,9 @@ nb_ver = pos_counts["VERB"]
 print(f"taux de verbes: {nb_ver/total_count}")
 print(f"taux de verbes conjugues: {conjug_count/nb_ver}")
 print(f"taux de verbes a l'infinitif: {inf_count/nb_ver}")
-print(f"taux de phrases verbales contenant des objets: {verb_obj / total_verbs}")
-print(f"taux de phrases verbales contenant des sujets: {verb_suj / total_verbs}")
-print(f"Ratio de phrases verbales contenant des auxiliaires: {verb_aux / total_verbs}")
+print(f"taux de phrases verbales contenant des objets: {verb_obj / nb_ver}")
+print(f"taux de phrases verbales contenant des sujets: {verb_suj / nb_ver}")
+print(f"Ratio de phrases verbales contenant des auxiliaires: {verb_aux / nb_ver}")
 print(f"Moyenne des propositions subordonnées par phrase: {prop_sub / total_sentences}")
 
 print(f"Le nombre total de tokens: {total_count}")
