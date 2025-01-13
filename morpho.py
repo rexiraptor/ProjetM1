@@ -56,8 +56,12 @@ def stats_morpho(texte):
                 else:
                     conjug_count += 1
     nb_ver = pos_counts["VERB"]
-    rate_conjug = conjug_count/nb_ver
-    rate_inf = inf_count/nb_ver
+    if(nb_ver > 0):
+        rate_conjug = conjug_count/nb_ver
+        rate_inf = inf_count/nb_ver
+    else:
+        rate_conjug = 0
+        rate_inf = 0
     pos_rates = {pos: count / total_count for pos, count in pos_counts.items()}
     return pos_rates, total_count, rate_conjug, rate_inf
 
@@ -74,9 +78,12 @@ def export_patient_dialogue(file_path):
     str_dialogue = " ".join(patient_tab[:, 0])
     return str_dialogue
 
-def stats_morpho_all(file_path):
-    nom_fichier = file_path.split("/")[-1]
+def patient_dialogue(file_path):
     patient_dialogue = export_patient_dialogue(file_path)
+    return patient_dialogue
+
+def stats_morpho_all(patient_dialogue, nom_fichier):
+    
     pos_rates, total_word, rate_conj, rate_inf = stats_morpho(patient_dialogue)
     mean, range, std = stats_words(patient_dialogue)
     brunet_index, honore_stats, ratio_unique = lexical_diversity(patient_dialogue, 0.165)
@@ -103,7 +110,7 @@ def stats_morpho_all(file_path):
     with open(os.path.join(result_path, "result_" + nom_fichier + ".json"), "w") as f:
         json.dump(json_file, f, indent=4)
     print("Fichier json généré")
-    return 0
-
-file = stats_morpho_all(os.path.join(dataset_path, "DAMT_FR/FR_D0420-S1-T05.csv"))
+    return json_file
+file_path = "DAMT_FR/FR_D0420-S1-T05.csv"
+file = stats_morpho_all(patient_dialogue(os.path.join(dataset_path, file_path)), file_path.split("/")[-1].split(".")[0])
 
