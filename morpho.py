@@ -98,7 +98,7 @@ def stats_morpho_all(file_path):
         "std_freq_words" : float(std),
         "Brunet_index" : brunet_index,
         "Honore_statistic" : float(honore_stats),
-        "ratio_unique" : ratio_unique
+        "TTR" : ratio_unique
     }
     with open(os.path.join(result_path, "result_" + nom_fichier + ".json"), "w") as f:
         json.dump(json_file, f, indent=4)
