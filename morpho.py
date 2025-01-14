@@ -4,6 +4,8 @@ import pandas as pd
 from collections import Counter
 import numpy as np
 import json
+from spacy.lang.fr.stop_words import STOP_WORDS
+
 
 nlp = spacy.load('fr_core_news_lg')
 dataset_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr")
@@ -27,9 +29,10 @@ def lexical_diversity(texte, a):
     honore_stats = 100 * np.log(N) / (1 - v1 / N)
     ratio_unique = v1 / N
     return brunet_index, honore_stats, ratio_unique
+
 def stats_morpho(texte):
     doc = nlp(texte)
-
+   
     # POS tags
     pos_counts = {
         "ADJ": 0,  # Adjectifs
@@ -41,20 +44,74 @@ def stats_morpho(texte):
         "PRON": 0,  # Pronoms
         "VERB": 0,  # Verbes
         "PROPN": 0,  # Noms propres
+        "AUX": 0,   # Auxiliaires
     }
-    total_count = 0
+
     conjug_count = 0
     inf_count = 0
-    for token in doc:
-        if not token.is_punct and token.text != "\n":
-            total_count += 1
-            if token.pos_ in pos_counts:
-                pos_counts[token.pos_] += 1
-            if token.pos_ == "VERB":
-                if token.morph.get("VerbForm")[0] == "Inf":
-                    inf_count += 1
-                else:
-                    conjug_count += 1
+
+    total_count = 0
+
+    verb_obj = 0
+    verb_suj = 0
+    verb_aux = 0
+    total_verbs = 0
+
+    repetition_cons = 0
+    prop_sub = 0
+    total_phrase = 0
+
+    for phrase in doc.sents:
+        total_phrase += 1
+        contient_vo = False
+        contient_vs = False
+        contient_va = False
+        token_list = set()
+
+        for token in phrase:
+            if not token.is_punct and token.text != "\n":
+                total_count += 1
+
+                if token.lemma_ not in STOP_WORDS:
+                    if token.lemma_ in token_list:
+                        repetition_cons += 1
+                    else:
+                        token_list.add(token.lemma_)
+
+                if token.pos_ in pos_counts:
+                    pos_counts[token.pos_] += 1
+                if token.pos_ == "VERB":
+                    total_verbs += 1
+                    
+                    if token.morph.get("VerbForm"):
+                        if token.morph.get("VerbForm")[0] == "Inf":
+                            inf_count += 1
+                        else:
+                            conjug_count += 1
+
+                    if any(child.dep_ in {"obj", "iobj"} for child in token.children):
+                        contient_vo = True
+
+                    if any(child.dep_ in {"nsubj", "csubj"} for child in token.children):
+                        contient_vs = True
+
+                    if any(child.pos_ == "AUX" for child in token.children):
+                        contient_va = True
+
+            if token.dep_ in {"advcl", "csubj", "ccomp", "relcl"}:
+                prop_sub += 1
+
+        if contient_vo:
+            verb_obj += 1
+        if contient_vs:
+            verb_suj += 1
+        if contient_va:
+            verb_aux += 1
+
+    pos_rates = {pos: count / total_count for pos, count in pos_counts.items()}
+
+    mean_prop_sub = prop_sub / total_phrase
+
     nb_ver = pos_counts["VERB"]
     if(nb_ver > 0):
         rate_conjug = conjug_count/nb_ver
@@ -63,7 +120,10 @@ def stats_morpho(texte):
         rate_conjug = 0
         rate_inf = 0
     pos_rates = {pos: count / total_count for pos, count in pos_counts.items()}
-    return pos_rates, total_count, rate_conjug, rate_inf
+    verb_w_obj = verb_obj / total_phrase
+    verb_w_subj = verb_suj / total_phrase
+    verb_w_aux = verb_aux / total_phrase
+    return pos_rates, total_count, rate_conjug, rate_inf, verb_w_obj, verb_w_subj, verb_w_aux, repetition_cons, mean_prop_sub
 
 def export_patient_dialogue(file_path):
     try :
@@ -83,8 +143,7 @@ def patient_dialogue(file_path):
     return patient_dialogue
 
 def stats_morpho_all(patient_dialogue, nom_fichier):
-    
-    pos_rates, total_word, rate_conj, rate_inf = stats_morpho(patient_dialogue)
+    pos_rates, total_word, rate_conj, rate_inf, verb_w_obj, verb_w_subj, verb_w_aux, repetition_cons, mean_prop_sub = stats_morpho(patient_dialogue)
     mean, range, std = stats_words(patient_dialogue)
     brunet_index, honore_stats, ratio_unique = lexical_diversity(patient_dialogue, 0.165)
     json_file = {
@@ -97,6 +156,11 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
         "pron_rate": pos_rates["PRON"],
         "verb_rate": pos_rates["VERB"],
         "propn_rate": pos_rates["PROPN"],
+        "verb_aux_rate": verb_w_aux,
+        "verb_obj_rate": verb_w_obj,
+        "verb_subj_rate": verb_w_subj,
+        "sub_prop_rate": mean_prop_sub,
+        "repetition_cons_rate": repetition_cons,
         "verb_conj_rate" : rate_conj,
         "verb_inf_rate" : rate_inf,
         "total_words" : total_word,
@@ -111,6 +175,7 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
         json.dump(json_file, f, indent=4)
     print("Fichier json généré")
     return json_file
+
 file_path = "DAMT_FR/FR_D0420-S1-T05.csv"
 file = stats_morpho_all(patient_dialogue(os.path.join(dataset_path, file_path)), file_path.split("/")[-1].split(".")[0])
 
