@@ -138,9 +138,6 @@ def export_patient_dialogue(file_path):
     str_dialogue = " ".join(patient_tab[:, 0])
     return str_dialogue
 
-def patient_dialogue(file_path):
-    patient_dialogue = export_patient_dialogue(file_path)
-    return patient_dialogue
 
 def stats_morpho_all(patient_dialogue, nom_fichier):
     pos_rates, total_word, rate_conj, rate_inf, verb_w_obj, verb_w_subj, verb_w_aux, repetition_cons, mean_prop_sub = stats_morpho(patient_dialogue)
@@ -177,5 +174,5 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
     return json_file
 
 file_path = "DAMT_FR/FR_D0420-S1-T05.csv"
-file = stats_morpho_all(patient_dialogue(os.path.join(dataset_path, file_path)), file_path.split("/")[-1].split(".")[0])
+file = stats_morpho_all(export_patient_dialogue(os.path.join(dataset_path, file_path)), file_path.split("/")[-1].split(".")[0])
 

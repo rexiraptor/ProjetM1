@@ -41,8 +41,7 @@ def read_root():
     return {"Hello": "World"}
 
 # Endpoint pour envoyer une phrase et recevoir ses indicateurs
-# Endpoint pour envoyer une phrase et recevoir ses indicateurs
-@app.post("/indic/")
+@app.post("/indic/sep")
 def send_phrase(item: Text):  # Utilisation du modèle Text pour accepter le corps de la requête
     # Charger les indicateurs déjà enregistrés
     data = load_indicateurs()
@@ -52,7 +51,7 @@ def send_phrase(item: Text):  # Utilisation du modèle Text pour accepter le cor
     txt.phrase.append(item.texte)  # Ajouter la phrase à la liste des phrases
 
     # Calculer les indicateurs pour la phrase
-    indicateurs_phrase = morpho.stats_morpho_all(item.texte, "indicateurs")
+    indicateurs_phrase = morpho.stats_morpho_all(txt.texte, "indicateurs")
 
     # Remplacer les anciens indicateurs pour chaque nouvelle phrase
     txt.indicateurs = [indicateurs_phrase]  # Remplacer l'ensemble d'indicateurs
