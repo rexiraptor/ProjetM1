@@ -1,0 +1,2478 @@
+mot	valeur
+abandonner	-2
+abandonné	-2
+abandons	-2
+enlevé	-2
+enlèvement	-2
+enlèvements	-2
+Abhor	-3
+abhorré	-3
+odieuse	-3
+Abhors	-3
+Capacités	2
+Capacité	2
+à bord	1
+absenté	-1
+absents	-1
+absolve	2
+absolue	2
+absolus	2
+l'absolution;	2
+absorbé	1
+mauvais traitements	-3
+abusés	-3
+abus	-3
+abusives	-3
+Accepter	1
+accepté	1
+accepter	1
+accepte	1
+accident	-2
+accidentelle	-2
+accidentellement	-2
+accidents	-2
+accomplir	2
+accompli	2
+accompli	2
+Inculpation	-2
+accusations	-2
+accuser	-2
+accusés	-2
+accusés	-2
+accusant	-2
+douleur	-2
+réalisables	1
+douleur	-2
+acquittement	2
+acquittement	2
+acquitté	2
+Acquiescement	2
+acrimonieux	-3
+actif	1
+adéquat	1
+admirez	3
+admiré	3
+admire	3
+admirant	3
+admettre	-1
+admet	-1
+admis	-1
+avertissement	-2
+avertis	-2
+adopté	1
+adopte	1
+adorable	3
+Adorez	3
+adoré	3
+les adorateurs	3
+avancé	1
+avantage	2
+avantages	2
+aventure	2
+aventures	2
+aventureux	2
+affectés	-1
+affection	3
+affectueux	3
+affligé	-1
+Affronté	-1
+peur	-2
+Aggravation	-2
+aggravé	-2
+Aggravations	-2
+aggravant	-2
+Agression	-2
+agressions	-2
+agressif	-2
+C'est vrai.	-2
+Agonie	2
+agonise	-3
+agonisé	-3
+agonise	-3
+agonisant	-3
+agoniser	-3
+agonisé	-3
+agonise	-3
+agonisant	-3
+d'accord	1
+agréable	2
+d ' accord	1
+accord	1
+d'accord	1
+alarme	-2
+Alarmée	-2
+alarmiste	-2
+alarmistes	-2
+Hélas	-1
+Alerte	-1
+aliénation	-2
+vivant	1
+allergique	-2
+permettre	1
+seul	-2
+étourdissements	2
+émerveillé	2
+étourdissements	2
+incroyable	4
+ambitieux	2
+ambivalent	-1
+Amuse-toi.	3
+amusés	3
+Amusement	3
+Amusements	3
+colère	-3
+colères	-3
+en colère	-3
+angoisse	-3
+angoisse	-3
+animosité	-2
+ennuyeuse	-2
+l'ennui	-2
+ennuyé	-2
+ennuyant	-2
+Les ennuis	-2
+antagonistes	-2
+contre la torture et autres peines ou traitements cruels, inhumains ou dégradants	-1
+Prévoir	1
+anxiété	-2
+anxieuse	-2
+apathique	-3
+apathie	-3
+C'est de l'apesanteur.	-3
+apocalyptique	-2
+s'il vous plaît	-1
+excusés	-1
+s'excuse	-1
+s'excuser	-1
+Excuse-moi.	-1
+Excusés	-1
+s'excuse	-1
+s'excuser	-1
+excuses	-1
+consterné	-2
+C'est épouvantable.	-2
+un peu d'apaisement	2
+apaisé	2
+s'il vous plaît	2
+s'apaiser	2
+applaudir	2
+applaudis	2
+applaudissant	2
+applaudit	2
+applaudissements	2
+Merci d'avoir apprécié	2
+apprécié	2
+apprécie	2
+reconnaissant	2
+Évaluation	2
+appréhensif	-2
+Agrément	2
+approuvé	2
+approuve	2
+ardemment	1
+arrestation	-2
+arrêté	-3
+arrestations	-2
+arrogant	-2
+shame	-2
+honteux	-2
+cul	-4
+assassinat	-3
+assassinats	-3
+actif	2
+Actifs	2
+C'est quoi, ce bordel ?	-4
+trou du cul	-4
+étonnés	2
+stupéfiant	3
+stupéfait	3
+stupéfiant	3
+Stupéfiant	3
+des astuces	3
+attaque	-1
+attaqué	-1
+attaquer	-1
+attaques	-1
+attirer	1
+attirés	1
+Attirer	2
+attraction	2
+attractions	2
+attire	1
+Audacieux	3
+Autorité	1
+Avertissement	-1
+averti	-1
+avertis	-1
+avid	2
+éviter	-1
+évité	-1
+évite	-1
+attendre	-1
+attendu	-1
+attend	-1
+pour l ' octroi de l ' indemnité	3
+décerné	3
+Prix	3
+génial	4
+C'est affreux.	-3
+embarrassant	-2
+hache	-1
+Axé	-1
+soutenu	1
+Soutien	2
+dos	1
+Mauvais	-3
+badasse	-3
+- C'est grave.	-3
+Mise en liberté sous caution	-2
+bambouzle	-2
+en bambouzled	-2
+bambous-zilles	-2
+interdiction	-2
+bannir	-1
+failli	-3
+banquier	-3
+interdite	-2
+Marché conclu	2
+barrière	-2
+Bâtard	-5
+Salopes	-5
+bataille	-1
+batailles	-1
+battus	-2
+béatifique	3
+coups et blessures	-1
+beautés	3
+belle	3
+magnifiquement	3
+embellir	3
+petit	-2
+diminués	-2
+bien-aimés	3
+prestation	2
+avantages sociaux	2
+bénéficié d'une aide	2
+en faveur de l'Union européenne	2
+en cas d'apparition d'une maladie	-2
+endeuillés	-2
+boreaux	-2
+endeuillement	-2
+le meilleur	3
+trahir	-3
+trahison	-3
+trahi	-3
+trahir	-3
+trahit	-3
+mieux	2
+partialité	-1
+biaisé	-2
+gros	1
+Salope	-5
+Salopes	-5
+Amère	-2
+Amèrement	-2
+bizarre	-2
+bla bla	-2
+blâme	-2
+blâmé	-2
+blâmes	-2
+blâme	-2
+bénir	2
+bénit	2
+bénédiction	3
+aveugle	-1
+béatitude	3
+Bénédiction	3
+d'une teneur en poids de matières grasses égale ou supérieure à 50 % en poids	2
+bloc	-1
+blockbuster	3
+bloqué	-1
+blocage	-1
+blocs	-1
+sanglant	-3
+flou	-2
+orgueilleux	-2
+gras	2
+hardiment	2
+bombe	-1
+Coup de pouce	1
+boosté	1
+stimuler	1
+Coups de pouce	1
+l'ennui	-2
+s'ennuyer	-2
+ennuyant	-3
+ennuie-toi.	-2
+ennuyé	-2
+ennuis	-2
+C'est gênant.	-2
+boycottage	-2
+boycotté	-2
+boycottage	-2
+boycotts	-2
+lavage de cerveau	-3
+courageux	2
+percée	3
+à couper le souffle	5
+pour pots-de-vin	-3
+lumineux	1
+Les plus brillants	2
+luminosité	1
+brillant	4
+vif	2
+cassé	-1
+cassé	-1
+couvées	-2
+outrage à l'ordre public	-2
+Des conneries	-4
+outrage à la pudeur	-2
+brimades	-2
+pulvérulent	-2
+flottant	2
+charge	-2
+dont la charge est	-2
+la charge de travail	-2
+charges	-2
+calme	2
+calmé	2
+calmant	2
+calmes	2
+Je ne supporte pas.	-3
+annuler	-1
+annulé	-1
+annuler	-1
+annule	-1
+cancer	-1
+capable	1
+captivé	3
+soins de santé	2
+insouciants	1
+Faites attention.	2
+avec précaution	2
+négligents	-2
+soins	2
+Encaissement	-2
+Victimes	-2
+catastrophe	-3
+catastrophique	-4
+prudent	-1
+fêter	3
+fêté	3
+Célébrations	3
+Célébration	3
+Censeur	-2
+censuré	-2
+Censeurs	-2
+certains	1
+chagrine	-2
+chagrinés	-2
+défi à relever	-1
+hasard	2
+probabilités	2
+chaos	-2
+chaotique	-2
+facturés	-3
+Frais	-2
+charme	3
+charmant	3
+Sans charme	-3
+chasteté	-3
+châtié	-3
+châtes	-3
+châtiant	-3
+triche	-3
+triché	-3
+tricheur	-3
+tricheurs	-3
+tricheurs	-3
+Salut, mon Dieu.	2
+acclamé	2
+joyeux	2
+les applaudissements	2
+impitoyable	-2
+joies	2
+Heureux.	3
+chérie	2
+chéris	2
+chéries	2
+chérissant	2
+chic	2
+enfantins	-2
+refroidissement	-1
+étouffement	-2
+étouffé	-2
+étourdissements	-2
+étouffement	-2
+clarifie	2
+clarté	2
+choc	-2
+classe	3
+Nettoyer	2
+Nettoyeur	2
+C'est clair.	1
+Éliminé	1
+clairement	1
+C'est bon.	1
+Intelligent	2
+nuageux	-1
+Sans indice	-2
+Coq	-5
+Enfoiré de coqs	-5
+Enculés de bites	-5
+C'est cocu.	-2
+sous la contrainte	-2
+effondrement	-2
+effondré	-2
+effondrements	-2
+s'effondrer	-2
+collision	-1
+collisions	-1
+collisions	-1
+collision	-2
+collisions	-2
+de collusion	-3
+Lutte contre la traite des êtres humains	-1
+les combats	-1
+comédie	1
+confort	2
+confortable	2
+réconfortant	2
+conforts	2
+féliciter	2
+félicités	2
+commit	1
+engagement	2
+commits	1
+engagés	1
+s'engager	1
+compassion	2
+contrainte	1
+compétent	2
+concurrence	2
+complaisant	-2
+se plaindre	-2
+plainte	-2
+se plaint	-2
+globale	2
+conciliant	2
+conciliées	2
+conciliants	2
+conciliant	2
+condamner	-2
+Condamnation	-2
+condamné	-2
+condamne	-2
+confiance	2
+confiance en soi	2
+conflit	-2
+conflit	-2
+conflit	-2
+conflits armés	-2
+confusion	-2
+confusion	-2
+confusion	-2
+félicitations	2
+Félicitations	2
+félicitations	2
+Félicitations	2
+consentement	2
+consentements	2
+consolable	2
+conspiration	-3
+contrainte	-2
+contagion	-2
+contagions	-2
+contagieux	-1
+outrage	-2
+outrageux	-2
+mépriseusement	-2
+soutenir	-1
+prétendant	-1
+concurrence	-1
+litigieux	-2
+contestable	-2
+controverse	-2
+controverséement	-2
+convaincre	1
+Convaincus	1
+convainc	1
+de convivialité	2
+frais	1
+Des trucs cool	3
+coincés	-2
+cadavre	-1
+coûteux	-2
+courage	2
+courageux	2
+courtois	2
+courtoisie	2
+Couverture	-3
+lâche	-2
+lâcheté	-2
+Cozyness	2
+crampe	-1
+C'est de la merde.	-3
+accident	-2
+C'est plus fou.	-2
+C'est le plus fou.	-2
+C'est fou.	-2
+créatif	2
+crestfallen	-2
+pleuré	-2
+cris	-2
+la criminalité	-3
+Délinquants	-3
+criminels	-3
+crise	-3
+critique	-2
+critiques	-2
+critique	-2
+critiqués	-2
+critique	-2
+critiquer	-2
+critiques	-2
+cruel	-3
+cruauté	-3
+écrasement	-1
+broyés	-2
+écrasements	-1
+concassage	-1
+pleurer	-1
+pleurant	-2
+Connasse	-5
+curieux	1
+malédiction	-1
+Couper	-1
+mignon	2
+coupes	-1
+Découpe	-1
+cynique	-2
+cynique	-2
+cynisme	-2
+Dommages	-3
+dommages-intérêts	-3
+C'est pas vrai.	-4
+Damnés	-4
+Nom d'un chien	-4
+danger	-2
+oostdevil	2
+osé	2
+les plus foncés	-2
+obscurité	-1
+impitoyable	2
+mort	-3
+dans l ' impasse	-2
+assourdissement	-1
+Chère	2
+Chère	3
+décès	-2
+debonair	2
+dette	-2
+tromperie	-3
+tromperie	-3
+tromper	-3
+trompés	-3
+tromperies	-3
+tromperie	-3
+La tromperie	-3
+décisif	1
+dédié	2
+vaincu	-2
+Défaut	-3
+défauts	-3
+défenseur	2
+défenseurs des droits de l ' homme	2
+sans défense	-2
+ajourner	-1
+Report de l ' exécution	-1
+défiant	-1
+déficit	-2
+Dégradation	-2
+dégradé	-2
+dégradations	-2
+déshumaniser	-2
+déshumanisé	-2
+déshumanisants	-2
+déshumanisation	-2
+Déjecter	-2
+déjecté	-2
+Déjection	-2
+Déjects	-2
+retard	-1
+retard	-1
+délice	3
+enchanté	3
+délices	3
+délices	3
+demande	-1
+demandé	-1
+exigeant	-1
+demande	-1
+démonstration	-1
+démoralisée	-2
+refusé	-2
+dentier	-2
+les dénonciateurs;	-2
+nie	-2
+dénoncer	-2
+dénonce	-2
+nier	-2
+en niant	-2
+dépression	-2
+déprimant	-2
+dérailleur	-2
+déraillés	-2
+déraillements	-2
+Déridez-vous	-2
+dérisoires	-2
+Dérivés	-2
+Débarquement	-2
+dérision	-2
+souhaitable	2
+désir	1
+désiré	2
+Désireux	2
+désespoir	-3
+désespérant	-3
+des désespoirs	-3
+désespérément	-3
+désespérément	-3
+destinataires	-3
+détruire	-3
+détruit	-3
+détruisant	-3
+détruit	-3
+destruction	-3
+destructeurs	-3
+détaché	-1
+Détention	-2
+Détenus	-2
+Détention	-2
+déterminée	2
+devastate	-2
+dévastés	-2
+dévastatrice	-2
+consacrée	3
+diamant	1
+bite	-4
+tête de bite	-4
+mort	-3
+mort	-3
+difficile	-1
+différent	-2
+dilemme	-1
+C'est pas vrai.	-3
+- C'est pas vrai.	-3
+C'est terrible.	-3
+la saleté	-2
+plus sale	-2
+les plus sales	-2
+C'est sale.	-2
+invalidation	-1
+désavantage	-2
+défavorisé	-2
+disparaître	-1
+disparu	-1
+disparaît	-1
+décevoir	-2
+déçu	-2
+décevant	-2
+déception	-2
+déceptions	-2
+les déceptions	-2
+catastrophe	-2
+catastrophes naturelles	-2
+désastreux	-3
+N'est-ce pas ?	-2
+Jetez-le.	-1
+rejetés	-1
+Rejets	-1
+déchets	-1
+Disconsolation	-2
+disconsolation	-2
+mécontent	-2
+discorde	-2
+Montant actualisé	-1
+découragé	-2
+discrédité	-2
+dédain	-2
+la honte	-2
+déshonorés	-2
+déguisement	-1
+déguisés	-1
+déguisements	-1
+déguisant	-1
+dégoûtant	-3
+dégoûtés	-3
+dégoûtant	-3
+découragé	-2
+malhonnête	-2
+désillusionnés	-2
+succinctement	-2
+disjoints	-2
+n'aime pas	-2
+lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal, lombal,	-2
+consterné	-2
+Affections du système nerveux	-2
+désorganisé	-2
+désorientée	-2
+dépeuplement	-2
+dépréciés	-2
+disparates	-2
+dépeuplement	-2
+déplaisir	-2
+différend	-2
+litigieux	-2
+différends	-2
+la contestation	-2
+disqualifié	-2
+Le problème, c'est qu'il n'y a pas de problème.	-2
+oubli	-2
+non pris en considération	-2
+oubliant	-2
+oublis	-2
+manque de respect	-2
+irrespectueux	-2
+Perturbation	-2
+Perturbations	-2
+perturbateur	-2
+insatisfait	-2
+fausse	-2
+déformé	-2
+déformage	-2
+déforme	-2
+Distraire	-2
+distrait	-2
+distraction	-2
+Les distractions	-2
+détresse	-2
+affligé	-2
+détresses	-2
+affligeant	-2
+défiance	-3
+méfiant	-3
+Perturbation	-2
+perturbé	-2
+dérangeant	-2
+dérangement	-2
+Dithering	-2
+étourdissements	-1
+les mesures d'esquive;	-2
+C'est un peu d'escroquerie.	-2
+ne fonctionne pas	-3
+doloreux	-2
+n'aime pas	-2
+mort	-2
+condamné	-2
+doute	-1
+douteux	-1
+douteux	-1
+doute	-1
+doutes	-1
+Dégonflé	-3
+sac à dos	-3
+downcast	-2
+d'un cœur débordé	-2
+à l'envers	-2
+Traîner	-1
+traînée	-1
+traînées	-1
+égouttés	-2
+Crainte	-2
+redouté	-2
+C'est terrible.	-3
+redoutant	-2
+Rêve	1
+rêves	1
+dreary	-2
+Dropy	-2
+chute	-1
+noyé	-2
+noyés	-2
+noyés	-2
+ivre	-2
+douteux	-2
+d'une valeur n'excédant pas 50 % du prix départ usine du produit	-2
+terne	-2
+Imbécile	-3
+Imbécile	-3
+dépotoir	-1
+faisant l'objet d'un dumping	-2
+décharges	-1
+Duppé	-2
+Dumped	-2
+dysfonctionnement	-2
+Avide	2
+sérieux	2
+facilité	2
+facile	1
+extatique	4
+L'industrie de l'Union européenne	-2
+A l'heure actuelle, l'industrie de l'Union européenne a connu une forte croissance de l'industrie de l'Union européenne et de l'industrie de l'Union européenne.	-2
+efficace	2
+efficace	2
+plébiscité	3
+l'allégeance	3
+élégant	2
+élégamment	2
+embarrassant	-2
+embarrassé	-2
+embarrasse	-2
+embarrassant	-2
+embarrassement	-2
+embusqués	-2
+embrasser	1
+urgence	-2
+empathique	2
+vide	-1
+vide	-1
+enchanté	2
+encourager	2
+encouragés	2
+l'encouragement	2
+encourage	2
+approuver	2
+approuvé	2
+a) Attestation	2
+approuve	2
+ennemis	-2
+ennemi	-2
+énergétique	2
+s'engager	1
+s'engage	1
+engrais	1
+Profitez-en	2
+Appréciation	2
+se réjouit	2
+illuminée	2
+éclairé	2
+Illumination	2
+illuminées	2
+Ennui	-2
+Enrage	-2
+furieuse	-2
+enrages	-2
+enragées	-2
+encapture	3
+enslave	-2
+asservi	-2
+enslaves	-2
+veiller à ce que	1
+en veillant à ce que	1
+entreprenants	1
+divertissant	2
+enthral	3
+enthousiaste	3
+intitulé	1
+confiée	2
+envies	-1
+envieux	-2
+envie	-1
+envieuse	-1
+Erreur	-2
+erreur	-2
+erreurs	-2
+Échappement	-1
+évasions	-1
+Échapper	-1
+estimés	2
+éthique	2
+euphorie	3
+euphorique	4
+expulsion	-1
+le mal	-3
+Exagération	-2
+exagéré	-2
+exagérations	-2
+Exagération	-2
+exaspéré	2
+excellence	3
+Excellent	3
+Excite	3
+excité	3
+excitation	3
+excitant	3
+exclure	-1
+exclus	-2
+exclusion	-1
+exclusif	2
+Excuse-moi.	-1
+Exempt	-1
+épuisé	-2
+exaltés	3
+exaltants	3
+exaltant	3
+exonéré	2
+exonérés	2
+exonérés	2
+exonérant	2
+élargir	1
+élargit	1
+expulser	-2
+expulsés	-2
+expulsement	-2
+expulsements	-2
+de l ' exploitation des ressources	-2
+exploités	-2
+de l ' exploitation des ressources	-2
+Exploitations	-2
+et de l ' exploration	1
+des activités d ' exploration	1
+exposer	-1
+exposée	-1
+expose	-1
+exposé	-1
+Prolongation	1
+s'étend	1
+exubérant	4
+exultant	3
+exultant	3
+fabuleux	4
+mode	-2
+pédé	-3
+Fraggot	-3
+Poufs	-3
+Échec	-2
+échoué	-2
+Échec	-2
+échoue	-2
+Défaut	-2
+défaillances	-2
+évanouissement	-2
+équitable	2
+la foi	1
+Fidèles	3
+faux	-3
+faux	-3
+ficelle	-3
+tombé	-2
+chute	-1
+falsifiés	-3
+falsifier	-3
+célébrité	1
+Ventilateur	3
+Fantastique	4
+farce	-1
+fascinée	3
+fasciné	3
+fascinés	3
+fascinant	3
+fasciste	-2
+fascistes	-2
+Décès	-3
+fatalité	-3
+fatigue	-2
+fatigué	-2
+fatigues	-2
+Pâturage	-2
+faveur	2
+faveurs	2
+favori	2
+favorid	2
+favoris	2
+faveurs	2
+peur	-2
+peureux	-2
+peur	-2
+sans peur	2
+peureux	-2
+J'en ai assez.	-3
+faible	-2
+sensation	1
+Délits	-3
+Délits	-3
+Fervent	2
+fervide	2
+festive	2
+Fiasco	-3
+Fidgety	-2
+Lutte	-1
+Très bien.	2
+Feu	-2
+Tiré	-2
+tir	-2
+en forme	1
+conditionnement physique	1
+amiral	2
+fuit	-1
+C'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon, c'est bon,	-2
+Les flops	-2
+Grippe	-2
+hystériques	-2
+focalisé	2
+Œufs	2
+la tendresse	2
+Imbécile	-2
+Crétin	-2
+Imbéciles	-2
+forcé	-1
+forclusion	-2
+les saisies	-2
+oublier	-1
+Oubliés	-2
+pardonne	1
+Pardonner	1
+oublié	-1
+Heureusement	2
+frénétique	-1
+fraude	-4
+fraudes	-4
+fraudeur	-4
+fraudeurs	-4
+fraude	-4
+frauduleux	-4
+gratuit	1
+liberté	2
+Frénésie	-3
+frais	1
+amical	2
+peur	-2
+peur	-2
+effrayant	-3
+friandises	-2
+C'est pas vrai.	2
+froncement	-1
+frustré	-2
+frustré	-2
+frustrés	-2
+frustrant	-2
+frustration	-2
+Ftw	3
+Merde !	-4
+baisée	-4
+Espèce d'enfoiré.	-4
+enculés	-4
+putain de visage	-4
+Imbécile	-4
+putain	-4
+C'est quoi, ce bordel ?	-4
+Fud	-3
+fumées	-4
+Fumer	-4
+remplir	2
+satisfait	2
+Réalisations	2
+la fumure;	-2
+amusant	4
+obsèques	-1
+enterrements	-1
+Funky	2
+plus drôle	4
+drôle	4
+furieuse	-3
+futile	2
+Bâillon	-2
+bâillonné	-2
+gain	2
+gagnés	2
+gagner	2
+gains	2
+galant	3
+galantement	3
+la galanterie	3
+généreux	2
+génie	3
+fantôme	-1
+C'est pas vrai.	-2
+cadeau	2
+heureux	3
+glamour	3
+glamour	3
+joie	3
+glorieuse	3
+Légèreté	-1
+Lugubre	-2
+glorieuse	2
+gloire	2
+glum	-2
+Dieu	1
+C'est pas vrai.	-3
+La fin des dieux	4
+Bonne	3
+Mon Dieu.	3
+grâce	1
+C'est gentil.	3
+Très bien.	3
+Aide financière	1
+accordée	1
+l'octroi de l'aide	1
+bourses d'études	1
+reconnaissant	3
+gratification	2
+tombe	-2
+gris	-1
+Génial.	3
+plus élevé	3
+le plus grand	3
+cupidité	-3
+cupide	-2
+Lavage vert	-3
+lavage vert	-3
+l'eau verte;	-3
+lave-vaisselle vert	-3
+lave-glaces	-3
+le lavage vert;	-3
+Accueil	1
+accueillis	1
+salutation	1
+salutations	2
+salutations	1
+gris	-1
+chagrin	-2
+dans le cas d ' un cas de deuil	-2
+Montant brut	-2
+croissance	1
+croissance	2
+garantie	1
+culpabilité	-3
+coupable	-3
+cylindrée	-2
+crédule	-2
+arme à feu	-1
+hé	2
+piraté	-1
+Haha	3
+Hahaha	3
+HAHAHAH	3
+Grêle	2
+grêlé	2
+sans asphalte	-2
+n'ayant pas atteint l'âge de 12 ans,	-2
+bonheur	3
+heureux	3
+dur	-1
+plus dur	2
+difficultés rencontrées	-2
+robuste	2
+Dommages	-2
+Blessé	-2
+nocive	-2
+endommagement	-2
+Dommages	-2
+harcelé	-2
+dures	-2
+Plus sévère	-2
+C'est le plus dur.	-2
+La haine	-3
+Détesté	-3
+Les haïsseurs	-3
+La haine	-3
+haïssement	-3
+hantement	-1
+hanté	-2
+hantement	1
+hantés	-1
+des ravages	-2
+en bonne santé	2
+déchirement du cœur	-3
+coeur brisé	-3
+sincère	3
+ciel	2
+céleste	4
+coeur lourd	-2
+Qu'est-ce qu'il y a ?	-4
+Aide	2
+utile	2
+aider	2
+sans défense	-2
+aide	2
+héros	2
+héros	2
+héroïque	3
+hésitant	-2
+hésitation	-2
+caché	-1
+cache-toi	-1
+cache-cache	-1
+Se cacher	-1
+mise en évidence	2
+hilarant	2
+empêchement	-2
+Le canular	-2
+Le mal du pays	-2
+honnête	2
+honneur	2
+honoré	2
+en l ' honneur	2
+honneur	2
+honoré	2
+de l ' honneur	2
+Hooligan	-2
+hooliganisme	-2
+les hooligans	-2
+espoir	2
+Espérons	2
+Espérons	2
+désespérément	-2
+Espérance	-2
+l'espoir	2
+dans l ' espoir	2
+C'est affreux.	-3
+horrible	-3
+horrible	-3
+horrifié	-3
+hostile	-2
+C'est pas vrai.	-2
+Câlin	2
+énorme	1
+Câlins	2
+huméreux	3
+humilié	-3
+humiliation	-3
+humour	2
+humoristique	2
+humour	2
+humoristique	2
+faim	-2
+hoprah	5
+blessé	-2
+Blessures	-2
+Blessures	-2
+hypocrite	-2
+hystérie	-3
+hystérique	-3
+hystérique	-3
+Imbécile	-3
+Imbécile	-3
+ignorance	-2
+ignorant	-2
+Ignorer	-1
+ignoré	-2
+ignore	-1
+malade	-2
+illégale	-3
+analphabétisme	-2
+maladie	-2
+maladies	-2
+Imbécile	-3
+immobilisé	-1
+immortel	2
+immunitaire	1
+impatient	-2
+imparfait	-2
+importance	2
+important	2
+imposer	-1
+imposée	-1
+impose	-1
+imposant	-1
+impotent	-2
+impressionner	3
+impressionné	3
+impressionne	3
+impressionnant	3
+emprisonnés	-2
+améliorer	2
+amélioré	2
+amélioration	2
+améliore	2
+l ' amélioration	2
+incapacité	-2
+inaction	-2
+insuffisant	-2
+incapable	-2
+inapte	-2
+encensés	-2
+incompétence	-2
+incompétent	-2
+sans considération	-2
+Inconvénients	-2
+incommode	-2
+augmentation	1
+augmenté	1
+indécis	-2
+indestructible	2
+indifférence	-2
+indifféremment	-2
+indigné	-2
+indignation	-2
+endoctrine	-2
+endoctrinement	-2
+endoctrines	-2
+endoctrinement	-2
+inefficace	-2
+inefficacement	-2
+en matières grasses	2
+engourdissement	2
+infectés	-2
+inférieur	-2
+enflammé	-2
+influence	2
+Infraction	-2
+autres, contenant en poids plus de 85 % en poids de matières textiles, d'une teneur en poids de matières textiles ou d'une teneur en poids de matières textiles, d'une teneur en poids de matières textiles, d'une teneur en poids de matières textiles ou d'une teneur en poids de matières textiles	-2
+en fer ou en acier	-2
+les furiacés	-2
+et de l ' alimentation	-2
+inhiber	-1
+blessé	-2
+Blessure	-2
+l'injustice	-2
+innover	1
+innove	1
+l'innovation	1
+innovant	2
+enquêté	-2
+Inquisitif	2
+fous	-2
+insanité	-2
+Insûreté	-2
+insensible	-2
+insensibilité	-2
+insignifiant	-2
+Insipide	-2
+l'inspiration	2
+Inspiration	2
+Inspirer	2
+inspiré	2
+est source d'inspiration	2
+inspirant	3
+insulte	-2
+insulté	-2
+insultant	-2
+insultes	-2
+intact	2
+intégrité	2
+intelligent	2
+intense	1
+Intérêts	1
+intéressé(e)	2
+intéressant	2
+Intérêts	1
+interrogés	-2
+interrompre	-2
+interrompu	-2
+interruption	-2
+interruption	-2
+interruptions	-2
+intimider	-2
+intimidé	-2
+intimidants	-2
+intimidant	-2
+intimidation	-2
+complexe	2
+intrigues	1
+invincible	2
+inviter	1
+invitant	1
+invulnérable	2
+irate	-3
+ironique	-1
+ironie	-1
+irrationnel	-1
+irrésistible	2
+irrésolue	-2
+irresponsable	2
+irréversible	-1
+irritant	-3
+irrité	-3
+irritant	-3
+isolé	-1
+démangeaisons	-2
+Abruti	-4
+des types utilisés pour la fabrication de produits de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche, de la pêche	-4
+emprisonnés	-2
+jaunty	2
+jaloux	-2
+mise en péril	-2
+Imbécile	-3
+Jésus	1
+Bijoux	1
+bijoux	1
+joculaire	2
+joignez-vous	1
+blague	2
+blagues	2
+Joly, c'est tout.	2
+jovial	2
+joie	3
+joyeux	3
+joyeusement	3
+Sans joie	-2
+joyeux	3
+jubilaire	3
+ruisselant	-1
+justice	2
+À juste titre	2
+justifiés	2
+Intéressant	1
+tuer	-3
+tué	-3
+Tuer	-3
+tue	-3
+genre	2
+plus gentils	2
+baiser	2
+kudos	3
+manque	-2
+manque d'adaptabilité	-2
+décalage	-1
+largué	-2
+retard	-2
+décalages	-2
+boiteux	-2
+point de repère	2
+rire	1
+riant	1
+rire	1
+rire	1
+rire	1
+lancé	1
+Loi sur l'accès à l'information et l'accès à l'information	3
+poursuite en justice	-2
+poursuite en justice	-2
+Paresseux	-1
+fuite	-1
+fuite	-1
+congé	-1
+juridique	1
+juridique	1
+clément	1
+léthargique	-2
+léthargie	-2
+menteur	-3
+menteurs	-3
+libéléreux	-2
+J'ai menti.	-2
+sauveteur de vie	4
+avec un cœur léger	1
+comme	2
+aimé	2
+aime	2
+limitation	-1
+limitée	-1
+limites	-1
+Contentieux	-1
+Litiges	-2
+vif	2
+livides	-2
+Lmao	4
+Lmfao	4
+Défaut d'être	-3
+n'ayant pas été pris en considération	-3
+Pâtes alimentaires	-3
+le désolation;	-3
+hall d'entrée	-2
+l'exercice d'activités de lobbying	-2
+Lol	3
+solitaire	-2
+solitaire	-2
+Aspiration	-1
+métiers à tisser	-1
+à l'horizon	-1
+qui se profilent	-1
+métiers à tisser	-1
+lâche	-3
+lâches	-3
+loser	-3
+perdre	-3
+perte	-3
+perdu	-3
+Agréable	3
+amour	3
+aimé	3
+amours	3
+Magnifique.	3
+affectueux	2
+le plus bas	-1
+loyal	3
+fidélisation	3
+chance	3
+Heureusement	3
+chanceux	3
+lugubres	-2
+lunatique	-3
+lunatiques	-3
+C'est pas vrai.	-1
+En train de rôder	-1
+Cerfs	-1
+fou	-3
+foudroyant	-3
+confectionnés	-1
+follement	-3
+folie	-3
+obligatoire	-1
+manipulés	-1
+manipulant	-1
+manipulation	-1
+Merveilleux	3
+merveilleux	3
+merveilles	3
+chef-d'œuvre	4
+chefs-d'œuvre	4
+matière	1
+Questions d ' ordre général	1
+maturité	2
+significatif	2
+sans signification	-2
+Médaille	3
+médiocrité	-3
+méditative	1
+mélancolie	-2
+menace	-2
+Menacés	-2
+la miséricorde	2
+joyeux	3
+C'est le désordre.	-2
+merdique	-2
+C'est la merde.	-2
+méthode	2
+Sans esprit	-2
+miracle	4
+mirth	3
+mirthful	3
+Avec ironie	3
+Mauvais comportement	-2
+mauvaise conduite	-2
+Mauvais comportement	-2
+Mauvais comportement	-2
+le mal-fondé	-1
+malversations	-1
+malheureuse	-3
+la misère	-2
+se méfier	-2
+Mauvaise information	-2
+mal informé	-2
+mal interprété	-2
+trompeur	-3
+Mauvaise lecture	-1
+Mauvaise déclaration	-2
+fausse représentation	-2
+Mademoiselle	-2
+manqué	-2
+manquant	-2
+erreur	-2
+erreur	-2
+erreurs	-2
+erreur de prise	-2
+mécompréhension	-2
+Incompréhension	-2
+mécompréhension	-2
+mal compris	-2
+gémissements	-2
+gémissements	-2
+Les gémissements	-2
+les gémissements;	-2
+s'il vous plaît.	-2
+se moquait	-2
+se moquer	-2
+des moqueries	-2
+Mongering	-2
+monopoliser	-2
+Monopolisé	-2
+monopolise	-2
+monopolisation	-2
+d'humeur	-1
+mope	-1
+la morphologie;	-1
+Imbécile	-3
+Fils de pute	-5
+c'est quoi, ce bordel ?	-5
+motiver	1
+motivé	2
+Motivation	2
+motivation	1
+deuil	-2
+deuil	-2
+Deuil	-2
+deuil	-2
+deuils	-2
+Morpich	-2
+meurtre	-2
+meurtrier	-2
+meurtre	-3
+meurtrière	-3
+meurtres	-2
+mythe	-1
+n00b	-2
+naïf	-2
+C'est méchant.	-3
+naturel	1
+naïf	-2
+dans le besoin	-2
+négatif	-2
+négativité	-2
+négligence	-2
+négligé	-2
+négligence	-2
+négligences	-2
+nerfs	-1
+nerveux	-2
+nerveux	-2
+Sympa.	3
+nifty	2
+Niggas	-5
+Nègre	-5
+Non, je ne suis pas d'accord.	-1
+pas de plaisir	-3
+noble	2
+bruyant	-1
+Des absurdités	-2
+noob	-2
+naseux	-2
+pas bon	-2
+ne fonctionne pas	-3
+notoire	-2
+roman	2
+engourdissement	-1
+noix	-3
+oblitère	-2
+oblitérés	-2
+odieux	-3
+obscène	-2
+obsédés	2
+obsolète	-2
+obstacle	-2
+obstacles	-2
+obstiné	-2
+étrange	-2
+offense	-2
+offensé	-2
+délinquant	-2
+pour infraction à la loi	-2
+offenses	-2
+hors ligne	-1
+C'est bon.	2
+omineux	3
+une fois dans une vie	3
+Possibilités	2
+occasion	2
+opprimés	-2
+oppressive	-2
+optimisme	2
+optimiste	2
+sans option	-2
+tollé	-2
+outmanovered	-2
+outrage	-3
+outrés	-3
+et de la sensibilisation	2
+en suspens	5
+surjoyé	4
+surcharge	-1
+oublié	-1
+réaction excessive	-2
+surréaction	-2
+surréaction	-2
+des réactions excessives	-2
+survente	-2
+survente	-2
+surventes	-2
+sursimplification	-2
+sursimplifié	-2
+sursimplifie	-2
+sursimplifier	-2
+surestimation	-2
+surestimations	-2
+surpoids	-1
+oxymoron	-1
+douleur	-2
+douleur	-2
+panique	-3
+paniqué	-3
+paniques	-3
+paradis	3
+paradoxe	-1
+pardon	2
+graciée	2
+grâce	2
+grâces	2
+Parley	-1
+passionné	2
+passive	-1
+passivement	-1
+pathétique	-2
+salaire	-1
+paix	2
+pacifique	2
+pacifiquement	2
+Pénalité	-2
+sensuelle	-1
+parfait	3
+perfectionné	2
+parfaitement	3
+parfaits	2
+péril	-2
+parjure	-3
+auteur	-2
+auteurs	-2
+perplexe	-2
+persécuter	-2
+persécutés	-2
+persécutés	-2
+Persécution	-2
+perturbés	-2
+Pousse-toi.	-2
+pessimisme	-2
+pessimiste	-2
+pétrifié	-2
+Phobique	-2
+pittoresque	2
+empilement	-1
+pic	-2
+Piqué	-2
+pisse	-4
+en colère	-4
+Pleurer	-3
+piteuse	-2
+piétinés	-1
+pitié	-2
+ludique	2
+agréable	3
+S'il vous plaît.	1
+heureux	3
+plaisir	3
+poisé	-2
+poison	-2
+empoisonnés	-2
+poisons	-2
+pollueur	-2
+pollués	-2
+pollueur	-2
+pollueurs	-2
+Pollutes	-2
+pauvres	-2
+pauvres	-2
+les plus pauvres	-2
+populaire	3
+positif	2
+positif	2
+possessif	-2
+ajourner	-1
+reporté	-1
+reports	-1
+Report de l ' exécution	-1
+pauvreté	-1
+puissant	2
+impuissants	-2
+éloges	3
+loués	3
+éloges	3
+éloges	3
+priez	1
+prier	1
+prie	1
+Pour l'application de l'article 2, paragraphe 1, point b), du règlement (UE) no 1308/2013, les États membres sont destinataires de la présente décision.	-2
+pour l'alimentation humaine ou animale, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes, à l'exclusion des produits à base de fruits et légumes	-2
+préparé	1
+pression	-1
+sous pression	-2
+Fais semblant.	-1
+faire semblant	-1
+prétend	-1
+joli	1
+prévenir	-1
+évité	-1
+prévenir	-1
+prévient	-1
+C'est quoi, ça ?	-5
+prison	-2
+prisonnier	-2
+prisonniers	-2
+privilégié	2
+proactif	2
+problème	-2
+problèmes	-2
+profiteur	-2
+progrès accomplis	2
+Élevé	2
+promesse	1
+promis	1
+promesses	1
+promouvoir	1
+promus	1
+favorise	1
+promouvoir	1
+propagande	-2
+poursuivre	-1
+poursuivis	-2
+poursuites	-1
+poursuite	-1
+perspective	1
+perspectives	1
+prospère	3
+protéger	1
+protégé	1
+protège	1
+protestation	-2
+manifestants	-2
+des protestations	-2
+manifestations	-2
+fier	2
+fièrement	2
+provoquer	-1
+provoqués	-1
+provoque	-1
+Provoquer	-1
+pseudoscience	-3
+punir	-2
+puni	-2
+punit	-2
+punitif	-2
+Poussé	-1
+puzzled	-2
+tremblement	-2
+douteux	-2
+questionné	-1
+questionnement	-1
+racisme	-3
+raciste	-3
+racistes	-3
+rage	-2
+furieuse	-2
+pluvieux	-1
+C'est vrai.	-3
+Courbure	-3
+Les rainures	-3
+Ce n'est pas le cas.	-3
+viol	-4
+violeur	-4
+rapt	2
+rapturée	2
+enlèvements	2
+raptures	4
+éruption cutanée	-2
+ratifiés	2
+portée	1
+atteint	1
+atteint	1
+atteindre	1
+rassurez-vous	1
+rassuré	1
+rassure	1
+rassurant	2
+rébellion	-2
+récession	-2
+imprudent	-2
+recommander	2
+recommandé	2
+recommande	2
+rachetés	2
+déchets	-2
+refusé	-2
+refus	-2
+regret	-2
+regrettant	-2
+regrette	-2
+regrettant	-2
+regrettant	-2
+rejeter	-1
+rejeté	-1
+rejet	-1
+rejette	-1
+réjouissez-vous	4
+se réjouissait	4
+se réjouit	4
+se réjouissant	4
+Détendez-vous	2
+implacable	-1
+d ' une capacité d ' accueil	2
+soulager	1
+soulagé	2
+soulage	1
+Soulagement	2
+l'appréciation	2
+remarquable	2
+remords	-2
+Répulsion	-1
+repoussés	-2
+sauvetage	2
+secourus	2
+sauvetages	2
+le ressentiment	-2
+démissionner	-1
+démissionnaire	-1
+démission	-1
+démissionne	-1
+Résolu	2
+résoudre	2
+résolu	2
+résout	2
+résolution	2
+respecté	2
+responsable	2
+réactif	2
+reposée	2
+agité	-2
+restaurer	1
+restauré	1
+restaure	1
+restauration	1
+restreindre	-2
+limité	-2
+restreignant	-2
+Restriction	-2
+Limitations	-2
+laissé en place	-1
+retard	-2
+retardés	-2
+Retraite	-1
+revanche	-2
+se venger	-2
+vénérés	2
+Réveillez-vous	2
+Rénove	2
+récompense	2
+récompensé	2
+gratifiant	2
+Récompenses	2
+riches	2
+ridicule	-3
+système d'alimentation	-1
+truqué	-1
+direction droite	3
+rigoureux	3
+rigoureusement	3
+émeute	-2
+émeutes	-2
+risque	-2
+risques	-2
+Vol	-2
+voleur	-2
+volés	-2
+Vols	-2
+Vols	-2
+robuste	2
+pour les véhicules à moteur à moteur à allumage par compression	4
+roflcopter	4
+Roflmao	4
+romance	2
+pourriture	4
+pourritifao	4
+pourritrol	4
+ruine	-2
+ruiné	-2
+ruiner	-2
+ruines	-2
+sabotage	-2
+triste	-2
+tristement triste	-2
+attristés	-2
+tristement	-2
+sans danger	1
+En toute sécurité	1
+sécurité	1
+saillant	1
+C'est de l'ivraie.	-1
+sarcastique	-2
+satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/ satisfait/	2
+Enregistrer	2
+sauvé	2
+Escroquerie	-2
+escroqueries	-2
+scandale	-3
+scandaleux	-3
+scandales	-3
+bouc émissaire	-2
+boucs émissaires	-2
+Frayeur	-2
+peur	-2
+effrayant	-2
+sceptique	-2
+gronder	-2
+scoop	3
+le dédain	-2
+méprisant	-2
+Crie	-2
+hurlé	-2
+Des cris	-2
+cris	-2
+vissé	-2
+J'ai foiré.	-3
+Casse-culotte	-4
+Sécurisation	2
+sécurisés	2
+sécurise	2
+sédition	-2
+séditieux	-2
+séduits	-1
+confiance en soi	2
+s'auto-effacer	-2
+égoïste	-3
+égoïsme	-3
+phrase	-2
+condamné	-2
+phrases	-2
+détermination de la peine	-2
+sereine	2
+sévère	-2
+sexy	3
+Shaky	-2
+honte	-2
+honteux	-2
+honteux	-2
+Part	1
+partagé	1
+actions	1
+brisé	-2
+C'est de la merde.	-4
+C'est de la merde.	-4
+C'est de la merde.	-3
+choc	-2
+choqué	-2
+stupéfiant	-2
+chocs	-2
+prise de vue	-1
+à courte vue	-2
+myopie	-2
+pénurie	-2
+pénuries	-2
+museau	-4
+timide	-1
+malade	-2
+soupir	-2
+signification	1
+significatif	1
+silencieux	-1
+Imbécile	-1
+sincère	2
+Je vous prie d'agréer, Monsieur le Président, l'expression de mes sentiments les plus sincères.	2
+Sincerest	2
+sincérité	2
+pécheur	-3
+un seul et même esprit	-2
+sceptique	-2
+sceptique	-2
+scepticisme	-2
+les sceptiques	-2
+slam	-2
+Slash	-2
+cliquetis	-2
+Slashes	-2
+Soufflures	-2
+l ' esclavage	-3
+Insomnie	-2
+Lécher	2
+slicker	2
+C'est le plus léché.	2
+paresseux	-2
+salope	-5
+Intelligent	1
+Plus intelligent	2
+C'est le plus intelligent.	2
+frotter	-2
+sourire	2
+souriant	2
+sourires	2
+souriant	2
+smog	-2
+Sournois	-1
+snub	-2
+brouillés	-2
+à frotter	-2
+les snubs	-2
+soûler	1
+solennel	-1
+solide	2
+solidarité	2
+solution	1
+solutions	1
+résoudre	1
+résolu	1
+résout	1
+résolution	1
+sombre	-2
+d'une sorte	0
+Fils de pute	-5
+Soulagez-vous.	3
+apaisé	3
+Apaisant	3
+sophistiqué	2
+endolorissement	-1
+douleur	-2
+affligeant	-2
+Désolé.	-1
+Spam	-2
+Spammeur	-3
+les spammeurs	-3
+pourriels	-2
+étincelle	1
+étincelant	3
+étincelants	3
+étincelant	3
+spéculatif	-2
+esprit	1
+esprité	2
+Sans esprit	-2
+Malheur à moi.	-2
+Magnifique	3
+épouvantable	2
+Séculièrement	-1
+coup de couteau	-2
+poignardé	-2
+stable	2
+coups de couteau	-2
+Décrochage	-2
+calmé	-2
+calage	-2
+endurance	2
+estampe	-2
+stupéfié	-2
+Meurtre de faim	-2
+affamés	-2
+Meurtres de faim	-2
+mourir de faim	-2
+Résistant	2
+Voler	-2
+Vols	-2
+stéréotype	-2
+stéréotypé	-2
+étouffé	-1
+stimuler	1
+stimulé	1
+stimule	1
+stimulant	2
+- C'est pas vrai.	-2
+volé	-2
+Arrêter	-1
+arrêté	-1
+arrêt	-1
+stops	-1
+Découpe	2
+droit	1
+étrange	-1
+étrangement	-1
+étranglé	-2
+force	2
+renforcer	2
+renforcée	2
+renforcement	2
+renforce	2
+souligné	-2
+stresseur	-2
+les facteurs de stress;	-2
+Atteints	-2
+grève	-1
+grévistes	-2
+grèves	-1
+Forte	2
+plus fort	2
+plus fort	2
+frappé	-1
+lutte	-2
+lutté	-2
+luttes	-2
+lutte	-2
+Têtu	-2
+coincé	-2
+stupéfié	-2
+étourdissant	4
+stupide	-2
+stupidement	-2
+Suave	2
+substantielles	1
+substantiellement	1
+subversive	-2
+succès	2
+succès	3
+Nourriture	-3
+C'est nul.	-3
+souffrir	-2
+la souffrance	-2
+souffre	-2
+suicidaire	-2
+suicide	-2
+poursuite en justice	-2
+Faire bouillir	-2
+Sourcils	-2
+sullen	-2
+soleil	2
+super	3
+superbe	5
+supérieur	2
+Appui	2
+soutenu	2
+l'appui à l'entreprise;	1
+sympathisants	1
+soutien	1
+Soutien	2
+soutiens	2
+Survivre	2
+survivant	2
+survivant	2
+suspect	-1
+suspectés	-1
+suspecté	-1
+suspects	-1
+suspendre	-1
+suspendue	-1
+suspect	-2
+Je vous jure	-2
+prêter serment	-2
+jure	-2
+C'est mignon.	2
+rapide	2
+rapidement	2
+escroquerie	-3
+escroqueries	-3
+escroquerie	-3
+sympathique	2
+sympathie	2
+Tard	-2
+larmes	-2
+Appel d'offres	2
+tendue	-2
+tension	-1
+terrible	-3
+terriblement	-3
+Fantastique	4
+terrifié	-3
+terreur	-3
+terroriser	-3
+terrorisé	-3
+terrorise	-3
+Merci beaucoup.	2
+reconnaissant	2
+Merci beaucoup.	2
+épineuse	-2
+C'est gentil.	2
+irréfléchi	-2
+menace	-2
+menace	-2
+Menacés	-2
+menaçant	-2
+menace	-2
+menaces	-2
+ravie	5
+déjouer	-2
+déjoué	-2
+déjouer	-2
+déjoue	-2
+timidité	-2
+timoreux	-2
+fatigué	-2
+seins	-2
+Tolérance	2
+sans dents	-2
+haut	2
+haut de la page	2
+déchiré	-2
+torture	-4
+torturés	-4
+tortures	-4
+tortionnement	-4
+totalitaire	-2
+totalitarisme	-2
+tout	-2
+d'une teneur en poids de matières grasses égale ou supérieure à 5 % en poids	-2
+le toutage;	-2
+touts	-2
+tragédie	-2
+tragique	-2
+tranquille	2
+piège	-1
+Pris au piège	-2
+Traumatisme	-3
+traumatique	-3
+paresseux	-2
+trahison	-3
+trahison	-3
+Trésor	2
+trésors	2
+tremblant	-2
+tremblante	-2
+piégeant	-2
+La ruse	-2
+triomphe	4
+triomphant	4
+Problèmes	-2
+trouble	-2
+problèmes	-2
+vrai	2
+confiance	1
+confiance	2
+tumeur	-2
+Twat	-5
+Laid	-3
+inacceptable	-2
+non appréciés	-2
+non approuvé	-2
+ignorant	-2
+incroyable	-1
+incrédule	-1
+sans partialité	2
+incertain	-1
+peu clair	-1
+inconfortable	-2
+non concernés	-2
+non confirmé	-1
+non convaincu	-1
+non crédités	-1
+indécis	-1
+sous-estimation	-1
+sous-estimé	-1
+sous-estimations	-1
+sous-estimation	-1
+saper	-2
+miné	-2
+s'affaiblit	-2
+saper	-2
+non-déservant	-2
+indésirables	-2
+mal à l'aise	-2
+chômage	-2
+inégal	-1
+inégalé	2
+contraire à l'éthique	-2
+injuste	-2
+non focalisé	-2
+non remplie	-2
+malheureuse	-2
+malsain	-2
+unifié	1
+non impressionnée	-2
+un manque d'intelligence	-2
+unis	1
+injuste	-2
+non-aimable	-2
+non-aimés	-2
+non appariés	1
+sans motivation	-2
+non professionnelle	-2
+non étudiés	-2
+Insatisfait	-2
+non sécurisé	-2
+non réglées	-1
+non sophistiquée	-2
+instable	-2
+impossible à arrêter	2
+non pris en charge	-2
+n'est pas sûr	-1
+non ternes	2
+indésirables	-2
+indigne	-2
+bouleversée	-2
+les troubles	-2
+la perturbation	-2
+étanche à l'eau	-2
+urgent	-1
+utile	2
+utilité	2
+inutile	-2
+perte d'emploi	-2
+vague	-2
+valider	1
+validée	1
+valide	1
+Validation	1
+verdict	-1
+verdicts	-1
+Dont	1
+vexation	-2
+Vexation	-2
+vibrant	3
+vicieuse	-2
+victime	-3
+victimiser	-3
+victimisés	-3
+victimisations	-3
+victimisation	-3
+victimes	-3
+vigilante	3
+vile	-3
+vindicatif	2
+qui ont fait l'objet d'une justification	2
+les médicaments à usage humain;	2
+vindicatif	2
+viole	-2
+violée	-2
+viole	-2
+violant	-2
+la violence	-3
+violente	-3
+vertueux	2
+virulent	-2
+vision	1
+visionnaire	3
+visionnement	1
+visions	1
+vitalité	3
+vitamine	1
+vitriolique	-3
+vivace	3
+vocifères	-1
+vulnérabilité	-2
+vulnérables	-2
+Déplacement à pied	-2
+randonnées pédestres	-2
+Branleur	-3
+Je veux	1
+guerre	-2
+guerre	-2
+chaud	1
+chaleur	2
+Avertissement	-2
+mis en garde	-2
+avertissement	-3
+avertissements	-3
+avertit	-2
+déchets	-1
+gaspillé	-2
+gaspiller	-2
+oscillation	-1
+faible	-2
+faiblesse	-2
+richesse	3
+riches	2
+Lassaires	-2
+pleurer	-2
+pleurs	-2
+bizarre	-2
+bienvenue	2
+accueillis avec satisfaction	2
+accueille favorablement	2
+fantaisiste	1
+Blanchisserie	-3
+pute	-4
+mauvais	-2
+veuves	-1
+Volonté	2
+gagner	4
+gagnant	4
+gagnant	4
+gagne	4
+gagnant	3
+Souhaits	1
+vœux	1
+souhaitant	1
+retrait	-3
+weebegone	-2
+malheureuse	-3
+gagné	3
+merveilleux	4
+woo	3
+Woohoo	3
+wooo	4
+wow	4
+portée	-1
+inquiets	-3
+Inquiète-toi.	-3
+Préoccupés	-3
+pire	-3
+empirer	-3
+empiré	-3
+aggravation	-3
+aggrave	-3
+Adorés	3
+le pire	-3
+d ' une valeur	2
+sans valeur	-2
+digne d'être	2
+Wow	4
+Wowow, c'est-à-dire	4
+wowww	4
+courroucé	-3
+épave	-2
+faux	-2
+lésés	-2
+wtf	-4
+Oui.	1
+Année	1
+yeeeseeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee	2
+oui	1
+jeunes	2
+C'est pas vrai.	-2
+Nom d'un chien	3
+zéléot	-2
+zélotes	-2
+zélé	2

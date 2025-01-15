@@ -21,5 +21,12 @@
     "std_freq_words": 1.7490487693695496,
     "Brunet_index": 19.241086298100196,
     "Honore_statistic": 809.6066539706657,
-    "TTR": 0.11881977671451356
+    "TTR": 0.11881977671451356,
+    "anger_rate": 0.02,
+    "disgust_rate": 0.00909090909090909,
+    "fear_rate": 0.03,
+    "joy_rate": 0.00909090909090909,
+    "sadness_rate": 0.01818181818181818,
+    "surprise_rate": 0.02181818181818182,
+    "Score_AFINN": 8
 }

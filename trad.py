@@ -58,6 +58,19 @@ def translate_DAMT():
         df_fr.to_csv(os.path.join(data_fr_path, "FR_" + file.split(".")[0] + ".csv"), sep="\t", index=False)
     print("Le dossier DAMT traduit avec succès !")
 
+def translate_AFINN ():
+    path = os.path.join(os.path.dirname(__file__), "dictionnaire/AFINN")
+    df = pd.read_csv(os.path.join(path, 'AFINN-111.txt'), sep= "\t", header=None)
+    df_fr = pd.DataFrame(columns=["mot", "valeur"])
+    for line in df.iterrows():
+        word = line[1][0]
+        tokenized_text = tokenizer(word, return_tensors="pt", padding=True)
+        translated = model.generate(**tokenized_text)
+        tempo = pd.DataFrame(columns=["mot", "valeur"], data=[[tokenizer.decode(translated[0], skip_special_tokens=True), line[1][1]]])
+        df_fr = pd.concat([df_fr, tempo], ignore_index=True)
+    df_fr.to_csv(os.path.join(path, "AFINN-111_FR.txt"), sep="\t", index=False)
+    print("Dictionnaire AFINN traduit avec succès !")
+
 def translate_DAIC_2():
     data_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr/DAIC-WOZ_FR")
     files = os.listdir(data_path)
@@ -86,5 +99,5 @@ def translate_DAIC_2():
 
 # translate_DAIC()
 # translate_DAMT()
-translate_DAIC_2()
+translate_AFINN()
 print("Traduction terminée !")

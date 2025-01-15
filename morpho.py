@@ -9,6 +9,7 @@ from spacy.lang.fr.stop_words import STOP_WORDS
 nlp = spacy.load('fr_core_news_lg')
 dataset_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr")
 result_path = os.path.join(os.path.dirname(__file__), "resultat")
+dict_path = os.path.join(os.path.dirname(__file__), "dictionnaire")
 
 def stats_words(texte):
     doc = nlp(texte)
@@ -28,6 +29,43 @@ def lexical_diversity(texte, a):
     honore_stats = 100 * np.log(N) / (1 - v1 / N)
     ratio_unique = v1 / N
     return brunet_index, honore_stats, ratio_unique
+
+def emotionnal_analysis(texte):
+    # Charger le fichier FEEL.csv
+    file_path = os.path.join(dict_path, "FEEL.csv")
+    emotion_df = pd.read_csv(file_path, sep=";", encoding="utf-8")
+    emotion_df = emotion_df.drop(columns=["id", "polarity"])  # Supprimer les colonnes inutiles
+    
+    # Analyser le texte avec spaCy
+    doc = nlp(texte)
+    freq_list = Counter(token.text.lower() for token in doc if not token.is_punct and not token.is_stop)
+    
+    # Initialiser le dictionnaire des émotions
+    emotion_dict = {"joy": 0, "fear": 0, "sadness": 0, "anger": 0, "surprise": 0, "disgust": 0}
+
+    # Mettre à jour les émotions
+    for word in freq_list:
+        if word in emotion_df["word"].values:
+            emotion_row = emotion_df[emotion_df["word"] == word].iloc[0]
+            for emotion in emotion_dict.keys():
+                emotion_dict[emotion] += freq_list[word] * emotion_row[emotion]
+    
+    return emotion_dict
+
+def positif_negatif(texte):
+    afinn = {}
+    with open(os.path.join(dict_path, "AFINN-111_translated.txt"), encoding="utf-8") as f:
+        for line in f:
+            k, v = line.strip().split('\t')
+            afinn[k] = int(v)
+
+    doc = nlp(texte)
+    score = 0
+    for sent in doc.sents:  
+        sent_text = str(sent).lower()  
+        score += sum(afinn.get(word, 0) for word in sent_text.split())
+
+    return score
 
 def stats_morpho(texte):
     doc = nlp(texte)
@@ -142,6 +180,8 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
     pos_rates, total_word, rate_conj, rate_inf, verb_w_obj, verb_w_subj, verb_w_aux, repetition_cons, mean_prop_sub = stats_morpho(patient_dialogue)
     mean, range, std = stats_words(patient_dialogue)
     brunet_index, honore_stats, ratio_unique = lexical_diversity(patient_dialogue, 0.165)
+    emotion_dict = emotionnal_analysis(patient_dialogue)
+    score = positif_negatif(patient_dialogue)
     json_file = {
         "adj_rate" : pos_rates["ADJ"],
         "adp_rate" : pos_rates["ADP"],
@@ -165,7 +205,14 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
         "std_freq_words" : float(std),
         "Brunet_index" : brunet_index,
         "Honore_statistic" : float(honore_stats),
-        "TTR" : ratio_unique
+        "TTR" : ratio_unique, 
+        "anger_rate" : emotion_dict["anger"]/total_word,
+        "disgust_rate" : emotion_dict["disgust"]/total_word,
+        "fear_rate" : emotion_dict["fear"]/total_word,
+        "joy_rate" : emotion_dict["joy"]/total_word,
+        "sadness_rate" : emotion_dict["sadness"]/total_word,
+        "surprise_rate" : emotion_dict["surprise"]/total_word,
+        "Score_AFINN" : score
     }
     with open(os.path.join(result_path, "result_" + nom_fichier + ".json"), "w") as f:
         json.dump(json_file, f, indent=4)
