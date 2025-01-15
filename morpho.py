@@ -6,7 +6,6 @@ import numpy as np
 import json
 from spacy.lang.fr.stop_words import STOP_WORDS
 
-
 nlp = spacy.load('fr_core_news_lg')
 dataset_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr")
 result_path = os.path.join(os.path.dirname(__file__), "resultat")

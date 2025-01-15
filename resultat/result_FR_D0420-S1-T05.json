@@ -8,6 +8,11 @@
     "pron_rate": 0.20454545454545456,
     "verb_rate": 0.1809090909090909,
     "propn_rate": 0.0027272727272727275,
+    "verb_aux_rate": 0.20202020202020202,
+    "verb_obj_rate": 0.3939393939393939,
+    "verb_subj_rate": 0.5656565656565656,
+    "sub_prop_rate": 0.5151515151515151,
+    "repetition_cons_rate": 26,
     "verb_conj_rate": 0.7035175879396985,
     "verb_inf_rate": 0.2964824120603015,
     "total_words": 1100,
@@ -16,5 +21,5 @@
     "std_freq_words": 1.7490487693695496,
     "Brunet_index": 19.241086298100196,
     "Honore_statistic": 809.6066539706657,
-    "ratio_unique": 0.11881977671451356
+    "TTR": 0.11881977671451356
 }
