@@ -10,6 +10,13 @@ nlp = spacy.load('fr_core_news_lg')
 dataset_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr")
 result_path = os.path.join(os.path.dirname(__file__), "resultat")
 dict_path = os.path.join(os.path.dirname(__file__), "dictionnaire")
+AFINN_path = os.path.join(os.path.dirname(__file__), "dictionnaire/AFINN")
+Affin = pd.read_csv("dictionnaire/AFINN/AFINN-111.txt", sep="\t")
+Affin.columns = ['word', 'number']
+Affin = Affin['word']
+NRC_path = os.path.join(os.path.dirname(__file__), "dictionnaire/NRC-Emotion-Lexicon/OneFilePerLanguage")
+Nrc = pd.read_csv("dictionnaire/NRC-Emotion-Lexicon/NRC-Emotion-Lexicon/OneFilePerLanguage/French-NRC-EmoLex.txt", sep="\t")['French Word']
+df_units = pd.concat((Affin, Nrc))
 
 def stats_words(texte):
     doc = nlp(texte)
@@ -162,6 +169,25 @@ def stats_morpho(texte):
     verb_w_aux = verb_aux / total_phrase
     return pos_rates, total_count, rate_conjug, rate_inf, verb_w_obj, verb_w_subj, verb_w_aux, repetition_cons, mean_prop_sub
 
+def unit_analysis(texte):
+    doc = nlp(texte)
+    has_unit = {}
+    unit_ratio = {}
+    unique_concept_efficiency, unique_concept_density, total_concept_density, total_concept_efficiency = 0, 0, 0, 0
+    unit_count = Counter()
+    units_set = set(df_units.str.lower())
+    total_words = len([token for token in doc if not token.is_punct and not token.is_space])
+    for token in doc:
+        if token.lemma_.lower() in units_set:
+            unit_count[token.lemma_.lower()] += 1
+    unit_ratio = {unit: count / total_words for unit, count in unit_count.items()}
+    unique_concept_density = len(unit_count) / total_words if total_words > 0 else 0
+    unique_concept_efficiency = len(unit_count) / len(units_set) if units_set else 0
+    total_concept_density = sum(unit_count.values()) / total_words if total_words > 0 else 0
+    total_concept_efficiency = sum(unit_count.values()) / len(units_set) if units_set else 0
+    has_unit = dict(unit_count)
+    return has_unit, unit_ratio, unique_concept_efficiency, unique_concept_density, total_concept_density, total_concept_efficiency
+
 def export_patient_dialogue(file_path):
     try :
         df = pd.read_csv(file_path, sep="\t")
@@ -182,6 +208,7 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
     brunet_index, honore_stats, ratio_unique = lexical_diversity(patient_dialogue, 0.165)
     emotion_dict = emotionnal_analysis(patient_dialogue)
     score = positif_negatif(patient_dialogue)
+    has_unit, ratio_unit, unique_concept_efficiency, unique_concept_density, total_concept_density, total_concept_efficiency = unit_analysis(patient_dialogue)
     json_file = {
         "adj_rate" : pos_rates["ADJ"],
         "adp_rate" : pos_rates["ADP"],
@@ -212,11 +239,18 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
         "joy_rate" : emotion_dict["joy"]/total_word,
         "sadness_rate" : emotion_dict["sadness"]/total_word,
         "surprise_rate" : emotion_dict["surprise"]/total_word,
-        "Score_AFINN" : score
+        "Score_AFINN" : score,
+        "has_unit": has_unit,
+        "ratio_unit": ratio_unit,
+        "unique_concept_density": unique_concept_density,
+        "unique_concept_efficiency": unique_concept_efficiency,
+        "total_concept_density": total_concept_density,
+        "total_concept_efficiency": total_concept_efficiency
     }
     with open(os.path.join(result_path, "result_" + nom_fichier + ".json"), "w") as f:
         json.dump(json_file, f, indent=4)
     print("Fichier json généré")
+    print(json_file)
     return json_file
 
 file_path = "DAMT_FR/FR_D0420-S1-T05.csv"
