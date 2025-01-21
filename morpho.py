@@ -10,12 +10,12 @@ nlp = spacy.load('fr_core_news_lg')
 dataset_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr")
 result_path = os.path.join(os.path.dirname(__file__), "resultat")
 dict_path = os.path.join(os.path.dirname(__file__), "dictionnaire")
-AFINN_path = os.path.join(os.path.dirname(__file__), "dictionnaire/AFINN")
-Affin = pd.read_csv("dictionnaire/AFINN/AFINN-111.txt", sep="\t")
+AFINN_path = os.path.join(os.path.dirname(__file__), "dictionnaire/AFINN/AFINN-111_FR.txt")
+Affin = pd.read_csv(AFINN_path, sep="\t")
 Affin.columns = ['word', 'number']
 Affin = Affin['word']
-NRC_path = os.path.join(os.path.dirname(__file__), "dictionnaire/NRC-Emotion-Lexicon/OneFilePerLanguage")
-Nrc = pd.read_csv("dictionnaire/NRC-Emotion-Lexicon/NRC-Emotion-Lexicon/OneFilePerLanguage/French-NRC-EmoLex.txt", sep="\t")['French Word']
+NRC_path = os.path.join(os.path.dirname(__file__), "dictionnaire/NRC-Emotion-Lexicon/NRC-Emotion-Lexicon/OneFilePerLanguage/French-NRC-EmoLex.txt")
+Nrc = pd.read_csv(NRC_path, sep="\t")['French Word']
 df_units = pd.concat((Affin, Nrc))
 
 def stats_words(texte):
