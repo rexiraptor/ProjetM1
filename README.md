@@ -16,6 +16,13 @@ python -m venv .env
 pip install -r requirements.txt
 ```
 
+## Lancement du programme
+
+A faire dans l'environnement virtuel
+```{powershell}
+uvicorn main:app --reload
+```
+
 ## Autre
 Si vous avez ajouté d'autre librairies il faut faire cette commande pour ajouter a requirements.txt
 ```{powershell}
