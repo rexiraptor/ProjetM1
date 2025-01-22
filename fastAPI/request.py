@@ -48,22 +48,44 @@ indicateurs = {
     "taux_adverbes": [],
     "taux_verbes_conjugué": [],
     "densite_concept_total": [],
+    "phrases": []
+}
+
+emotions = {
+    "anger_rate": [],
+    "disgust_rate": [],
+    "fear_rate": [],
+    "joy_rate": [],
+    "sadness_rate": [],
     "surprise_rate": [],
     "phrases": []
 }
 
 # Configurer le graphique
-fig, ax = plt.subplots()
-ax.set_xlim(0, len(phrases))
-ax.set_ylim(0, 1)  # Plage normale des taux
+fig = plt.figure()
+ax = plt.subplot(211)
+ax.set_xlim(0, 100)
+ax.set_ylim(0, 1)
 ax.set_xlabel("Numéro de phrase")
 ax.set_ylabel("Indicateurs")
 line1, = ax.plot([], [], label="TTR", color="blue")
 line2, = ax.plot([], [], label="Taux d'adverbes", color="green")
 line3, = ax.plot([], [], label="Taux de verbes conjugué", color="red")
 line4, = ax.plot([], [], label="densite total des concepts", color="purple")
-line5, = ax.plot([], [], label="surprise", color="orange")
 ax.legend()
+ax2 = plt.subplot(212)
+ax2.set_xlim(0, 100)
+ax2.set_ylim(0, 0.1)
+ax2.set_xlabel("Numéro de phrase")
+ax2.set_ylabel("Emotions_rate")
+lineE1, = ax2.plot([], [], label="sadness", color="blue")
+lineE2, = ax2.plot([], [], label="disgust", color="green")
+lineE3, = ax2.plot([], [], label="anger", color="red")
+lineE4, = ax2.plot([], [], label="fear", color="purple")
+lineE5, = ax2.plot([], [], label="joy", color="yellow")
+lineE6, = ax2.plot([], [], label="surprise", color="teal")
+ax2.legend()
+
 
 # Fonction de mise à jour du graphique
 def update(frame):
@@ -86,8 +108,16 @@ def update(frame):
             indicateurs["taux_adverbes"].append(indicateurs_phrase["adv_rates"])
             indicateurs["taux_verbes_conjugué"].append(indicateurs_phrase["verb_conj_rate"])
             indicateurs["densite_concept_total"].append(indicateurs_phrase["total_concept_density"])
-            indicateurs["surprise_rate"].append(indicateurs_phrase["surprise_rate"])
             indicateurs["phrases"].append(phrase)
+            
+            indicateurs_phrase = result["indicateurs"][0]
+            emotions["anger_rate"].append(indicateurs_phrase["anger_rate"])
+            emotions["disgust_rate"].append(indicateurs_phrase["disgust_rate"])
+            emotions["fear_rate"].append(indicateurs_phrase["fear_rate"])
+            emotions["joy_rate"].append(indicateurs_phrase["joy_rate"])
+            emotions["sadness_rate"].append(indicateurs_phrase["sadness_rate"])
+            emotions["surprise_rate"].append(indicateurs_phrase["surprise_rate"])
+            emotions["phrases"].append(phrase)
 
             # Mise à jour des données du graphique
             x_data = list(range(len(indicateurs["phrases"])))
@@ -95,9 +125,15 @@ def update(frame):
             line2.set_data(x_data, indicateurs["taux_adverbes"])
             line3.set_data(x_data, indicateurs["taux_verbes_conjugué"])
             line4.set_data(x_data, indicateurs["densite_concept_total"])
-            line4.set_data(x_data, indicateurs["surprise_rate"])
+            
+            lineE1.set_data(x_data, emotions["anger_rate"])
+            lineE2.set_data(x_data, emotions["disgust_rate"])
+            lineE3.set_data(x_data, emotions["fear_rate"])
+            lineE4.set_data(x_data, emotions["joy_rate"])
+            lineE5.set_data(x_data, emotions["sadness_rate"])
+            lineE6.set_data(x_data, emotions["joy_rate"])
 
-    return line1, line2, line3
+    return line1, line2, line3, line4, lineE1, lineE2, lineE3, lineE4, lineE5, lineE6
 
 # Animation du graphique
 ani = FuncAnimation(fig, update, frames=len(phrases), repeat=False, interval=1000)
