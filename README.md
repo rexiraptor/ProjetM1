@@ -8,9 +8,15 @@ Pour ajouter les librairies python :
 python -m venv .env
 ```
 2. Activer l'environnement virtuel
+Pour Windows :
 ```{powershell}
 .env/Scripts/activate
 ```
+Pour Linux :
+```{powershell}
+source .env/bin/activate
+```
+
 3. Importer les librairies
 ```{powershell}
 pip install -r requirements.txt
@@ -20,7 +26,7 @@ pip install -r requirements.txt
 
 A faire dans l'environnement virtuel
 ```{powershell}
-uvicorn main:app --reload
+python3 start.py
 ```
 
 ## Autre
@@ -32,7 +38,3 @@ Si problème lors de l'installation des librairies a cause de variance dans les 
 ```
 pip install --use-deprecated=legacy-resolver -r requirements.txt
 ```
-
-## Lien utiles : 
-
-Trello : https://trello.com/b/0uE73zkB/analyse-de-texte
