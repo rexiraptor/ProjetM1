@@ -39,19 +39,15 @@ def lexical_diversity(texte, a):
     return brunet_index, honore_stats, ratio_unique
 
 def emotionnal_analysis(texte):
-    # Charger le fichier FEEL.csv
     file_path = os.path.join(dict_path, "FEEL.csv")
     emotion_df = pd.read_csv(file_path, sep=";", encoding="utf-8")
-    emotion_df = emotion_df.drop(columns=["id", "polarity"])  # Supprimer les colonnes inutiles
-    
-    # Analyser le texte avec spaCy
+    emotion_df = emotion_df.drop(columns=["id", "polarity"]) 
+
     doc = nlp(texte)
     freq_list = Counter(token.text.lower() for token in doc if not token.is_punct and not token.is_stop)
-    
-    # Initialiser le dictionnaire des émotions
+
     emotion_dict = {"joy": 0, "fear": 0, "sadness": 0, "anger": 0, "surprise": 0, "disgust": 0}
 
-    # Mettre à jour les émotions
     for word in freq_list:
         if word in emotion_df["word"].values:
             emotion_row = emotion_df[emotion_df["word"] == word].iloc[0]

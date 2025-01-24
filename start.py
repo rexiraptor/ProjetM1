@@ -25,7 +25,7 @@ def test_server():
 def start_client():
     """Lance le script client (client.py)."""
     print("Lancement du client...")
-    subprocess.run(["python", "fastAPI/client.py"])  # Bloque l'exécution jusqu'à la fin du client
+    subprocess.run(["python", "fastAPI/request.py"])  # Bloque l'exécution jusqu'à la fin du client
 
 def main():
     server_process = start_server()
