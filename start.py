@@ -3,14 +3,12 @@ import time
 import requests
 
 def start_server():
-    """Lance le serveur FastAPI via fastapi/main.py."""
     print("Lancement du serveur FastAPI...")
-    process = subprocess.Popen(["python", "fastapi/main.py"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    process = subprocess.Popen(["python", "fastAPI/main.py"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     time.sleep(5)  # Attendre un peu pour que le serveur démarre
     return process
 
 def test_server():
-    """Vérifie si le serveur est prêt."""
     print("Vérification que le serveur est actif...")
     url = "http://127.0.0.1:8000"  # Adresse par défaut de FastAPI
     try:
@@ -23,7 +21,6 @@ def test_server():
     return False
 
 def start_client():
-    """Lance le script client (client.py)."""
     print("Lancement du client...")
     subprocess.run(["python", "fastAPI/request.py"])  # Bloque l'exécution jusqu'à la fin du client
 
