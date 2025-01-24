@@ -13,17 +13,14 @@ import datetime
 app = FastAPI()
 
 class Text(BaseModel):
-    texte: str = ""  # Initialiser avec une chaîne vide
+    texte: str = "" 
     phrase: Optional[List[str]] = []
     indicateurs: Optional[List[str]] = []
 
-# Chemin du fichier de résultats
 resultat_path = Path(os.getcwd()).parent / "resultat" / "indicateurs.json"
 
-# Créer le dossier 'resultat' s'il n'existe pas
 resultat_path.parent.mkdir(parents=True, exist_ok=True)
 
-# Charger ou créer un fichier JSON pour stocker les résultats
 def load_indicateurs():
     if resultat_path.exists():
         with open(resultat_path, 'r', encoding='utf-8') as f:
@@ -34,77 +31,63 @@ def save_indicateurs(data):
     with open(resultat_path, 'w', encoding='utf-8') as f:
         json.dump(data, f, ensure_ascii=False, indent=4)
 
-# Initialisation de l'instance Text
 txt = Text(texte="", phrase=[], indicateurs=[])
 
-# Route de test pour vérifier si le serveur fonctionne
 @app.get("/")
 def read_root():
     return {"Hello": "World"}
 
-# Endpoint pour initialiser le temps de départ
 @app.post("/init")
 def initialize_time():
     global time, started
-    time = datetime.datetime.now()  # Réinitialiser le temps de départ
-    started = 0  # Réinitialiser l'état
+    time = datetime.datetime.now() 
+    started = 0  
     return {"message": "Temps initialisé avec succès", "start_time": time.isoformat()}
 
-# Endpoint pour envoyer une phrase et recevoir ses indicateurs
+
 @app.post("/indic/sep")
-def send_phrase(item: Text):  # Utilisation du modèle Text pour accepter le corps de la requête
-    # Charger les indicateurs déjà enregistrés
+def send_phrase(item: Text): 
     data = load_indicateurs()
     time2 = datetime.datetime.now()
     timeDiff = int((time2 - time).total_seconds())
-    # Ajouter la nouvelle phrase au texte complet
-    txt.texte += " " + item.texte  # Concaténation au texte complet
-    txt.phrase.append(item.texte)  # Ajouter la phrase à la liste des phrases
-
-    # Calculer les indicateurs pour la phrase
+    txt.texte += " " + item.texte 
+    txt.phrase.append(item.texte) 
+    
     indicateurs_phrase = morpho.stats_morpho_all(txt.texte, "indicateurs", timeDiff)
 
-    # Remplacer les anciens indicateurs pour chaque nouvelle phrase
-    txt.indicateurs = [indicateurs_phrase]  # Remplacer l'ensemble d'indicateurs
+    txt.indicateurs = [indicateurs_phrase] 
 
-    # Sauvegarder les données mises à jour
     save_indicateurs(data)
 
-    # Mettre à jour les données avec le texte complet et les indicateurs
     data["texte_complet"] = {
         "texte": txt.texte,
-        "indicateurs": txt.indicateurs,  # Remplacer les anciens indicateurs par les nouveaux
+        "indicateurs": txt.indicateurs,  
         "phrases": txt.phrase
     }
 
-    # Sauvegarder la mise à jour dans le fichier JSON
     save_indicateurs(data)
 
     return {"texte": txt.texte, "indicateurs": txt.indicateurs, "texte_complet": data["texte_complet"]}
 
-# Endpoint pour récupérer les indicateurs du texte complet
 @app.get("/indic/")
 def get_indicateurs_complets():
     data = load_indicateurs()
     return data.get("texte_complet", {})
 
-# Endpoint pour envoyer une phrase partielle et recevoir ses indicateurs
 @app.post("/indic_part")
-def send_phrase_partiel(texte: dict):  # Seul le texte (phrase) est envoyé
+def send_phrase_partiel(texte: dict): 
     print(texte)
     texte = texte["texte"]
     time2 = datetime.datetime.now()
     timeDiff = int((time2 - time).total_seconds())
-    if not texte.strip():  # Vérifie que le texte n'est pas vide
+    if not texte.strip():  
         raise HTTPException(status_code=422, detail="Texte vide ou invalide.")
-    # Calculer les indicateurs pour la phrase
     indicateurs_phrase = morpho.stats_morpho_all(texte, "indicateurs", timeDiff)
     if not isinstance(indicateurs_phrase, dict):  
         raise HTTPException(status_code=500, detail="Format de données incorrect.")
     
     return {"indicateurs": indicateurs_phrase}
 
-# Endpoint pour récupérer les indicateurs d'une phrase par indice
 @app.get("/indic_phrase/{indice}")
 def get_indicateurs_par_indice(indice: int):
     data = load_indicateurs()
@@ -114,11 +97,9 @@ def get_indicateurs_par_indice(indice: int):
     phrases = data["texte_complet"]["phrases"]
     indicateurs = data["texte_complet"]["indicateurs"]
     
-    # Vérifier si l'indice est valide
     if indice < 0 or indice >= len(phrases):
         raise HTTPException(status_code=404, detail="Indice de phrase invalide.")
     
-    # Récupérer la phrase et les indicateurs associés
     phrase = phrases[indice]
     phrase_indicateurs = indicateurs[indice]
     
