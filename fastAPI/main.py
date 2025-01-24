@@ -7,6 +7,8 @@ import json
 from pathlib import Path
 sys.path.append(os.path.abspath(os.path.join(os.getcwd(), '..')))
 import morpho
+import datetime
+
 
 app = FastAPI()
 
@@ -40,18 +42,27 @@ txt = Text(texte="", phrase=[], indicateurs=[])
 def read_root():
     return {"Hello": "World"}
 
+# Endpoint pour initialiser le temps de départ
+@app.post("/init")
+def initialize_time():
+    global time, started
+    time = datetime.datetime.now()  # Réinitialiser le temps de départ
+    started = 0  # Réinitialiser l'état
+    return {"message": "Temps initialisé avec succès", "start_time": time.isoformat()}
+
 # Endpoint pour envoyer une phrase et recevoir ses indicateurs
 @app.post("/indic/sep")
 def send_phrase(item: Text):  # Utilisation du modèle Text pour accepter le corps de la requête
     # Charger les indicateurs déjà enregistrés
     data = load_indicateurs()
-
+    time2 = datetime.datetime.now()
+    timeDiff = int((time2 - time).total_seconds())
     # Ajouter la nouvelle phrase au texte complet
     txt.texte += " " + item.texte  # Concaténation au texte complet
     txt.phrase.append(item.texte)  # Ajouter la phrase à la liste des phrases
 
     # Calculer les indicateurs pour la phrase
-    indicateurs_phrase = morpho.stats_morpho_all(txt.texte, "indicateurs")
+    indicateurs_phrase = morpho.stats_morpho_all(txt.texte, "indicateurs", timeDiff)
 
     # Remplacer les anciens indicateurs pour chaque nouvelle phrase
     txt.indicateurs = [indicateurs_phrase]  # Remplacer l'ensemble d'indicateurs
@@ -78,13 +89,20 @@ def get_indicateurs_complets():
     return data.get("texte_complet", {})
 
 # Endpoint pour envoyer une phrase partielle et recevoir ses indicateurs
-@app.post("/indic_part/")
-def send_phrase_partiel(texte: str):  # Seul le texte (phrase) est envoyé
+@app.post("/indic_part")
+def send_phrase_partiel(texte: dict):  # Seul le texte (phrase) est envoyé
+    print(texte)
+    texte = texte["texte"]
+    time2 = datetime.datetime.now()
+    timeDiff = int((time2 - time).total_seconds())
+    if not texte.strip():  # Vérifie que le texte n'est pas vide
+        raise HTTPException(status_code=422, detail="Texte vide ou invalide.")
     # Calculer les indicateurs pour la phrase
-    indicateurs_phrase = morpho.stats_morpho_all(texte, "indicateurs")
+    indicateurs_phrase = morpho.stats_morpho_all(texte, "indicateurs", timeDiff)
+    if not isinstance(indicateurs_phrase, dict):  
+        raise HTTPException(status_code=500, detail="Format de données incorrect.")
     
-    # Retourner les indicateurs pour la phrase
-    return {"phrase": texte, "indicateurs": indicateurs_phrase}
+    return {"indicateurs": indicateurs_phrase}
 
 # Endpoint pour récupérer les indicateurs d'une phrase par indice
 @app.get("/indic_phrase/{indice}")

@@ -5,6 +5,7 @@ from collections import Counter
 import numpy as np
 import json
 from spacy.lang.fr.stop_words import STOP_WORDS
+import datetime
 
 nlp = spacy.load('fr_core_news_lg')
 dataset_path = os.path.join(os.path.dirname(__file__), "datasets/data_fr")
@@ -169,7 +170,7 @@ def stats_morpho(texte):
     verb_w_aux = verb_aux / total_phrase
     return pos_rates, total_count, rate_conjug, rate_inf, verb_w_obj, verb_w_subj, verb_w_aux, repetition_cons, mean_prop_sub
 
-def unit_analysis(texte):
+def unit_analysis(texte, timeDiff):
     doc = nlp(texte)
     has_unit = {}
     unit_ratio = {}
@@ -182,9 +183,9 @@ def unit_analysis(texte):
             unit_count[token.lemma_.lower()] += 1
     unit_ratio = {unit: count / total_words for unit, count in unit_count.items()}
     unique_concept_density = len(unit_count) / total_words if total_words > 0 else 0
-    unique_concept_efficiency = len(unit_count) / len(units_set) if units_set else 0
+    unique_concept_efficiency = len(unit_count) / timeDiff
     total_concept_density = sum(unit_count.values()) / total_words if total_words > 0 else 0
-    total_concept_efficiency = sum(unit_count.values()) / len(units_set) if units_set else 0
+    total_concept_efficiency = sum(unit_count.values()) / timeDiff
     has_unit = dict(unit_count)
     return has_unit, unit_ratio, unique_concept_efficiency, unique_concept_density, total_concept_density, total_concept_efficiency
 
@@ -202,13 +203,13 @@ def export_patient_dialogue(file_path):
     return str_dialogue
 
 
-def stats_morpho_all(patient_dialogue, nom_fichier):
+def stats_morpho_all(patient_dialogue, nom_fichier, timeDiff):
     pos_rates, total_word, rate_conj, rate_inf, verb_w_obj, verb_w_subj, verb_w_aux, repetition_cons, mean_prop_sub = stats_morpho(patient_dialogue)
     mean, range, std = stats_words(patient_dialogue)
     brunet_index, honore_stats, ratio_unique = lexical_diversity(patient_dialogue, 0.165)
     emotion_dict = emotionnal_analysis(patient_dialogue)
     score = positif_negatif(patient_dialogue)
-    has_unit, ratio_unit, unique_concept_efficiency, unique_concept_density, total_concept_density, total_concept_efficiency = unit_analysis(patient_dialogue)
+    has_unit, ratio_unit, unique_concept_efficiency, unique_concept_density, total_concept_density, total_concept_efficiency = unit_analysis(patient_dialogue, timeDiff)
     json_file = {
         "adj_rate" : pos_rates["ADJ"],
         "adp_rate" : pos_rates["ADP"],
@@ -254,5 +255,6 @@ def stats_morpho_all(patient_dialogue, nom_fichier):
     return json_file
 
 file_path = "DAMT_FR/FR_D0420-S1-T05.csv"
-file = stats_morpho_all(export_patient_dialogue(os.path.join(dataset_path, file_path)), file_path.split("/")[-1].split(".")[0])
+timeDiff = int(datetime.timedelta(seconds = 360).total_seconds())
+file = stats_morpho_all(export_patient_dialogue(os.path.join(dataset_path, file_path)), file_path.split("/")[-1].split(".")[0], timeDiff)
 
